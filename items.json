@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-09-04T06:00:00+05:30",
+  "items": [
+    {
+      "code": "55250010351001000",
+      "name": "MC-Injekt 2700     Komp. A  20L",
+      "system": "Injection",
+      "sixQty": 33,
+      "sixSales": 38280,
+      "threeQty": 0,
+      "threeSales": 0
+    },
+    {
+      "code": "55310000240101000",
+      "name": "MC-Injekt 2133       10L",
+      "system": "Injection",
+      "sixQty": 298,
+      "sixSales": 151690,
+      "threeQty": 26,
+      "threeSales": 12240
+    },
+    {
+      "code": "1000713691800160000",
+      "name": "MC-DUR PowerCoat  Komp. D    Blue    0.18Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0,
+      "sixSales": 0,
+      "threeQty": 0,
+      "threeSales": 0
+    }
+  ]
+}
