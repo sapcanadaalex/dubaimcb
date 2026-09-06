@@ -1,32 +1,4883 @@
 {
-  "generatedAt": "2026-09-04T06:00:00+05:30",
+  "generatedAt": "2026-09-06T17:33:53+00:00",
   "items": [
     {
-      "code": "55250010351001000",
-      "name": "MC-Injekt 2700     Komp. A  20L",
-      "system": "Injection",
-      "sixQty": 33,
-      "sixSales": 38280,
-      "threeQty": 0,
-      "threeSales": 0
+      "code": "00745110371001031",
+      "name": "MC-Rockmortar MW F   Grey    25Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
     },
     {
-      "code": "55310000240101000",
-      "name": "MC-Injekt 2133       10L",
-      "system": "Injection",
-      "sixQty": 298,
-      "sixSales": 151690,
-      "threeQty": 26,
-      "threeSales": 12240
+      "code": "00745111371001031",
+      "name": "MC-Rockmortar MW F+   Grey    25Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
     },
     {
-      "code": "1000713691800160000",
+      "code": "00745120371101031",
+      "name": "MC-Rockmortar MW G   Grey    25Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "00745121371101031",
+      "name": "MC-Rockmortar MW G+   Grey    25Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "00745130371001031",
+      "name": "MC-Rockmortar EX   Grey    25Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "00745131371001031",
+      "name": "MC-Rockmortar EX+   Grey    25Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "00745140371001031",
+      "name": "MC-Rockmortar HS   Grey    25Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "030302000102811",
+      "name": "MC-Injekt 1264 KF E   2.8 KG",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "030302011102011",
+      "name": "MC-Injekt  2300 TOP 20 LTR",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "030302011104011",
+      "name": "MC-Injekt 2700   40 L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "030302011105011",
+      "name": "MC-Injekt 3000 HPS   50.09 KG",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "030302011125411",
+      "name": "MC-Injekt RH     25.49Kg",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "030302011130611",
+      "name": "MC-Injekt GL-95  30.6 KG",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "030302011156411",
+      "name": "MC-Injekt GL-95 TX 56.4 KG",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "030303011104011",
+      "name": "MC-Injekt 2700 L   40 L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "030304011102011",
+      "name": "MC-Injekt 2300 FLOW  20 LTR",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "030401011104011",
+      "name": "MC-Montan Injekt LE-S       40L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "030401011105011",
+      "name": "MC-MONTAN Injekt TR-X  50.09Kg",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101000001811",
+      "name": "MC DUR 1150 GF  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101010801811",
+      "name": "MC DUR 1150 Light Grey  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101011000508",
+      "name": "MC-DUR EPW    White  5Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101029301811",
+      "name": "MC DUR 1150 RAL 293  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101100101811",
+      "name": "MC-DUR 1150 RAL 1001  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101301101811",
+      "name": "MC DUR 1150 RAL 3011  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101301301811",
+      "name": "MC DUR 1150 AE RAL 3013 18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101501701811",
+      "name": "MC DUR 1150 RAL 5017  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101601901811",
+      "name": "MC DUR 1150 RAL 6019  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101602901811",
+      "name": "MC DUR 1150 RAL 6029  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101603201811",
+      "name": "MC DUR 1150 RAL 6032  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101650201811",
+      "name": "MC DUR 1150 RAL 6502  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101700101811",
+      "name": "MC DUR 1150 RAL 7001  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101700401811",
+      "name": "MC DUR 1150 RAL 7004  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101701201811",
+      "name": "MC DUR 1150 RAL 7012  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101702401811",
+      "name": "MC DUR 1150 RAL 7024 18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101703001811",
+      "name": "MC DUR 1150 RAL 7030  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101703201811",
+      "name": "MC DUR 1150 RAL 7032  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101703501811",
+      "name": "MC DUR 1150 RAL 7035  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101703701811",
+      "name": "MC DUR 1150 RAL 7037  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101703801811",
+      "name": "MC DUR 1150 RAL 7038  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101704001811",
+      "name": "MC DUR 1150 RAL 7040  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101704001812",
+      "name": "MC DUR 1150 RAL 7047  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101704001813",
+      "name": "MC DUR 1150 RAL 7015  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101704201811",
+      "name": "MC DUR 1150 RAL 7042  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101704301811",
+      "name": "MC DUR 1150 RAL 7043  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101704501811",
+      "name": "MC DUR 1150 RAL 7045  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101704601811",
+      "name": "MC DUR 1150 RAL 7046  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101900301811",
+      "name": "MC DUR 1150 RAL 9003  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040101900501811",
+      "name": "MC DUR 1150 RAL 9005  18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040102000201811",
+      "name": "MC DUR 1150 VK   18 L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040406010002011",
+      "name": "MC-DUR PowerCoat 223  Blue  20 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040406010502011",
+      "name": "MC-DUR PowerCoat 223  Red  20 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040406010602011",
+      "name": "MC-DUR PowerCoat 223  Green  20 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040406010702011",
+      "name": "MC-DUR PowerCoat 223  D.Green  20 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040406010802011",
+      "name": "MC-DUR PowerCoat 223  L.Grey  20 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040406010902011",
+      "name": "MC-DUR PowerCoat 223  Yellow  20 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040407010002011",
+      "name": "MC-DUR PowerCoat 226  Blue  32 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040407010502011",
+      "name": "MC-DUR PowerCoat 226  Red  32 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040407010602011",
+      "name": "MC-DUR PowerCoat 226  Green  32 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040407010702011",
+      "name": "MC-DUR PowerCoat 226  D.Green  32 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040407010802011",
+      "name": "MC-DUR PowerCoat 226  L.Grey  20 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040407010902011",
+      "name": "MC-DUR PowerCoat 226  Yellow  32 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040507400302511",
+      "name": "MC-DUR SL 1120  RAL 4003   25KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040507501702511",
+      "name": "MC-DUR SL 1120  RAL 5017   25KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040507601802511",
+      "name": "MC-DUR SL 1120  RAL 6018 25KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040507602402511",
+      "name": "MC-DUR SL 1120  RAL 6024   25KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040507603402511",
+      "name": "MC-DUR SL 1120  RAL 6034   25KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040507700402511",
+      "name": "MC-DUR SL 1120  RAL 7004   25KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040507701202511",
+      "name": "MC-DUR SL 1120 RAL 7012   25KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040507702302511",
+      "name": "MC-DUR SL 1120  RAL 7023  25KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040507703702511",
+      "name": "MC-DUR SL 1120  RAL 7037   25KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040507704002511",
+      "name": "MC-DUR SL 1120  RAL 7040   25KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040507704202511",
+      "name": "MC-DUR SL 1120  RAL 7042   25KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040507900302511",
+      "name": "MC-DUR SL 1120 RAL 9003   25KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040507900502511",
+      "name": "MC-DUR SL 1120  RAL 9005   25KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040507901002511",
+      "name": "MC-DUR SL 1120  RAL 9010   25KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040608000101811",
+      "name": "MC-DUR 1200 VK AE  20 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040608000102811",
+      "name": "MC-DUR 1200 VK AE   2.8  Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040609000601511",
+      "name": "MC-DUR UL 5  15  L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040710000601511",
+      "name": "MC-DUR UL 10  15  L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "040811000627811",
+      "name": "MC-DUR ES 1500  27.8 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "060303010800611",
+      "name": "MC-Carbosolid 1209 TX    6 L",
+      "system": "Structural Strenghtening",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "060304010800611",
+      "name": "MC-Carbosolid 1280 TX AE  6 L",
+      "system": "Structural Strenghtening",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1000017219655730167",
+      "name": "MC-DUR Zinc Prime       1L",
+      "system": "Concrete Repair",
+      "sixQty": 5.0,
+      "sixSales": 425.0,
+      "threeQty": 5.0,
+      "threeSales": 425.0
+    },
+    {
+      "code": "100011481971090900101",
+      "name": "MC-CarbonFiber Lamella       [1.4mm*100mm*100mtr Roll]  1LM",
+      "system": "Structural Strenghtening",
+      "sixQty": 10.0,
+      "sixSales": 44073.6,
+      "threeQty": 10.0,
+      "threeSales": 44073.6
+    },
+    {
+      "code": "100021481971090900101",
+      "name": "MC-CarbonFiber Sheet   300 gm    [500mm*100mtr Roll]",
+      "system": "Structural Strenghtening",
+      "sixQty": 10.0,
+      "sixSales": 24975.04,
+      "threeQty": 10.0,
+      "threeSales": 24975.04
+    },
+    {
+      "code": "100021481971090900110",
+      "name": "MC-CarbonFiber Sheet   600 gm    [500mm*50mtr Roll]",
+      "system": "Structural Strenghtening",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1000314819690900101",
+      "name": "MC-CarbonFiber Anchor",
+      "system": "Structural Strenghtening",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1000713691800160404",
       "name": "MC-DUR PowerCoat  Komp. D    Blue    0.18Kg",
       "system": "Resin Flooring",
-      "sixQty": 0,
-      "sixSales": 0,
-      "threeQty": 0,
-      "threeSales": 0
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1000713691820160404",
+      "name": "MC-DUR PowerCoat  Komp. D    Red    0.18Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1000713691830160404",
+      "name": "MC-DUR PowerCoat  Komp. D    Green    0.18Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1000713691840160404",
+      "name": "MC-DUR PowerCoat  Komp. D    D.Green    0.18Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1000713699670160404",
+      "name": "MC-DUR PowerCoat  Komp. D    L.Grey    0.18Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1000813699690160101",
+      "name": "MC-DUR PowerCoat 223  Komp. A       2.85Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "10008136996901601011",
+      "name": "MC-DUR PowerCoat 223  Komp. A       1000Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1000813699690160202",
+      "name": "MC-DUR PowerCoat 223  Komp. B       3Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "10008136996901602021",
+      "name": "MC-DUR PowerCoat 223  Komp. B       1000Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1000813699690160303",
+      "name": "MC-DUR PowerCoat 223  Komp. C       14Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1000813699690170101",
+      "name": "MC-DUR PowerCoat 226  Komp. A       2.85Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1000813699690170202",
+      "name": "MC-DUR PowerCoat 226  Komp. B       3Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1000813699700160404",
+      "name": "MC-DUR PowerCoat  Komp. D    Yellow    0.18Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1001114859690230202",
+      "name": "MC-Carbosolid 1209 TX AE Komp. A       5Kg",
+      "system": "Concrete Repair",
+      "sixQty": 10.0,
+      "sixSales": 2747.59,
+      "threeQty": 10.0,
+      "threeSales": 2747.59
+    },
+    {
+      "code": "1001114859690240202",
+      "name": "MC-Carbosolid 1209 TX AE Komp. B       1.55Kg",
+      "system": "Concrete Repair",
+      "sixQty": 10.0,
+      "sixSales": 851.75,
+      "threeQty": 10.0,
+      "threeSales": 851.75
+    },
+    {
+      "code": "1001114859690250202",
+      "name": "MC-Carbosolid 1280 TX AE Komp. A       5.2Kg",
+      "system": "Concrete Repair",
+      "sixQty": 10.0,
+      "sixSales": 2652.58,
+      "threeQty": 10.0,
+      "threeSales": 2652.58
+    },
+    {
+      "code": "1001114859690260202",
+      "name": "MC-Carbosolid 1280 TX AE Komp. B       2Kg",
+      "system": "Concrete Repair",
+      "sixQty": 10.0,
+      "sixSales": 1020.22,
+      "threeQty": 10.0,
+      "threeSales": 1020.22
+    },
+    {
+      "code": "1001213699690370303",
+      "name": "MC-DUR PowerCoat 226 - Komp. C       26Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1001317229690900101",
+      "name": "MC Plan 120 AE       [2mm*2mtr*20mtr Roll]  20Mtr",
+      "system": "Membrane Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1001417339690900101",
+      "name": "MC Plan 312 AE       [1.2mm*1.2mtr.20mtr Roll]  20Mtr",
+      "system": "Membrane Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1001517249545750101",
+      "name": "MC-Color Flakes-   Black  1–3 mm  1Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1001617259525750101",
+      "name": "MC-Color Flakes-   White   1–3 mm  1Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1001717269525750101",
+      "name": "MC-Color Flakes-   White  5 mm  1Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1001817279695740202",
+      "name": "MC-PU Foam 45       470Kg    [Set 1]",
+      "system": "Surface Protection - Dispersion",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1001917289695760202",
+      "name": "MC- Proof 4200 HC AE  Komp. A   Grey    220Kg",
+      "system": "Surface Protection - Dispersion",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1001917289695770202",
+      "name": "MC- Proof 4200 HC AE  Komp. B       200Kg",
+      "system": "Surface Protection - Dispersion",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1001917289695790202",
+      "name": "MC- Proof 4200 HC  SA   Komp. A     220Kg",
+      "system": "Surface Protection - Resin",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1001917295645770000",
+      "name": "MC- Proof 4200 HC SA  RAL 5015  Komp. B    200Kg",
+      "system": "Surface Protection - Resin",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1002017292000140202",
+      "name": "MC-Carbosoild 1000  BC  Komp. A",
+      "system": "Structural Strenghtening",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1002017292000309202",
+      "name": "MC-Carbosoild 1000  BC  Komp. B",
+      "system": "Structural Strenghtening",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1002017801840190202",
+      "name": "MC-Carbosolid 1000",
+      "system": "Structural Strenghtening",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1002311899650350202",
+      "name": "MC-DUR 111 D  20Kg/Set",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1002417829695710101",
+      "name": "Mycoflex WW Band   200 mm  20 m  1Roll",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1002517839695710101",
+      "name": "Mycoflex WW Band  2mm x 300 mm  20 m  1Roll",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1002617847720280202",
+      "name": "MC-DUR TopSpeed Flex RAL 7032  Komp. A  11.98 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "11350000360101",
+      "name": "Centrament GA       20Kg",
+      "system": "Admixtures",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "11749660350101",
+      "name": "MC-Latex GP       20L",
+      "system": "Concrete Repair",
+      "sixQty": 62.0,
+      "sixSales": 8360.0,
+      "threeQty": 47.0,
+      "threeSales": 6120.0
+    },
+    {
+      "code": "1342070047/003",
+      "name": "Emcekrete EPT Komp. C       37.5Kg",
+      "system": "Grouts",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1342070048/003",
+      "name": "Emcekrete EP Komp. C       18Kg",
+      "system": "Grouts",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1342200014/003",
+      "name": "Emcekrete EPT Komp. B       2.15Kg",
+      "system": "Grouts",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1342200015/003",
+      "name": "Emcekrete EP Komp. B       1.2Kg",
+      "system": "Grouts",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1342200018/003",
+      "name": "Emcekrete EPT Komp. A       4.3Kg",
+      "system": "Grouts",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1342200019/003",
+      "name": "Emcekrete EP Komp. A       2.55Kg",
+      "system": "Grouts",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "150101000502011",
+      "name": "MC-Proof ® 500 Flex AE   20 Kg",
+      "system": "Mineral Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "150101000502311",
+      "name": "MC-Proof ® 500  AE   23KG",
+      "system": "Mineral Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "150101011002311",
+      "name": "MC-Proof ® 500 AE WHITE  23KG",
+      "system": "Mineral Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "150102000502011",
+      "name": "MC-Proof ® 501 Flex AE     20 KG",
+      "system": "Mineral Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "15171815710101",
+      "name": "MC-Waterstop PVC   IC-250    15m",
+      "system": "Membrane Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "15181815710101",
+      "name": "MC-Waterstop PVC   IC-200    15m",
+      "system": "Membrane Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "15191815710101",
+      "name": "MC-Waterstop PVC   IE-250    15m",
+      "system": "Membrane Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "158010003410011",
+      "name": "Centrament Proof CP 10 AE        12Kg",
+      "system": "Waterproofing Admixtures",
+      "sixQty": 2470.0,
+      "sixSales": 227547.31,
+      "threeQty": 2168.0,
+      "threeSales": 198723.31
+    },
+    {
+      "code": "171115169650350101",
+      "name": "Centrament Proof CWP       20Kg",
+      "system": "Waterproofing Admixtures",
+      "sixQty": 138.0,
+      "sixSales": 8490.0,
+      "threeQty": 36.0,
+      "threeSales": 1750.0
+    },
+    {
+      "code": "18710000271001",
+      "name": "Murafan 39   11 Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "18910700370111",
+      "name": "MC-Floor Easyplan    Classic AE    25Kg",
+      "system": "Screeds",
+      "sixQty": 382.0,
+      "sixSales": 15770.0,
+      "threeQty": 210.0,
+      "threeSales": 9450.0
+    },
+    {
+      "code": "18960700351001",
+      "name": "MC-Floor Easyplan Ultra       20Kg",
+      "system": "Screeds",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "190101000602011",
+      "name": "Emcekrete EPT   20 L",
+      "system": "Grouts",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "190102000601011",
+      "name": "Emcekrete EP 10 L",
+      "system": "Grouts",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "21100100541011031",
+      "name": "Ortolan Extra 741 AE      200  L",
+      "system": "Release Agents",
+      "sixQty": 20.0,
+      "sixSales": 23360.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "27309570391201031",
+      "name": "Emcoril   AC10    20Kg",
+      "system": "Curing Agents",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "33130910381001",
+      "name": "Nafuflex Basic 2       28Kg",
+      "system": "Bituminous Waterproofing",
+      "sixQty": 67.0,
+      "sixSales": 20412.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "33631810900101",
+      "name": "MC-Waterstop Expand   5  Mtr  1Roll",
+      "system": "Membrane Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "33631810910101",
+      "name": "MC-Waterstop Expand   10  Mtr  1Roll",
+      "system": "Membrane Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "33910000900001",
+      "name": "Nafuflex GRID 25 NF   50  lm  1Roll",
+      "system": "Bituminous Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "33910000900011",
+      "name": "MC FastTape 120    50 Mtr. Roll",
+      "system": "Bituminous Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "33933250900001",
+      "name": "Nafuflex DB 325   30  lm  1Roll",
+      "system": "Bituminous Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "34100700360101301",
+      "name": "MC-Proof ® 500 Flex AE Kpmp. A  24KG",
+      "system": "Mineral Waterproofing",
+      "sixQty": 2.0,
+      "sixSales": 144.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "341007003610111",
+      "name": "MC-Proof ® 500 Flex AE   Komp. A    15Kg",
+      "system": "Mineral Waterproofing",
+      "sixQty": 4874.0,
+      "sixSales": 208309.0,
+      "threeQty": 3152.0,
+      "threeSales": 135085.0
+    },
+    {
+      "code": "34100800360101",
+      "name": "MC-Proof ® 500 Flex AE  White  Komp. A  24KG",
+      "system": "Mineral Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "3410957022011001",
+      "name": "MC-Proof ® 500 Flex AE   Komp. B    5Kg",
+      "system": "Mineral Waterproofing",
+      "sixQty": 4874.0,
+      "sixSales": 70453.0,
+      "threeQty": 3152.0,
+      "threeSales": 46045.0
+    },
+    {
+      "code": "34109570220110031",
+      "name": "MC-Proof ® 500 Flex AE   Komp. B    8Kg",
+      "system": "Mineral Waterproofing",
+      "sixQty": 2.0,
+      "sixSales": 48.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "38030300052509",
+      "name": "MC-AnchorSolid E1030",
+      "system": "Adhesives",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "38030300053008",
+      "name": "MC-AnchorSolid GP816",
+      "system": "Adhesives",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "38030300053009",
+      "name": "MC-AnchorSolid V824 TR",
+      "system": "Adhesives",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "43090000350101",
+      "name": "Centricrete HCS",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "43100700370101",
+      "name": "Centricrete AE       20Kg",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "44000000190101",
+      "name": "Nafufill    KMH    5Kg",
+      "system": "Concrete Repair",
+      "sixQty": 16.0,
+      "sixSales": 480.0,
+      "threeQty": 5.0,
+      "threeSales": 150.0
+    },
+    {
+      "code": "44000000350101031",
+      "name": "Nafufill    KMH    20Kg",
+      "system": "Concrete Repair",
+      "sixQty": 1.0,
+      "sixSales": 200.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "44039990371040",
+      "name": "Ombran    HB    25Kg",
+      "system": "Surface Protection - Mineral",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "44040000371040",
+      "name": "Ombran    MHP    25Kg",
+      "system": "Surface Protection - Mineral",
+      "sixQty": 102.0,
+      "sixSales": 29070.0,
+      "threeQty": 7.0,
+      "threeSales": 1995.0
+    },
+    {
+      "code": "44050000350101",
+      "name": "Nafufill    BC    20Kg",
+      "system": "Concrete Repair",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "44120010370101",
+      "name": "Nafufill    GTS-HS    25Kg",
+      "system": "Concrete Repair",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "44170700371001",
+      "name": "Nafufill  KM 250 HS  25 Kg",
+      "system": "Concrete Repair",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "44300000370101",
+      "name": "Nafufill    KM 130    25Kg",
+      "system": "Concrete Repair",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "44470000370101033",
+      "name": "Nafufill    KM 250 AE    25Kg",
+      "system": "Concrete Repair",
+      "sixQty": 1242.0,
+      "sixSales": 20890.56,
+      "threeQty": 917.0,
+      "threeSales": 15777.56
+    },
+    {
+      "code": "44470020370101",
+      "name": "Nafufill    KM 110 HS    25Kg",
+      "system": "Concrete Repair",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "445309904701011",
+      "name": "MC-Floor Screed SC AE       25Kg",
+      "system": "Screeds",
+      "sixQty": 3190.0,
+      "sixSales": 38570.0,
+      "threeQty": 3170.0,
+      "threeSales": 38070.0
+    },
+    {
+      "code": "44581010370101",
+      "name": "MC-RIM   PW 101    25Kg",
+      "system": "Surface Protection - Mineral",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "44583010370101",
+      "name": "MC-RIM   PW 301    25Kg",
+      "system": "Surface Protection - Mineral",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "45210700371001031",
+      "name": "Nafufill    KM 106 AE    25Kg",
+      "system": "Concrete Repair",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "45210730371001",
+      "name": "Emcefix Spachtel F Lang Betongrau    25 Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "45240730371001",
+      "name": "Emcefix Spachtel F extra fein betongrau    25 Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "45540700371001",
+      "name": "Emcefix Spachtel G Ultra    25 Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "45750730291011031",
+      "name": "MC-Fast ST AE       5Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "45750730291101031",
+      "name": "MC-Fast ST AE       15Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 121.0,
+      "sixSales": 16600.0,
+      "threeQty": 35.0,
+      "threeSales": 4805.0
+    },
+    {
+      "code": "45760700311040",
+      "name": "Ombran    W    15Kg",
+      "system": "Surface Protection - Mineral",
+      "sixQty": 11.0,
+      "sixSales": 2250.0,
+      "threeQty": 7.0,
+      "threeSales": 1350.0
+    },
+    {
+      "code": "45790700241040",
+      "name": "Ombran    IW    10Kg",
+      "system": "Surface Protection - Mineral",
+      "sixQty": 3.0,
+      "sixSales": 660.0,
+      "threeQty": 3.0,
+      "threeSales": 660.0
+    },
+    {
+      "code": "47140700371040",
+      "name": "Ombran    ASP    25Kg",
+      "system": "Surface Protection - Mineral",
+      "sixQty": 23.0,
+      "sixSales": 6570.0,
+      "threeQty": 2.0,
+      "threeSales": 570.0
+    },
+    {
+      "code": "47720020241001",
+      "name": "Emcephob HSL-W",
+      "system": "Surface Protection - Mineral",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "48100700370101",
+      "name": "Emcekrete   CPT    25Kg",
+      "system": "Grouts",
+      "sixQty": 920.0,
+      "sixSales": 20240.0,
+      "threeQty": 920.0,
+      "threeSales": 20240.0
+    },
+    {
+      "code": "48100700370101031",
+      "name": "Emcekrete   UW    25Kg",
+      "system": "Grouts",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "49180990370101032",
+      "name": "M21   Tile Adhesive    25Kg",
+      "system": "Tile Adhesive",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "49180990370101132",
+      "name": "M18   Tile Adhesive    25Kg",
+      "system": "Tile Adhesive",
+      "sixQty": 2439.0,
+      "sixSales": 31707.0,
+      "threeQty": 1799.0,
+      "threeSales": 23387.0
+    },
+    {
+      "code": "491809903701411032",
+      "name": "M32   Tile Grout   10Kg",
+      "system": "Tile Adhesive",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50061510350202",
+      "name": "MC-DUR 1150   RAL 1001  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50063600370101",
+      "name": "MC DUR 1150   RAL 3013  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50065550350111031",
+      "name": "MC-DUR EPW    White  Komp A.  4.25Kg",
+      "system": "Resin Flooring",
+      "sixQty": 117.0,
+      "sixSales": 11402.75,
+      "threeQty": 11.0,
+      "threeSales": 1117.75
+    },
+    {
+      "code": "50065550351101031",
+      "name": "MC-DUR EPW       Komp B.  0.75Kg",
+      "system": "Surface Protection - Resin",
+      "sixQty": 117.0,
+      "sixSales": 2012.25,
+      "threeQty": 11.0,
+      "threeSales": 197.25
+    },
+    {
+      "code": "50065550370101",
+      "name": "MC DUR 1150   RAL 5005  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50066790550101A",
+      "name": "MC DUR 1150   RAL 6032  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 7.0,
+      "sixSales": 2678.05,
+      "threeQty": 7.0,
+      "threeSales": 2678.05
+    },
+    {
+      "code": "50066790551101",
+      "name": "MC DUR 1150   RAL 7004  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 58.0,
+      "sixSales": 18470.51,
+      "threeQty": 31.0,
+      "threeSales": 9342.02
+    },
+    {
+      "code": "500667905511011",
+      "name": "MC DUR 1150   RAL 7001  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 2.0,
+      "sixSales": 346.99,
+      "threeQty": 2.0,
+      "threeSales": 346.99
+    },
+    {
+      "code": "500667905511011031",
+      "name": "MC DUR 1150   RAL 7012  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 20.0,
+      "sixSales": 6939.79,
+      "threeQty": 20.0,
+      "threeSales": 6939.79
+    },
+    {
+      "code": "500667905511012031",
+      "name": "MC DUR 1150   RAL 6024  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 9.0,
+      "sixSales": 0.0,
+      "threeQty": 8.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "5006679055120031",
+      "name": "MC DUR 1150   RAL 7033  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 84.0,
+      "sixSales": 29147.11,
+      "threeQty": 84.0,
+      "threeSales": 29147.11
+    },
+    {
+      "code": "50066790551201",
+      "name": "MC DUR 1150   RAL 7005  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 176.0,
+      "sixSales": 65185.5,
+      "threeQty": 101.0,
+      "threeSales": 38053.73
+    },
+    {
+      "code": "50066790551211",
+      "name": "MC Silica Sand 0.100-0.300",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50066790557047A",
+      "name": "MC DUR 1150   RAL 7047  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 30.0,
+      "sixSales": 10409.7,
+      "threeQty": 30.0,
+      "threeSales": 10409.7
+    },
+    {
+      "code": "50066791551101",
+      "name": "MC DUR 1150   RAL 7040  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 102.0,
+      "sixSales": 32145.46,
+      "threeQty": 81.0,
+      "threeSales": 25917.45
+    },
+    {
+      "code": "500667915511011",
+      "name": "MC DUR 1150   RAL 7044  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 3.0,
+      "sixSales": 934.2,
+      "threeQty": 3.0,
+      "threeSales": 934.2
+    },
+    {
+      "code": "500667915511031",
+      "name": "MC DUR 1150   RAL 7042  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 42.0,
+      "sixSales": 14502.38,
+      "threeQty": 42.0,
+      "threeSales": 14502.38
+    },
+    {
+      "code": "5006679155110311",
+      "name": "MC DUR 1150   RAL 6502  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "5006679155111",
+      "name": "MC DUR 1150   RAL 5017  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 14.0,
+      "sixSales": 2295.47,
+      "threeQty": 14.0,
+      "threeSales": 2295.47
+    },
+    {
+      "code": "50067753701010301",
+      "name": "MC DUR 1150   RAL 7035  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 189.0,
+      "sixSales": 54797.64,
+      "threeQty": 104.0,
+      "threeSales": 34271.89
+    },
+    {
+      "code": "500677537010103011",
+      "name": "MC DUR 1150   RAL 3011  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 70.0,
+      "sixSales": 26157.66,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "500677537010103012",
+      "name": "MC DUR 1150   RAL 1015  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 20.0,
+      "sixSales": 7687.15,
+      "threeQty": 5.0,
+      "threeSales": 1921.79
+    },
+    {
+      "code": "500677537010111301",
+      "name": "MC DUR 1150   RAL 7045  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 5.0,
+      "sixSales": 2446.72,
+      "threeQty": 5.0,
+      "threeSales": 2446.72
+    },
+    {
+      "code": "50067753701011301",
+      "name": "MC DUR 1150   RAL 6019  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50067753701100301",
+      "name": "MC DUR 1150   RAL 7036  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 60.0,
+      "sixSales": 18684.04,
+      "threeQty": 20.0,
+      "threeSales": 6228.01
+    },
+    {
+      "code": "50067753701110301",
+      "name": "MC DUR 1150   RAL 7037  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 267.0,
+      "sixSales": 88517.88,
+      "threeQty": 267.0,
+      "threeSales": 88517.88
+    },
+    {
+      "code": "50067753701111301",
+      "name": "MC DUR 1150   RAL 6029  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "500677537011113011",
+      "name": "MC DUR 1150   RAL 3016  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 27.0,
+      "sixSales": 10329.61,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50067753701111311",
+      "name": "MC DUR 1150   RAL 9003  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50067753711010301",
+      "name": "MC DUR 1150   RAL 7030  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 31.0,
+      "sixSales": 10756.67,
+      "threeQty": 25.0,
+      "threeSales": 8674.74
+    },
+    {
+      "code": "50067753711011301",
+      "name": "MC DUR 1150   RAL 7039  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 120.0,
+      "sixSales": 40571.06,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "500677537111113011",
+      "name": "MC DUR 1150   RAL 6021  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 6.0,
+      "sixSales": 2295.47,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50067780370202",
+      "name": "MC DUR 1150   RAL 7038  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 85.0,
+      "sixSales": 29503.0,
+      "threeQty": 84.0,
+      "threeSales": 29147.11
+    },
+    {
+      "code": "50067780370225",
+      "name": "MC DUR 1150   RAL 293  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50067780377032",
+      "name": "MC DUR 1150   RAL 7032  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50067780380202",
+      "name": "MC DUR 1150   DARK BROW GREY   Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50067780381202",
+      "name": "MC DUR 1150   MISTY GREY   Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 48.0,
+      "sixSales": 14947.23,
+      "threeQty": 48.0,
+      "threeSales": 14947.23
+    },
+    {
+      "code": "50067780381203",
+      "name": "MC DUR 1150   Magnam 75   Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50067780381204",
+      "name": "MC DUR 1150   RAL 7015   Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 8.0,
+      "sixSales": 2775.92,
+      "threeQty": 8.0,
+      "threeSales": 2775.92
+    },
+    {
+      "code": "50067780381205",
+      "name": "MC DUR 1150   RAL 7022   Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 15.0,
+      "sixSales": 4671.01,
+      "threeQty": 15.0,
+      "threeSales": 4671.01
+    },
+    {
+      "code": "50067820550101031",
+      "name": "MC DUR 1150   RAL 7024  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 15.0,
+      "sixSales": 4671.01,
+      "threeQty": 15.0,
+      "threeSales": 4671.01
+    },
+    {
+      "code": "50067820550101A",
+      "name": "MC DUR 1150   RAL 7043  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "500678205510101031",
+      "name": "MC DUR 1150   RAL 9005  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50067850170101031",
+      "name": "MC DUR 1150     Komp B.  3.11Kg",
+      "system": "Resin Flooring",
+      "sixQty": 1668.0,
+      "sixSales": 66905.76,
+      "threeQty": 1008.0,
+      "threeSales": 41707.03
+    },
+    {
+      "code": "50067850170111031",
+      "name": "MC DUR 1150     Komp B.  3.585 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 125.0,
+      "sixSales": 6751.18,
+      "threeQty": 60.0,
+      "threeSales": 3240.56
+    },
+    {
+      "code": "50067850171101031",
+      "name": "MC DUR 1250     Komp B.  4Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50067850350101031",
+      "name": "MC DUR 1150   RAL 7046  Komp A.  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 296.0,
+      "sixSales": 85145.84,
+      "threeQty": 65.0,
+      "threeSales": 20312.22
+    },
+    {
+      "code": "50067850351101031",
+      "name": "MC DUR 1250   RAL 7037  Komp A.  28Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50200000410101",
+      "name": "MC DUR 1150 VK     Komp A.  14.4L",
+      "system": "Resin Flooring",
+      "sixQty": 339.0,
+      "sixSales": 93440.0,
+      "threeQty": 113.0,
+      "threeSales": 33408.0
+    },
+    {
+      "code": "502000004101011",
+      "name": "MC DUR 1150 VK     Komp A.  11.3L",
+      "system": "Resin Flooring",
+      "sixQty": 158.0,
+      "sixSales": 36740.7,
+      "threeQty": 158.0,
+      "threeSales": 36740.7
+    },
+    {
+      "code": "50200000450101",
+      "name": "MC DUR 1150 VK     Komp B.  3.6L",
+      "system": "Resin Flooring",
+      "sixQty": 339.0,
+      "sixSales": 23360.0,
+      "threeQty": 113.0,
+      "threeSales": 8352.0
+    },
+    {
+      "code": "502000004501011",
+      "name": "MC-DUR 1150 VK   18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "5020000045010111",
+      "name": "MC DUR 1150 VK     Komp B.  6.7L",
+      "system": "Resin Flooring",
+      "sixQty": 158.0,
+      "sixSales": 21784.3,
+      "threeQty": 158.0,
+      "threeSales": 21784.3
+    },
+    {
+      "code": "50210002240101",
+      "name": "MC-DUR  GLW",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "50750010300101",
+      "name": "MC-DUR 1177 WV-A    Komp B.  13.20 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 66.0,
+      "sixSales": 40347.88,
+      "threeQty": 66.0,
+      "threeSales": 40347.88
+    },
+    {
+      "code": "50750010320101",
+      "name": "MC-DUR 1177 WV-A   Komp A.  16.8 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 66.0,
+      "sixSales": 51351.68,
+      "threeQty": 66.0,
+      "threeSales": 51351.68
+    },
+    {
+      "code": "50750013240101",
+      "name": "MC-DUR 1177 WV-A   10 KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "510515129680120202",
+      "name": "MC DUR    EP  Komp A.  0.875Kg",
+      "system": "Concrete Repair",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "510515129680130202",
+      "name": "MC DUR    EP  Komp B.  0.305Kg",
+      "system": "Concrete Repair",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "5105172096501420167",
+      "name": "MC-DUR   UL 5  Komp B.  2.385Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "5105172096502020167",
+      "name": "MC-DUR   UL 5  Komp A.  5.48Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "5105172096503520167",
+      "name": "MC-DUR   UL 5  Komp C.  20Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "5105173096501320167",
+      "name": "MC-DUR   UL 10  Komp B.  1.5Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "5105173096501820167",
+      "name": "MC-DUR   UL 10  Komp A.  4Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "5105173096503820167",
+      "name": "MC-DUR   UL 10  Komp C.  28Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "5170001316110001",
+      "name": "MC-DUR 1200 VK AE   Komp A.    15Kg",
+      "system": "Resin Flooring",
+      "sixQty": 86.0,
+      "sixSales": 27195.0,
+      "threeQty": 82.0,
+      "threeSales": 27195.0
+    },
+    {
+      "code": "51700013161101031",
+      "name": "MC-DUR 1200 VK AE   Komp A.    2.1Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "517000131621010031",
+      "name": "MC-DUR 1200 VK AE   Komp B.    5Kg",
+      "system": "Resin Flooring",
+      "sixQty": 86.0,
+      "sixSales": 9065.0,
+      "threeQty": 82.0,
+      "threeSales": 9065.0
+    },
+    {
+      "code": "51700013162101031",
+      "name": "MC-DUR 1200 VK AE   Komp B.    0.7Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "52070810351001",
+      "name": "MC-Montan Injekt CB     Komp. A  20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "52070830351001",
+      "name": "MC-Montan Injekt CB     Komp. B  20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "52090010351001",
+      "name": "MC-Montan Injekt CI     Komp. A  20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "52090020351001",
+      "name": "MC-Montan Injekt CI     Komp. B  20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54390010160101",
+      "name": "MC-DUR 2095 M     Komp. B  2.6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54390010220101",
+      "name": "MC-DUR 2095 M     Komp. A  7.4Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54670010211002",
+      "name": "MC-DUR TopSpeed SC     Komp  A  6.25Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54670020171002",
+      "name": "MC-DUR TopSpeed SC     Komp  B  3.75Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54680010170101",
+      "name": "MC-Dur TopSpeed M Komp. A - 3.16 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54680010210101",
+      "name": "MC-DUR TopSpeed M     Komp  A  6.33Kg",
+      "system": "Resin Flooring",
+      "sixQty": 122.0,
+      "sixSales": 71607.76,
+      "threeQty": 122.0,
+      "threeSales": 71607.76
+    },
+    {
+      "code": "54680020130101",
+      "name": "MC-Floor TopSpeed  M KOMP. B    1.84 KG     Komp. B  1.84Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54680020170101",
+      "name": "MC-DUR TopSpeed M     Komp  B  3.67Kg",
+      "system": "Resin Flooring",
+      "sixQty": 122.0,
+      "sixSales": 41517.66,
+      "threeQty": 122.0,
+      "threeSales": 41517.66
+    },
+    {
+      "code": "54690010191001",
+      "name": "MC-DUR TopSpeed T     Komp  A  5.32Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54690020181001",
+      "name": "MC-DUR TopSpeed T     Komp  B  4.68Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54700010170101",
+      "name": "MC-DUR 2496 CTP     Komp. B  3.55Kg",
+      "system": "Surface Protection - Resin",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54700010260101",
+      "name": "MC-DUR 2496 CTP     Komp. B  10.65Kg",
+      "system": "Surface Protection - Resin",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54700700210101",
+      "name": "MC-DUR 2496 CTP   MC-Grau  Komp. A  6.45Kg",
+      "system": "Surface Protection - Resin",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54701130210101",
+      "name": "MC-DUR 2496 CTP   RAL 1013  Komp. A  6.45Kg",
+      "system": "Surface Protection - Resin",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54707320210101",
+      "name": "MC-DUR 2496 CTP   RAL 7032  Komp. A  6.45Kg",
+      "system": "Surface Protection - Resin",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54707320340101",
+      "name": "MC-DUR 2496 CTP   RAL 7032  Komp. A  19.35Kg",
+      "system": "Surface Protection - Resin",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54707350210101",
+      "name": "MC-DUR 2496 CTP   RAL 7035  Komp. A  6.45Kg",
+      "system": "Surface Protection - Resin",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54709100210101",
+      "name": "MC-DUR 2496 CTP   RAL 9010  Komp. A  6.45Kg",
+      "system": "Surface Protection - Resin",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54710010170101",
+      "name": "MC-DUR TopSpeed       Komp. B  3.56Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54717400210101",
+      "name": "MC-DUR TopSpeed     RAL 7040       6.44Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54717420210101",
+      "name": "MC-DUR TopSpeed     RAL 7042    6.44Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54717460210101",
+      "name": "MC-DUR TopSpeed     RAL 7046    6.44Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54717900210101",
+      "name": "MC-DUR TopSpeed      SFT 18-069     6.44Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54740010180101",
+      "name": "MC-DUR TopSpeed flex     Komp. B  4.01 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 324.0,
+      "sixSales": 123421.03,
+      "threeQty": 324.0,
+      "threeSales": 123421.03
+    },
+    {
+      "code": "54740010230101",
+      "name": "MC-DUR TopSpeed flex     Komp. B  8.02 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54741020190101",
+      "name": "MC-DUR TopSpeed Flex RAL 1015  Komp. A  5.99 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 324.0,
+      "sixSales": 184355.9,
+      "threeQty": 324.0,
+      "threeSales": 184355.9
+    },
+    {
+      "code": "54741150190101",
+      "name": "MC-DUR TopSpeed flex RAL 1015  Komp. A  11.98 Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54750010170101",
+      "name": "MC-DUR TopSpeed     Komp  B  3.56Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54751020210101",
+      "name": "MC-DUR TopSpeed RAL 9010  6.44 KG   RAL 9010    6.44Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54751230210101",
+      "name": "MC-DUR TopSpeed     RAL 1023    6.44Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54755170210101",
+      "name": "MC-DUR TopSpeed     RAL 5017    6.44Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54757320210101",
+      "name": "MC-DUR TopSpeed   RAL 7032  Komp  A  6.44Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54757350210101",
+      "name": "MC-DUR TopSpeed     RAL 7035    6.44Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54800010170101",
+      "name": "MC-DUR TopSpeed  ESD  Komp. B  3.33 KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "54807300210101",
+      "name": "MC-DUR TopSpeed  ESD  RAL 7030  6.67 KG",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55070010240101031",
+      "name": "MC-Injekt 2300 top     Komp. A  10L",
+      "system": "Injection",
+      "sixQty": 251.0,
+      "sixSales": 146550.0,
+      "threeQty": 132.0,
+      "threeSales": 75900.0
+    },
+    {
+      "code": "55070014711001",
+      "name": "MC-Injekt 2300 top     Komp. A  1000L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55070020240101031",
+      "name": "MC-Injekt 2300 top     Komp. B  10L",
+      "system": "Injection",
+      "sixQty": 251.0,
+      "sixSales": 146550.0,
+      "threeQty": 132.0,
+      "threeSales": 75900.0
+    },
+    {
+      "code": "55070024711001",
+      "name": "MC-Injekt 2300 top     Komp. B  1000L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55080010240101",
+      "name": "MC-Injekt 2300 flow     Komp. A  10L",
+      "system": "Injection",
+      "sixQty": 664.0,
+      "sixSales": 306160.0,
+      "threeQty": 502.0,
+      "threeSales": 226930.0
+    },
+    {
+      "code": "55080014710101",
+      "name": "MC-Injekt 2300 flow     Komp. A  1000L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55080020240101",
+      "name": "MC-Injekt 2300 flow     Komp. B  10L",
+      "system": "Injection",
+      "sixQty": 664.0,
+      "sixSales": 306160.0,
+      "threeQty": 502.0,
+      "threeSales": 226930.0
+    },
+    {
+      "code": "55080024710101",
+      "name": "MC-Injekt 2300 flow     Komp. B  1000L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55080100061001",
+      "name": "MC-KAT 22        0.4L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55210010350101",
+      "name": "MC-Montan Injekt FR       20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55220010350101",
+      "name": "MC-Montan Injekt FN       20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55250002051001",
+      "name": "MC-Fastpack 2700       0.4L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55250010351001031",
+      "name": "MC-Injekt 2700     Komp. A  20L",
+      "system": "Injection",
+      "sixQty": 42.0,
+      "sixSales": 50060.0,
+      "threeQty": 9.0,
+      "threeSales": 11700.0
+    },
+    {
+      "code": "55250010351031031",
+      "name": "MC-Injekt 2700     Komp. A  20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55250014711001",
+      "name": "MC-Injekt 2700     Komp. A  1000L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55250020351001031",
+      "name": "MC-Injekt 2700     Komp. B  20L",
+      "system": "Injection",
+      "sixQty": 42.0,
+      "sixSales": 50060.0,
+      "threeQty": 9.0,
+      "threeSales": 11700.0
+    },
+    {
+      "code": "55250024711001",
+      "name": "MC-Injekt 2700     Komp. B  1000L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55250100061001",
+      "name": "MC-KAT 27        0.4L",
+      "system": "Injection",
+      "sixQty": 10.0,
+      "sixSales": 556.0,
+      "threeQty": 10.0,
+      "threeSales": 556.0
+    },
+    {
+      "code": "55250300061001",
+      "name": "MC-Additiv ST       0.4L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55250500061001",
+      "name": "MC-Additiv FS       0.4L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55270010350101",
+      "name": "MC-Montan Injekt FS     Komp. A  20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55270010351001031",
+      "name": "MC-Injekt 2700 L     Komp. A  20L",
+      "system": "Injection",
+      "sixQty": 42.0,
+      "sixSales": 58500.0,
+      "threeQty": 35.0,
+      "threeSales": 49000.0
+    },
+    {
+      "code": "55270014711001",
+      "name": "MC-Injekt 2700 L     Komp. A  1000L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55270014711002",
+      "name": "MC-Montan Injekt LE-S    Additive R    1000L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55270020350101",
+      "name": "MC-Montan Injekt FS     Komp. A  20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55270020351001031",
+      "name": "MC-Injekt 2700 L     Komp. B  20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55270020351001032",
+      "name": "MC-Injekt 2700 L     Komp. B  20L",
+      "system": "Injection",
+      "sixQty": 42.0,
+      "sixSales": 58500.0,
+      "threeQty": 35.0,
+      "threeSales": 49000.0
+    },
+    {
+      "code": "55270020351101032",
+      "name": "MC-Montan Injekt F     Komp. B  20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55270024711001",
+      "name": "MC-Injekt 2700 L     Komp. B  1000L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55300002240101",
+      "name": "MC-Injekt 2033       10L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55300100061001",
+      "name": "MC-KAT 20       0.4L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55310000240101031",
+      "name": "MC-Injekt 2133       10L",
+      "system": "Injection",
+      "sixQty": 486.0,
+      "sixSales": 254500.0,
+      "threeQty": 320.0,
+      "threeSales": 166360.0
+    },
+    {
+      "code": "55320010360001031",
+      "name": "MC-Montan Injekt LE-S     Komp. A  20L",
+      "system": "Injection",
+      "sixQty": 844.0,
+      "sixSales": 1040430.4,
+      "threeQty": 448.0,
+      "threeSales": 538290.4
+    },
+    {
+      "code": "55320010360101",
+      "name": "MC-Montan Injekt LE-S     Komp. A  20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55320010360101031",
+      "name": "MC-Montan Injekt LE-S     Komp AA.  20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "553200103601010321",
+      "name": "MC-Montan Injekt LE-S       40L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55320014711001",
+      "name": "MC-Montan Injekt LE-S     Komp. A  1000L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55320020360101031",
+      "name": "MC-Montan Injekt LE-S     Komp. B  20L",
+      "system": "Injection",
+      "sixQty": 844.0,
+      "sixSales": 1040430.4,
+      "threeQty": 448.0,
+      "threeSales": 538290.4
+    },
+    {
+      "code": "55320020360111031",
+      "name": "MC-Montan Inject Grout AE       20Kg",
+      "system": "Injection",
+      "sixQty": 593.0,
+      "sixSales": 29914.0,
+      "threeQty": 593.0,
+      "threeSales": 29914.0
+    },
+    {
+      "code": "55320024711001",
+      "name": "MC-Montan Injekt LE-S     Komp. B  1000L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55321000350101",
+      "name": "MC-Montan Injekt LE-S 100     Komp. A  20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55321000350101031",
+      "name": "MC-Montan Injekt LE-S 100       40L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55321004710101",
+      "name": "MC-Montan Injekt LE-S 100     Komp. A  1000L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55321004710101031",
+      "name": "MC-Montan Injekt LE-S 100       2000L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55340010350101",
+      "name": "MC-Montan Injekt LE    Komp. A  20L",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "5537000024005031",
+      "name": "MC-Injekt 2111     SA  5Kg",
+      "system": "Injection",
+      "sixQty": 3200.0,
+      "sixSales": 655550.0,
+      "threeQty": 2800.0,
+      "threeSales": 582550.0
+    },
+    {
+      "code": "55370000241101031",
+      "name": "MC-Injekt 2111     AE  10Kg",
+      "system": "Injection",
+      "sixQty": 780.0,
+      "sixSales": 379860.0,
+      "threeQty": 304.0,
+      "threeSales": 155070.0
+    },
+    {
+      "code": "55370004711001032",
+      "name": "MC-Injekt 2111     SF  1000Kg",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "553900000240101",
+      "name": "MC-Injekt PowerSeal     G",
+      "system": "Injection",
+      "sixQty": 53.0,
+      "sixSales": 42100.0,
+      "threeQty": 38.0,
+      "threeSales": 29500.0
+    },
+    {
+      "code": "55400040191001",
+      "name": "MC-Injekt Retarder GL       5Kg",
+      "system": "Injection",
+      "sixQty": 30.0,
+      "sixSales": 4500.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55420050371001031",
+      "name": "MC-Injekt GL-95 TX     B1  25.8Kg",
+      "system": "Injection",
+      "sixQty": 147.0,
+      "sixSales": 185060.82,
+      "threeQty": 77.0,
+      "threeSales": 93548.22
+    },
+    {
+      "code": "55420054711001",
+      "name": "MC-Injekt GL-95 TX     B1  1000Kg",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55430010381001",
+      "name": "MC-Injekt GL-95     A1  27.6Kg",
+      "system": "Injection",
+      "sixQty": 23.0,
+      "sixSales": 28096.8,
+      "threeQty": 1.0,
+      "threeSales": 1600.8
+    },
+    {
+      "code": "55430010381001031",
+      "name": "MC-Injekt GL-95     A1  27.6Kg",
+      "system": "Injection",
+      "sixQty": 325.0,
+      "sixSales": 390843.6,
+      "threeQty": 77.0,
+      "threeSales": 102506.4
+    },
+    {
+      "code": "55430013611001",
+      "name": "MC-INJEKT 3000 HPS A1   960 KG",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55430014721001",
+      "name": "MC-Injekt GL-95 A1   960 KG",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55430020071001",
+      "name": "MC-Injekt GL-95     A2  0.5Kg",
+      "system": "Injection",
+      "sixQty": 348.0,
+      "sixSales": 25785.15,
+      "threeQty": 78.0,
+      "threeSales": 6603.65
+    },
+    {
+      "code": "55430040071001031",
+      "name": "MC-Injekt GL-95     B  0.5Kg",
+      "system": "Injection",
+      "sixQty": 348.0,
+      "sixSales": 14110.95,
+      "threeQty": 78.0,
+      "threeSales": 3671.45
+    },
+    {
+      "code": "55430130131001",
+      "name": "MC-Injekt GL-95     A3  2Kg",
+      "system": "Injection",
+      "sixQty": 348.0,
+      "sixSales": 26541.6,
+      "threeQty": 78.0,
+      "threeSales": 6302.0
+    },
+    {
+      "code": "55540010360101",
+      "name": "MC-Montan Injekt TR-X     A1  23.8Kg",
+      "system": "Injection",
+      "sixQty": 370.0,
+      "sixSales": 326972.0,
+      "threeQty": 229.0,
+      "threeSales": 208448.0
+    },
+    {
+      "code": "55540010361001",
+      "name": "MC-Injekt 3000 HPS     A1  23.8Kg",
+      "system": "Injection",
+      "sixQty": 8.0,
+      "sixSales": 9282.0,
+      "threeQty": 6.0,
+      "threeSales": 6664.0
+    },
+    {
+      "code": "55540020110101",
+      "name": "MC-Montan Injekt TR-X     A2  1.2Kg",
+      "system": "Injection",
+      "sixQty": 370.0,
+      "sixSales": 16350.6,
+      "threeQty": 229.0,
+      "threeSales": 10424.4
+    },
+    {
+      "code": "55540020111001",
+      "name": "MC-Injekt 3000 HPS     A2  1.19Kg",
+      "system": "Injection",
+      "sixQty": 8.0,
+      "sixSales": 464.1,
+      "threeQty": 6.0,
+      "threeSales": 333.2
+    },
+    {
+      "code": "55540030360101",
+      "name": "MC-Montan Injekt TR-X     B1  24.6Kg",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55540030361001031",
+      "name": "MC-Injekt 3000 HPS     B1  24.6Kg",
+      "system": "Injection",
+      "sixQty": 8.0,
+      "sixSales": 9594.0,
+      "threeQty": 6.0,
+      "threeSales": 6888.0
+    },
+    {
+      "code": "55540034711001",
+      "name": "MC-Injekt 3000 HPS     B1  1000Kg",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55540040070101",
+      "name": "MC-Montan Injekt TR-X     B2  0.5Kg",
+      "system": "Injection",
+      "sixQty": 370.0,
+      "sixSales": 6870.0,
+      "threeQty": 229.0,
+      "threeSales": 4380.0
+    },
+    {
+      "code": "55540040071001",
+      "name": "MC-Injekt 3000 HPS     B2  0.5Kg",
+      "system": "Injection",
+      "sixQty": 8.0,
+      "sixSales": 195.0,
+      "threeQty": 6.0,
+      "threeSales": 140.0
+    },
+    {
+      "code": "55540700070101",
+      "name": "MC-Injekt RH     B  0.5Kg",
+      "system": "Injection",
+      "sixQty": 5.0,
+      "sixSales": 150.0,
+      "threeQty": 5.0,
+      "threeSales": 150.0
+    },
+    {
+      "code": "55540700120101",
+      "name": "MC-Injekt RH     A2  1.19Kg",
+      "system": "Injection",
+      "sixQty": 5.0,
+      "sixSales": 357.0,
+      "threeQty": 5.0,
+      "threeSales": 357.0
+    },
+    {
+      "code": "55540700360101",
+      "name": "MC-Injekt RH     A1  23.8Kg",
+      "system": "Injection",
+      "sixQty": 5.0,
+      "sixSales": 7140.0,
+      "threeQty": 5.0,
+      "threeSales": 7140.0
+    },
+    {
+      "code": "55560020110101",
+      "name": "MC-Montan Injekt TF     Komp. A2  1.25Kg",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55560030360101",
+      "name": "MC-Montan Injekt TF     Komp. B1  23.13Kg",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55560040070101",
+      "name": "MC-Montan Injekt TF     Komp. B2  0.5Kg",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "55560500370101",
+      "name": "MC-Montan Injekt TF     Komp. A1  25Kg",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "5578000205100131/001",
+      "name": "MC-AnchorSolid E500",
+      "system": "Grouts",
+      "sixQty": 259.0,
+      "sixSales": 12892.0,
+      "threeQty": 127.0,
+      "threeSales": 6292.0
+    },
+    {
+      "code": "58520000111001",
+      "name": "MC-Stellmittel TX 19        1Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "58907000920001",
+      "name": "MC-Earthing Kit",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59600030930101",
+      "name": "MC-Injektionspacker   14/110    1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59600130930101",
+      "name": "MC-Injektionspacker   DS 13    1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59600140930001",
+      "name": "MC-Bore Packer   DS 14    1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59610000930001",
+      "name": "Klebepacker Mit Nippel       1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59610030930001",
+      "name": "MC-Adhesive Packer HP       1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59640006930001",
+      "name": "Injektions-Mundstueck       1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59650000920001",
+      "name": "MC-Hammer Packer LP 18       1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59660006930001",
+      "name": "MC-Steelpacker    18/300    1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59660006930011",
+      "name": "MC-Steelpacker    18/400    1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59670000930001",
+      "name": "MC-Surfacepacker LP       1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59700086930001",
+      "name": "MC-I 910       1Set",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59700126930001",
+      "name": "MC-I 510          1Set",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59702006931102",
+      "name": "MC-I 710       1Set",
+      "system": "Injection",
+      "sixQty": 1.0,
+      "sixSales": 37207.89,
+      "threeQty": 1.0,
+      "threeSales": 37207.89
+    },
+    {
+      "code": "59705206930001",
+      "name": "MC-I 520       1Set",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59711006930001",
+      "name": "LOSS TIP       1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59711006930011031",
+      "name": "LANCES       1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59711007010001",
+      "name": "ACCESSORIES FOR RAM LACNES 1/2ÏN       1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59810010921002",
+      "name": "MC-QUICKSOLID       1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59990000111001",
+      "name": "SLIDE COUPLING       1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59990000351001",
+      "name": "Slip Test Apparatus",
+      "system": "Not Assignable",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "599900010111001",
+      "name": "MC-DUR 1177 WV-A     Set  1Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "599900020111001",
+      "name": "MC-DUR TopSpeed  M     Set  1Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "599900030111001",
+      "name": "MC-DUR TopSpeed SC     Set  1Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "599900040111001",
+      "name": "MC-DUR 111 eco    transparent  Set  1Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "61150000310101",
+      "name": "MC-Color Proof pure       15L",
+      "system": "Surface Protection - Dispersion",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "61290010240101",
+      "name": "MC-Color Primer       10L",
+      "system": "Surface Protection - Dispersion",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "62207320310101",
+      "name": "MC-Color Flex pro   RAL 7032    15Kg",
+      "system": "Surface Protection - Dispersion",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "67320000240101",
+      "name": "Emcephob HC       10Kg",
+      "system": "Hydrophobic Agents",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "67329660370101",
+      "name": "Emcephob HC       25Kg",
+      "system": "Surface Protection - Dispersion",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "73820100241001",
+      "name": "Konudur 250 OM-PL Sommerharz  Komp.A  10L",
+      "system": "Konudur Liner Systems",
+      "sixQty": 10.0,
+      "sixSales": 6166.67,
+      "threeQty": 5.0,
+      "threeSales": 3050.0
+    },
+    {
+      "code": "738201002411001",
+      "name": "KONUDUR 250 OM-PL SOMMERHARZ   30 L",
+      "system": "Konudur Liner Systems",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "73820110351001",
+      "name": "Konudur 250 OM-PL Sommerharz  Komp.B  20L",
+      "system": "Konudur Liner Systems",
+      "sixQty": 10.0,
+      "sixSales": 12333.33,
+      "threeQty": 5.0,
+      "threeSales": 6100.0
+    },
+    {
+      "code": "7907002090001",
+      "name": "Konudur LM Gewebe 1080  50LM",
+      "system": "Konudur Liner Systems",
+      "sixQty": 6.0,
+      "sixSales": 21300.0,
+      "threeQty": 1.0,
+      "threeSales": 3800.0
+    },
+    {
+      "code": "91140002051001",
+      "name": "Mycoflex Resyst Adhesive       1Set",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "91401500900001",
+      "name": "Mycoflex WW Band   150 mm  20 m  1Roll",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "92300730081101",
+      "name": "Mycoflex 488 MS   600 ml  1Pc.",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 1080.0,
+      "sixSales": 48600.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "92810010110101",
+      "name": "Mycoflex 251       1L",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "92810010240101",
+      "name": "Mycoflex 251   10L",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 1.0,
+      "sixSales": 950.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "97130900391001",
+      "name": "Nafutekt Plus       30Kg",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "97150000900001",
+      "name": "Nafutekt Bitonox Strip       7.5m",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "97170000240101",
+      "name": "Nafutekt Voranstrich       10L",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "97180010900001",
+      "name": "Nafutekt Plus Gittergewebe       1Set",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "9991690221002",
+      "name": "MC-PROOF ® 501 FLEX AE KOMP. B       8Kg",
+      "system": "Mineral Waterproofing",
+      "sixQty": 14.0,
+      "sixSales": 336.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "9991690221102",
+      "name": "MC-PROOF ® 501 FLEX AE KOMP. B       5Kg",
+      "system": "Mineral Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99951166930001",
+      "name": "Mc-Stahlpacker 18/170       1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970010371001031",
+      "name": "Emcekrete HP         25Kg",
+      "system": "Grouts",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970030371001",
+      "name": "Nafufill UWM          25Kg",
+      "system": "Concrete Repair",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970050931001",
+      "name": "Injection Packer    HPP  10mm  1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970060931001",
+      "name": "Injection Packer     8mm  1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970120931001",
+      "name": "Injection Packer     10mm  1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970130930001",
+      "name": "Injectionpacker     13 / 110  1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970140930001",
+      "name": "Adhesion Packer     40mm  1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970160931001",
+      "name": "LANCE PIPE 1 MTR GI      13mm  1Pc.",
+      "system": "Waterproofing Admixtures",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970162191001",
+      "name": "MC-Rep 3000       5Kg",
+      "system": "Resin Flooring",
+      "sixQty": 2364.0,
+      "sixSales": 188206.0,
+      "threeQty": 1296.0,
+      "threeSales": 104250.0
+    },
+    {
+      "code": "99970170930001",
+      "name": "Socket Wrench Af19 Holding Screw Driver Hexagon AF10",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970270351001031",
+      "name": "MC Latex   HP    200L",
+      "system": "Concrete Repair",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970340371001",
+      "name": "Emcekrete   GP    25Kg",
+      "system": "Grouts",
+      "sixQty": 93.0,
+      "sixSales": 1488.0,
+      "threeQty": 39.0,
+      "threeSales": 624.0
+    },
+    {
+      "code": "99970390351001",
+      "name": "Emcekrete   CG    20Kg",
+      "system": "Grouts",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970420930001",
+      "name": "Steel Packer    18 X 170 mm    1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970560311001",
+      "name": "MC-DUR LM   Black    15L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970560311001031",
+      "name": "MC-Estrifan Color LM AE   White    15L",
+      "system": "Resin Flooring",
+      "sixQty": 16.0,
+      "sixSales": 5460.0,
+      "threeQty": 11.0,
+      "threeSales": 3710.0
+    },
+    {
+      "code": "99970560321001031",
+      "name": "MC-DUR LM   Yellow     15L",
+      "system": "Resin Flooring",
+      "sixQty": 26.0,
+      "sixSales": 9140.0,
+      "threeQty": 12.0,
+      "threeSales": 4180.0
+    },
+    {
+      "code": "99970560321011031",
+      "name": "MC-DUR LM   Black     15L",
+      "system": "Resin Flooring",
+      "sixQty": 6.0,
+      "sixSales": 2100.0,
+      "threeQty": 6.0,
+      "threeSales": 2100.0
+    },
+    {
+      "code": "99970570311001",
+      "name": "Nafufill KM   420 AE    25Kg",
+      "system": "Concrete Repair",
+      "sixQty": 15249.0,
+      "sixSales": 230620.0,
+      "threeQty": 12360.0,
+      "threeSales": 186636.0
+    },
+    {
+      "code": "999705703111001",
+      "name": "Nafufill KM   SC 08    25Kg",
+      "system": "Concrete Repair",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970580311001",
+      "name": "Mycoflex    4200 GG AE    4L",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 399.0,
+      "sixSales": 36626.6,
+      "threeQty": 399.0,
+      "threeSales": 36626.6
+    },
+    {
+      "code": "99970700351001031",
+      "name": "Emcefix    PR    20Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970700351001032",
+      "name": "Emcefix    PR   20Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 722.0,
+      "sixSales": 12473.0,
+      "threeQty": 12.0,
+      "threeSales": 153.0
+    },
+    {
+      "code": "99970700351011032",
+      "name": "Emcefix    PR   20Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970710371011031",
+      "name": "Emcefix    FR   20Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970720371001034",
+      "name": "Emcefix    CR     25Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 256.0,
+      "sixSales": 3835.0,
+      "threeQty": 1.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970720381001031",
+      "name": "Emcefix    HB    25Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970750140101",
+      "name": "MC-DUR ES 1500  Komp. A  2.1Kg",
+      "system": "Resin Flooring",
+      "sixQty": 6.0,
+      "sixSales": 60.43,
+      "threeQty": 6.0,
+      "threeSales": 60.43
+    },
+    {
+      "code": "99970760090101",
+      "name": "MC-DUR ES 1500   Komp. B  0.7Kg",
+      "system": "Resin Flooring",
+      "sixQty": 6.0,
+      "sixSales": 20.14,
+      "threeQty": 6.0,
+      "threeSales": 20.14
+    },
+    {
+      "code": "99970770370101",
+      "name": "MC-DUR ES 1500   Komp. C  25Kg",
+      "system": "Resin Flooring",
+      "sixQty": 6.0,
+      "sixSales": 719.42,
+      "threeQty": 6.0,
+      "threeSales": 719.42
+    },
+    {
+      "code": "99970780200102",
+      "name": "MC-DUR SL 1120    RAL 7037  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970780200112",
+      "name": "MC-DUR SL 1120    RAL 9010  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970780201102",
+      "name": "MC-DUR SL 1120    RAL 7004  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970780201112",
+      "name": "MC-DUR SL 1120    RAL 7040  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970780204003",
+      "name": "MC-DUR SL 1120    RAL 4003  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970780205017",
+      "name": "MC-DUR SL 1120    RAL 5017  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970780206018",
+      "name": "MC-DUR SL 1120    RAL 6018  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970780206024",
+      "name": "MC-DUR SL 1120    RAL 6024  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970780206034",
+      "name": "MC-DUR SL 1120    RAL 6034  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970780207042",
+      "name": "MC-DUR SL 1120    RAL 7042  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970780207042031",
+      "name": "MC-DUR SL 1120    RAL 7012  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970780209005",
+      "name": "MC-DUR SL 1120    RAL 9005  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970780210112",
+      "name": "MC-DUR SL 1120    RAL 9003  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970780210113031",
+      "name": "MC-DUR SL 1120    RAL 7035  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970790160102",
+      "name": "MC-DUR SL 1120      Komp. B  3Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970800310102",
+      "name": "MC-DUR SL 1120      Komp. C  16Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970850351001031",
+      "name": "Emcefix    PR+    20Kg",
+      "system": "Concrete Cosmetics and Design",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970880541001031",
+      "name": "Ortolan Classic   731 AE    200L",
+      "system": "Release Agents",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971282171001031",
+      "name": "Mycoflex   4200  PG  5L",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971282171011031",
+      "name": "Mycoflex   4000  VE  5L",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971282172001031",
+      "name": "Mycoflex   4200  PG  4L",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 599.0,
+      "sixSales": 54916.25,
+      "threeQty": 587.0,
+      "threeSales": 53884.25
+    },
+    {
+      "code": "99971290111001031",
+      "name": "Mycoflex   4200  PSP  1L",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971570311002",
+      "name": "MC-DUR 2150   RAL 7037    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971570311102",
+      "name": "MC-DUR 2150   RAL 7043    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971570351002",
+      "name": "MC-DUR 2150   RAL 7004    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "999715703511002",
+      "name": "MC-DUR 2150   RAL 3033    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971573311002",
+      "name": "MC-DUR 2150   RAL 7035    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "999715733110022",
+      "name": "MC-DUR 2150   RAL 7045    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971573311009",
+      "name": "MC-DUR 2150   RAL 7042    18L",
+      "system": "Resin Flooring",
+      "sixQty": 45.0,
+      "sixSales": 23256.0,
+      "threeQty": 19.0,
+      "threeSales": 10152.0
+    },
+    {
+      "code": "99971620141001",
+      "name": "MC-Injekt 1264   KFE  Komp. A  2.1Kg",
+      "system": "Injection",
+      "sixQty": 803.0,
+      "sixSales": 89353.9,
+      "threeQty": 145.0,
+      "threeSales": 16277.1
+    },
+    {
+      "code": "99971630081001",
+      "name": "MC-Injekt 1264   KFE  Komp. B  0.7Kg",
+      "system": "Injection",
+      "sixQty": 803.0,
+      "sixSales": 31118.12,
+      "threeQty": 145.0,
+      "threeSales": 5633.6
+    },
+    {
+      "code": "99971640341001",
+      "name": "MC-DUR 2150 UVB   RAL 7042    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "999716403410101",
+      "name": "MC-DUR 2150 UVB   RAL 1023    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971650341001",
+      "name": "MC-DUR 2150 UVB   RAL 7043    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971650341111",
+      "name": "MC-DUR 2150 UVB   RAL 5017    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971680370202",
+      "name": "MC-Proof ® 500 AE   White  Komp. A  18Kg",
+      "system": "Mineral Waterproofing",
+      "sixQty": 175.0,
+      "sixSales": 9450.0,
+      "threeQty": 175.0,
+      "threeSales": 9450.0
+    },
+    {
+      "code": "99971680371001",
+      "name": "MC-Proof ® 500 AE   Grey  Komp. A  18Kg",
+      "system": "Mineral Waterproofing",
+      "sixQty": 1162.0,
+      "sixSales": 47120.53,
+      "threeQty": 525.0,
+      "threeSales": 21460.72
+    },
+    {
+      "code": "99971680371002",
+      "name": "MC-Proof ® 501 Flex AE     Komp. A  24Kg",
+      "system": "Mineral Waterproofing",
+      "sixQty": 14.0,
+      "sixSales": 1008.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971680371102",
+      "name": "MC-Proof ® 501 Flex AE     Komp. A  15Kg",
+      "system": "Mineral Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971690221001",
+      "name": "MC-Proof ® 500 AE     Komp. B  5Kg",
+      "system": "Mineral Waterproofing",
+      "sixQty": 1729.0,
+      "sixSales": 15909.97,
+      "threeQty": 700.0,
+      "threeSales": 8586.28
+    },
+    {
+      "code": "99971720321001",
+      "name": "MC-DUR 1150       RAL 7042  Komp. A  25.09Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971840321001",
+      "name": "MC-DUR 2150 UVB   RAL 7046    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971850321001",
+      "name": "MC-DUR 2150 UVB   RAL 6024    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971860321001",
+      "name": "MC-DUR 2150 UVB   RAL 6018    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971870321001",
+      "name": "MC-DUR 2150 UVB   RAL 7037    18L",
+      "system": "Resin Flooring",
+      "sixQty": 7.0,
+      "sixSales": 4410.0,
+      "threeQty": 7.0,
+      "threeSales": 4410.0
+    },
+    {
+      "code": "99971870321001031",
+      "name": "MC-DUR 2150 UVB   RAL 7037    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "9997187032105017",
+      "name": "MC-DUR 2150 UVB   RAL 5017    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971880321001",
+      "name": "MC-DUR 2150 UVB   RAL 7048    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971880331001",
+      "name": "MC-DUR 2150 UVB   RAL 1016    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "999718803410001",
+      "name": "MC-DUR 2150 UVB   RAL 6017    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971880341001",
+      "name": "MC-DUR 2150 UVB   RAL 5010    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971880351001",
+      "name": "MC-DUR 2150 UVB   RAL 5015    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971880371001",
+      "name": "MC-DUR 2150 UVB   RAL 7004    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "999718803710101",
+      "name": "MC-DUR 2150 UVB   RAL 3033    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971880371019",
+      "name": "MC-DUR 2150 UVB   RAL 7042    18L",
+      "system": "Resin Flooring",
+      "sixQty": 18.0,
+      "sixSales": 9720.0,
+      "threeQty": 3.0,
+      "threeSales": 1620.0
+    },
+    {
+      "code": "99971890320011031",
+      "name": "MC-DUR 2150   RAL 3003    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971890321001",
+      "name": "MC-DUR 2150 UVB   Dark Grey    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971890321001031",
+      "name": "MC-DUR 2150 UVB   RAL 7012    18L",
+      "system": "Resin Flooring",
+      "sixQty": 4.0,
+      "sixSales": 2520.0,
+      "threeQty": 4.0,
+      "threeSales": 2520.0
+    },
+    {
+      "code": "99971890321011031",
+      "name": "MC-DUR 2150   RAL 7012    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971890321111031",
+      "name": "MC-DUR 2150 UVB   RAL 3003    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971890331001",
+      "name": "MC-DUR 2150 UVB   RAL 7040    18L",
+      "system": "Resin Flooring",
+      "sixQty": 2.0,
+      "sixSales": 1260.0,
+      "threeQty": 2.0,
+      "threeSales": 1260.0
+    },
+    {
+      "code": "999718903310011",
+      "name": "MC-DUR 2150 UVB   RAL 7044    18L",
+      "system": "Resin Flooring",
+      "sixQty": 1.0,
+      "sixSales": 630.0,
+      "threeQty": 1.0,
+      "threeSales": 630.0
+    },
+    {
+      "code": "99971902191001",
+      "name": "MC-Rep 3000   Eco    5Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971910341001",
+      "name": "MC-DUR 2150 UVB   RAL 7001    18L",
+      "system": "Resin Flooring",
+      "sixQty": 6.0,
+      "sixSales": 3780.0,
+      "threeQty": 3.0,
+      "threeSales": 1890.0
+    },
+    {
+      "code": "99971920341002",
+      "name": "MC-DUR 2150 UVB   RAL 7031    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971930321001",
+      "name": "MC-DUR 2150 UVB   RAL 7035    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971930321101",
+      "name": "MC-DUR 2150 UVB   Clear    18L",
+      "system": "Resin Flooring",
+      "sixQty": 2.0,
+      "sixSales": 1260.0,
+      "threeQty": 2.0,
+      "threeSales": 1260.0
+    },
+    {
+      "code": "99971930321101031",
+      "name": "MC-DUR 2150    Clear    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971930322001",
+      "name": "MC-DUR 2150 UVB   RAL 7045    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "999719303220011",
+      "name": "MC-DUR 2150 UVB   RAL 7015    18L",
+      "system": "Resin Flooring",
+      "sixQty": 1.0,
+      "sixSales": 630.0,
+      "threeQty": 1.0,
+      "threeSales": 630.0
+    },
+    {
+      "code": "999719303220012",
+      "name": "MC-DUR 2150 UVB   RAL 7047    18L",
+      "system": "Resin Flooring",
+      "sixQty": 1.0,
+      "sixSales": 630.0,
+      "threeQty": 1.0,
+      "threeSales": 630.0
+    },
+    {
+      "code": "99971930521001",
+      "name": "Aquamuls B 60 AE       200L",
+      "system": "Bituminous Waterproofing",
+      "sixQty": 12.0,
+      "sixSales": 6840.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971930521002",
+      "name": "Aquamuls B 60 AE       20L",
+      "system": "Bituminous Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "999719305210101",
+      "name": "Aquamuls RB 6010 AE          200L",
+      "system": "Bituminous Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971940081001",
+      "name": "Mycoflex PU 25    Grey  600 ml  1Pc.",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 360.0,
+      "sixSales": 6019.5,
+      "threeQty": 349.0,
+      "threeSales": 5849.5
+    },
+    {
+      "code": "99971940082001",
+      "name": "Mycoflex PU 25    White  600 ml  1Pc.",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99971940083001",
+      "name": "Mycoflex PU 25    Beige  600 ml  1Pc.",
+      "system": "Sealants and Joint Profiles",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99972090331001",
+      "name": "MC-DUR 2150 MB   RAL 7040    18L",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99977670200101",
+      "name": "MC-Dur SL 1120    RAL 7023  Komp. A  6Kg",
+      "system": "Resin Flooring",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99980733411101031",
+      "name": "MC-Proof DF 9+   Black    20Kg",
+      "system": "Dispersion Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99980733411111031",
+      "name": "MC-Proof DF 9+   White    20Kg",
+      "system": "Dispersion Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "999807434110111032",
+      "name": "MC-Proof 2110 AE    Black    20Kg",
+      "system": "Dispersion Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "999807434111011032",
+      "name": "MC-Proof 2110 AE     White    20Kg",
+      "system": "Dispersion Waterproofing",
+      "sixQty": 1410.0,
+      "sixSales": 249582.0,
+      "threeQty": 1103.0,
+      "threeSales": 187442.0
+    },
+    {
+      "code": "999807434111012032",
+      "name": "MC-Proof 2110 AE     White    5Kg",
+      "system": "Dispersion Waterproofing",
+      "sixQty": 16.0,
+      "sixSales": 8.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "999807434111021032",
+      "name": "MC-Proof 2110 PW      20Kg",
+      "system": "Dispersion Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "999807434111031032",
+      "name": "MC-Proof 2100 AE      25Kg",
+      "system": "Dispersion Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99980743421001031",
+      "name": "MC-Proof DF 8   White    20Kg",
+      "system": "Dispersion Waterproofing",
+      "sixQty": 30.0,
+      "sixSales": 5400.0,
+      "threeQty": 8.0,
+      "threeSales": 1440.0
+    },
+    {
+      "code": "999807434210011031",
+      "name": "MC-Proof DF 6+   Black    20Kg",
+      "system": "Dispersion Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99980743421011031",
+      "name": "MC-Proof DF 8   White    5Kg",
+      "system": "Dispersion Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99980743421101031",
+      "name": "MC-Proof DF 6+   White    20Kg",
+      "system": "Dispersion Waterproofing",
+      "sixQty": 47.0,
+      "sixSales": 4870.0,
+      "threeQty": 22.0,
+      "threeSales": 1820.0
+    },
+    {
+      "code": "99980753421001031",
+      "name": "MC-Proof 988   Black    20L",
+      "system": "Dispersion Waterproofing",
+      "sixQty": 68.0,
+      "sixSales": 28870.0,
+      "threeQty": 42.0,
+      "threeSales": 17800.0
     }
   ]
 }
