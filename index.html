@@ -135,30 +135,13 @@
   tbody tr:hover{ background:#f2f7f4; }
 
   .sticky-0{ position:sticky; left:0; z-index:2; width:26px; text-align:center; }
-  .sticky-1{ position:sticky; left:26px; z-index:2; width:160px; }
-  .sticky-2{ position:sticky; left:186px; z-index:2; width:200px; }
-  .sticky-3{ position:sticky; left:386px; z-index:2; width:110px; }
-  .sticky-4{ position:sticky; left:496px; z-index:2; width:70px; }
-  .sticky-5{ position:sticky; left:566px; z-index:2; width:80px; }
-  .sticky-6{ position:sticky; left:646px; z-index:2; width:70px; }
-  .sticky-7{ position:sticky; left:716px; z-index:2; width:80px; }
-  .sticky-8{ position:sticky; left:796px; z-index:2; width:90px; box-shadow:2px 0 4px rgba(20,30,40,0.08); }
-  thead .sticky-0, thead .sticky-1, thead .sticky-2, thead .sticky-3, thead .sticky-4,
-  thead .sticky-5, thead .sticky-6, thead .sticky-7, thead .sticky-8{ z-index:4; }
-  tbody .sticky-0, tbody .sticky-1, tbody .sticky-2, tbody .sticky-3, tbody .sticky-4,
-  tbody .sticky-5, tbody .sticky-6, tbody .sticky-7, tbody .sticky-8{ background:inherit; }
-  tbody tr:nth-child(odd) .sticky-0, tbody tr:nth-child(odd) .sticky-1, tbody tr:nth-child(odd) .sticky-2,
-  tbody tr:nth-child(odd) .sticky-3, tbody tr:nth-child(odd) .sticky-4, tbody tr:nth-child(odd) .sticky-5,
-  tbody tr:nth-child(odd) .sticky-6, tbody tr:nth-child(odd) .sticky-7, tbody tr:nth-child(odd) .sticky-8{ background:var(--panel); }
-  tbody tr:nth-child(even) .sticky-0, tbody tr:nth-child(even) .sticky-1, tbody tr:nth-child(even) .sticky-2,
-  tbody tr:nth-child(even) .sticky-3, tbody tr:nth-child(even) .sticky-4, tbody tr:nth-child(even) .sticky-5,
-  tbody tr:nth-child(even) .sticky-6, tbody tr:nth-child(even) .sticky-7, tbody tr:nth-child(even) .sticky-8{ background:var(--zebra); }
-  tbody tr:hover .sticky-0, tbody tr:hover .sticky-1, tbody tr:hover .sticky-2,
-  tbody tr:hover .sticky-3, tbody tr:hover .sticky-4, tbody tr:hover .sticky-5,
-  tbody tr:hover .sticky-6, tbody tr:hover .sticky-7, tbody tr:hover .sticky-8{ background:#f2f7f4; }
-  .sticky-3, .sticky-4, .sticky-5, .sticky-6, .sticky-7, .sticky-8{
-    overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
-  }
+  .sticky-1{ position:sticky; left:26px; z-index:2; }
+  .sticky-2{ position:sticky; left:186px; z-index:2; }
+  thead .sticky-0, thead .sticky-1, thead .sticky-2{ z-index:4; }
+  tbody .sticky-0, tbody .sticky-1, tbody .sticky-2{ background:inherit; }
+  tbody tr:nth-child(odd) .sticky-0, tbody tr:nth-child(odd) .sticky-1, tbody tr:nth-child(odd) .sticky-2{ background:var(--panel); }
+  tbody tr:nth-child(even) .sticky-0, tbody tr:nth-child(even) .sticky-1, tbody tr:nth-child(even) .sticky-2{ background:var(--zebra); }
+  tbody tr:hover .sticky-0, tbody tr:hover .sticky-1, tbody tr:hover .sticky-2{ background:#f2f7f4; }
 
   .desc-col{ max-width:220px; white-space:normal; }
   .system-tag{
@@ -220,9 +203,9 @@
   .login-error{ color:#b23b3b; font-size:12px; margin-top:10px; min-height:14px; }
 
   /* ---- Searchable item code combobox ---- */
-  .code-cell-wrap{ position:relative; display:block; width:100%; }
+  .code-cell-wrap{ position:relative; }
   input.code-input{
-    width:100%; font-family:var(--mono); font-size:11px;
+    width:170px; font-family:var(--mono); font-size:11px;
     padding:4px 5px; border:1px solid var(--line-strong); border-radius:5px; background:#fff;
   }
   input.code-input:focus{ outline:2px solid var(--accent); outline-offset:0; }
@@ -284,10 +267,10 @@
           <th class="sticky-0" style="left:0;"></th>
           <th class="sticky-1" style="left:26px;"></th>
           <th class="sticky-2" style="left:186px;"></th>
-          <th class="sticky-3" style="left:386px;"></th>
-          <th colspan="2" style="position:sticky; left:496px; z-index:4; width:150px;">6 Month</th>
-          <th colspan="2" style="position:sticky; left:646px; z-index:4; width:150px;">3 Month</th>
-          <th class="sticky-8" style="left:796px;"></th>
+          <th></th>
+          <th colspan="2">6 Month</th>
+          <th colspan="2">3 Month</th>
+          <th></th>
           <th id="ghJAN" colspan="2">Jan</th>
           <th id="ghFEB" colspan="2">Feb</th>
           <th id="ghMAR" colspan="2">Mar</th>
@@ -306,10 +289,10 @@
           <th class="sticky-0" style="left:0;"></th>
           <th class="sticky-1" style="left:26px;">Item Code</th>
           <th class="sticky-2" style="left:186px;">Item Description</th>
-          <th class="sticky-3" style="left:386px;">System</th>
-          <th class="sticky-4 qty-col" style="left:496px;">Qty</th><th class="sticky-5 sales-col" style="left:566px;">Value</th>
-          <th class="sticky-6 qty-col" style="left:646px;">Qty</th><th class="sticky-7 sales-col" style="left:716px;">Value</th>
-          <th class="sticky-8" style="left:796px;">Avg Price</th>
+          <th>System</th>
+          <th class="qty-col">Qty</th><th class="sales-col">Value</th>
+          <th class="qty-col">Qty</th><th class="sales-col">Value</th>
+          <th>Avg Price</th>
           <th id="chJAN-q" class="qty-col">Qty</th><th id="chJAN-v" class="sales-col">Value</th>
           <th id="chFEB-q" class="qty-col">Qty</th><th id="chFEB-v" class="sales-col">Value</th>
           <th id="chMAR-q" class="qty-col">Qty</th><th id="chMAR-v" class="sales-col">Value</th>
@@ -514,12 +497,12 @@ function render(filter){
     }
     html += `</td>`;
 
-    html += `<td class="sticky-3" style="left:386px;"${item && item.system ? ` title="${item.system.replace(/"/g,'&quot;')}"` : ""}>${item ? item.system : ""}</td>`;
-    html += `<td class="sticky-4 num qty-col" style="left:496px;">${item ? fmt(item.sixQty) : ""}</td>`;
-    html += `<td class="sticky-5 num sales-col" style="left:566px;">${item ? fmt(item.sixSales) : ""}</td>`;
-    html += `<td class="sticky-6 num qty-col" style="left:646px;">${item ? fmt(item.threeQty) : ""}</td>`;
-    html += `<td class="sticky-7 num sales-col" style="left:716px;">${item ? fmt(item.threeSales) : ""}</td>`;
-    html += `<td class="sticky-8 num" style="left:796px;">${item ? fmtPrice(item.avgPrice) : ""}</td>`;
+    html += `<td>${item ? item.system : ""}</td>`;
+    html += `<td class="num qty-col">${item ? fmt(item.sixQty) : ""}</td>`;
+    html += `<td class="num sales-col">${item ? fmt(item.sixSales) : ""}</td>`;
+    html += `<td class="num qty-col">${item ? fmt(item.threeQty) : ""}</td>`;
+    html += `<td class="num sales-col">${item ? fmt(item.threeSales) : ""}</td>`;
+    html += `<td class="num">${item ? fmtPrice(item.avgPrice) : ""}</td>`;
 
     let rowTotQty = 0, rowTotSales = 0;
     monthKeys.forEach(m => {
@@ -556,10 +539,10 @@ function render(filter){
 
   // footer
   const totalsRow = document.getElementById("totalsRow");
-  let t = `<td class="sticky-0" style="left:0;"></td><td class="sticky-1" style="left:26px;">Total</td><td class="sticky-2" style="left:186px;"></td><td class="sticky-3" style="left:386px;"></td>`;
-  t += `<td class="sticky-4 num qty-col" style="left:496px;">${fmt(totals.sixQty)}</td><td class="sticky-5 num sales-col" style="left:566px;">${fmt(totals.sixSales)}</td>`;
-  t += `<td class="sticky-6 num qty-col" style="left:646px;">${fmt(totals.threeQty)}</td><td class="sticky-7 num sales-col" style="left:716px;">${fmt(totals.threeSales)}</td>`;
-  t += `<td class="sticky-8" style="left:796px;"></td>`;
+  let t = `<td class="sticky-0" style="left:0;"></td><td class="sticky-1" style="left:26px;">Total</td><td class="sticky-2" style="left:186px;"></td><td></td>`;
+  t += `<td class="num qty-col">${fmt(totals.sixQty)}</td><td class="num sales-col">${fmt(totals.sixSales)}</td>`;
+  t += `<td class="num qty-col">${fmt(totals.threeQty)}</td><td class="num sales-col">${fmt(totals.threeSales)}</td>`;
+  t += `<td></td>`;
   monthKeys.forEach(m => {
     t += `<td class="num qty-col">${fmt(monthTotals[m].qty)}</td>`;
     t += `<td class="num sales-col">${fmt(monthTotals[m].sales)}</td>`;
