@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-09-06T17:33:53+00:00",
+  "generatedAt": "2026-09-07T21:32:45+04:00",
   "items": [
+    {
+      "code": "00137220541",
+      "name": "Polymersung PA10",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
     {
       "code": "00745110371001031",
       "name": "MC-Rockmortar MW F   Grey    25Kg",
@@ -740,6 +749,15 @@
       "threeSales": 0.0
     },
     {
+      "code": "0833591",
+      "name": "Grotan TK 5 Plus",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
       "code": "1000017219655730167",
       "name": "MC-DUR Zinc Prime       1L",
       "system": "Concrete Repair",
@@ -906,36 +924,36 @@
       "name": "MC-Carbosolid 1209 TX AE Komp. A       5Kg",
       "system": "Concrete Repair",
       "sixQty": 10.0,
-      "sixSales": 2747.59,
+      "sixSales": 2747.5923,
       "threeQty": 10.0,
-      "threeSales": 2747.59
+      "threeSales": 2747.5923
     },
     {
       "code": "1001114859690240202",
       "name": "MC-Carbosolid 1209 TX AE Komp. B       1.55Kg",
       "system": "Concrete Repair",
       "sixQty": 10.0,
-      "sixSales": 851.75,
+      "sixSales": 851.7517,
       "threeQty": 10.0,
-      "threeSales": 851.75
+      "threeSales": 851.7517
     },
     {
       "code": "1001114859690250202",
       "name": "MC-Carbosolid 1280 TX AE Komp. A       5.2Kg",
       "system": "Concrete Repair",
       "sixQty": 10.0,
-      "sixSales": 2652.58,
+      "sixSales": 2652.577,
       "threeQty": 10.0,
-      "threeSales": 2652.58
+      "threeSales": 2652.577
     },
     {
       "code": "1001114859690260202",
       "name": "MC-Carbosolid 1280 TX AE Komp. B       2Kg",
       "system": "Concrete Repair",
       "sixQty": 10.0,
-      "sixSales": 1020.22,
+      "sixSales": 1020.223,
       "threeQty": 10.0,
-      "threeSales": 1020.22
+      "threeSales": 1020.223
     },
     {
       "code": "1001213699690370303",
@@ -966,7 +984,7 @@
     },
     {
       "code": "1001517249545750101",
-      "name": "MC-Color Flakes-   Black  1–3 mm  1Kg",
+      "name": "MC-Color Flakes-   Black  1\u20133 mm  1Kg",
       "system": "Resin Flooring",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -975,7 +993,7 @@
     },
     {
       "code": "1001617259525750101",
-      "name": "MC-Color Flakes-   White   1–3 mm  1Kg",
+      "name": "MC-Color Flakes-   White   1\u20133 mm  1Kg",
       "system": "Resin Flooring",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -1100,9 +1118,324 @@
       "threeSales": 0.0
     },
     {
+      "code": "1110228246/001",
+      "name": "Plastic Bucket   White  10Kg  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112024193/001",
+      "name": "Paper Bags    Waterproofing       1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112024223/001",
+      "name": "Paper Bags   Std Ptd Blue  49cm*40cm*12cm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112024225/001",
+      "name": "Inner Bags      76cmX60cm  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112060191/001",
+      "name": "S.C.Caco3 625       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112128175/001",
+      "name": "Plastic Jerry Can   White  20L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112128192/001",
+      "name": "Plastic Jerry Can   Square  White  5L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112128809/001",
+      "name": "Plastic Jerry Can   White  10L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112128821/001",
+      "name": "Plastic Jerry Can   White  25L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112128822/001",
+      "name": "Label  Blank   Coated Freezer   102 mm x 163.5 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112128824/001",
+      "name": "Plastic Bucket   White  15L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112128825/001",
+      "name": "Plastic Bucket   White  20L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112128831/001",
+      "name": "Plastic Jerry Can   Blue  25L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112223108/001",
+      "name": "Metal Can   Open Mouth  5USG  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112223226/001",
+      "name": "Metal Can     10L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112223803/001",
+      "name": "Metal Can     1L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112223804/001",
+      "name": "Metal Can     2.5L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112223806/001",
+      "name": "Metal Can     4L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112223807/001",
+      "name": "Metal Can     5L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112312177/001",
+      "name": "TIBP (Tri Isobutylphosphate)       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112355180/001",
+      "name": "Diesel       1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112356181/001",
+      "name": "NP 10 - Nonyl Phenol 10       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112357182/001",
+      "name": "Oleic Acid       [185 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112358183/001",
+      "name": "Metal Drum       200L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "112358183/002",
+      "name": "Metal Drum (3 Openings)    200L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 112.0,
+      "sixSales": 12968.48,
+      "threeQty": 112.0,
+      "threeSales": 12968.48
+    },
+    {
+      "code": "113128178/001",
+      "name": "Plastic Bucket   Waterproofing  5USG  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "113128197/001",
+      "name": "Plastic Bucket   White  5Kg  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "113128197/002",
+      "name": "Plastic Bucket   DF 8  5Kg  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "113128198/001",
+      "name": "Plastic Bucket   White  1USG  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "113142811/001",
+      "name": "Plastic Pail   White  1L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "113158249/001",
+      "name": "Plastic Bucket   White  10Kg  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "113159190/001",
+      "name": "ANTI-TERRA-U       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "113243813/001",
+      "name": "5 Ply Corrugated Carton    White Plain  360X360X275mmLxwxh  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "113243813/002",
+      "name": "5 Ply Corrugated Carton    Brown Plain   450X450X450mmLxwxh  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
       "code": "11350000360101",
       "name": "Centrament GA       20Kg",
       "system": "Admixtures",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "115392156/001",
+      "name": "Plastic Bottle    White  1L  1Pc.",
+      "system": "Raw Materials and Precursors",
       "sixQty": 0.0,
       "sixSales": 0.0,
       "threeQty": 0.0,
@@ -1116,6 +1449,240 @@
       "sixSales": 8360.0,
       "threeQty": 47.0,
       "threeSales": 6120.0
+    },
+    {
+      "code": "118042811/001",
+      "name": "Label Concrete Cosmetic   Coated Freezer   148 mm x 210 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "118142812/001",
+      "name": "Label  Waterpooring   Coated Freezer   148 mm x 210 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "118242813/001",
+      "name": "Label  Flooring    Coated Freezer   148 mm x 210 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "118342814/001",
+      "name": "Label  Injection   Coated Freezer   148 mm x 210 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "118442815/001",
+      "name": "Label Release Agnet   Coated Freezer   148 mm x 210 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "118542816/001",
+      "name": "Label Concrete Cosmetic   Coated Freezer   102 mm x 163.5 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "118642817/001",
+      "name": "Label  Waterpooring   Coated Freezer   102 mm x 163.5 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "118742818/001",
+      "name": "Label  Flooring    Coated Freezer   102 mm x 163.5 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "118842819/001",
+      "name": "Label  Injection   Coated Freezer   102 mm x 163.5 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "118942820/001",
+      "name": "Label Release Agnet   Coated Freezer   102 mm x 163.5 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "119042820/001",
+      "name": "Label Sealent   Coated Freezer   50 mm x 165 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "119142822/001",
+      "name": "Label MC-Injekt 2133     145mm x 280 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "119342821/001",
+      "name": "Label  Plain   148mm x 210 mm    1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "119342821/002",
+      "name": "Label     Plain  100 mm x 150 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "119842189/001",
+      "name": "Label MC-Injekt 2111 SA    145mm x 280 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "119942205/001",
+      "name": "Label MC-Anchorsolid E500   155mm x220 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "121242813/001",
+      "name": "Plain Bottle     500ml  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "122024157/001",
+      "name": "Paper Bag   Brown  OpenMouth  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "122024184/002",
+      "name": "Paper Bag   Plain White  50.0X40.0X10.0X147 gsm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "122024800/001",
+      "name": "Paper Bag   Concrete Cosmetics    1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "122024800/002",
+      "name": "Paper Bag   M16  50*35*10.5  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "122024800/003",
+      "name": "Paper Bag   M32  39*30*10  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "1220248001/001",
+      "name": "Paper Bag   White    1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "122024801/001",
+      "name": "Paper Bag   White    1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "122024802/001",
+      "name": "Paper Bag   Waterproofing    1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "122024803/001",
+      "name": "Paper Bag   MC Logo    1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
     },
     {
       "code": "1342070047/003",
@@ -1173,7 +1740,7 @@
     },
     {
       "code": "150101000502011",
-      "name": "MC-Proof ® 500 Flex AE   20 Kg",
+      "name": "MC-Proof \u00ae 500 Flex AE   20 Kg",
       "system": "Mineral Waterproofing",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -1182,7 +1749,7 @@
     },
     {
       "code": "150101000502311",
-      "name": "MC-Proof ® 500  AE   23KG",
+      "name": "MC-Proof \u00ae 500  AE   23KG",
       "system": "Mineral Waterproofing",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -1191,7 +1758,7 @@
     },
     {
       "code": "150101011002311",
-      "name": "MC-Proof ® 500 AE WHITE  23KG",
+      "name": "MC-Proof \u00ae 500 AE WHITE  23KG",
       "system": "Mineral Waterproofing",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -1200,7 +1767,7 @@
     },
     {
       "code": "150102000502011",
-      "name": "MC-Proof ® 501 Flex AE     20 KG",
+      "name": "MC-Proof \u00ae 501 Flex AE     20 KG",
       "system": "Mineral Waterproofing",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -1239,9 +1806,9 @@
       "name": "Centrament Proof CP 10 AE        12Kg",
       "system": "Waterproofing Admixtures",
       "sixQty": 2470.0,
-      "sixSales": 227547.31,
+      "sixSales": 227547.312,
       "threeQty": 2168.0,
-      "threeSales": 198723.31
+      "threeSales": 198723.312
     },
     {
       "code": "171115169650350101",
@@ -1298,6 +1865,15 @@
       "threeSales": 0.0
     },
     {
+      "code": "210120104/001",
+      "name": "Calcium Nitrate       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
       "code": "21100100541011031",
       "name": "Ortolan Extra 741 AE      200  L",
       "system": "Release Agents",
@@ -1307,9 +1883,2736 @@
       "threeSales": 0.0
     },
     {
+      "code": "2110020100/001",
+      "name": "Silica Sand   0.6-1.7mm  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "2110020101/001",
+      "name": "Silica Sand   0-0.3mm  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "2110020102/001",
+      "name": "Silica Sand   0.3-0.8mm  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002026/001",
+      "name": "Dune Sand     -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002026/003",
+      "name": "Dune Sand     -FINE  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002038/001",
+      "name": "Lime Stone   0.6-1.7mm  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002038/003",
+      "name": "Lime Stone   0.6-1.7mm  -Fine  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002039/001",
+      "name": "Lime Stone   0-0.6mm  -SP  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002039/003",
+      "name": "Lime Stone   0-0.6mm  -Fine  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002040/001",
+      "name": "Lime Stone   0-2mm  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002040/003",
+      "name": "Lime Stone   0-2mm  -Fine  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002041/001",
+      "name": "Lime Stone   1.18-2.36mm  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002042/001",
+      "name": "Lime Stone   2-4mm  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002042/003",
+      "name": "Lime Stone   2-4mm  -Fine  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002043/001",
+      "name": "Lime Stone   5-10mm  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002044/003",
+      "name": "Lime Stone   1.7-2.36mm  -Fine  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002075/001",
+      "name": "Silica Sand   0.1-0.3mm  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002075/003",
+      "name": "Silica Sand   0.1-0.3mm    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 1881.0,
+      "sixSales": 1875.0,
+      "threeQty": 381.0,
+      "threeSales": 375.0
+    },
+    {
+      "code": "211002076/001",
+      "name": "Silica Sand   0.3-0.6mm  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002076/003",
+      "name": "Silica Sand   0.3-0.6mm    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002077/001",
+      "name": "Silica Sand   0.6-1.2mm  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002079/001",
+      "name": "Silica Sand   1.2-1.8mm  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002152/001",
+      "name": "Silica Sand   0.1-0.4mm    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211002153/001",
+      "name": "Silica Sand   1-2mm    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211010017/001",
+      "name": "OPC CEM I   42.5 N  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211010017/002",
+      "name": "OPC CEM I   42.5 N    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211010017/005",
+      "name": "OPC CEM I   42.5 N  -Fine  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211010092/001",
+      "name": "White Cement   ITE  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211016071/001",
+      "name": "Crusher Filler   150\u00b5  -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211016073/001",
+      "name": "Silica Flour   75\u00b5    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211016073/003",
+      "name": "Silica Flour   75\u00b5    [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211016078/001",
+      "name": "Silica Sand   0-0.2mm    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211017030/001",
+      "name": "Fly Ash     -GP  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211017030/004",
+      "name": "Fly Ash     -Fine  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "2110170301/001",
+      "name": "Fly Ash     -Cementation  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211116013/002",
+      "name": "Calcium Carbonate   White  75\u00b5  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211116013/003",
+      "name": "Calcium Carbonate   Off White   75\u00b5   -SPI  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211116013/006",
+      "name": "Calcium Carbonate   Off White   75\u00b5   -Fine  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211129171/001",
+      "name": "Calcium Ligno Sulphate (CASA)       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211135074/001",
+      "name": "Silica Fume       1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211135074/003",
+      "name": "Silica Fume     -Fine  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211135074/004",
+      "name": "Silica Fume     Un-Densified  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "211138059/001",
+      "name": "NSF     5%  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212001001/001",
+      "name": "Aluminium Sulphate       1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212001043/001",
+      "name": "Lithium Carbonate       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212001120/001",
+      "name": "Calcium Formate       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212001150/001",
+      "name": "Soda Ash Light   Soda Ash    [50 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212001157/001",
+      "name": "Sodium Sulphate       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212001256/001",
+      "name": "Bdybutyl Tin Dilaurate - DBTDL",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212002100/001",
+      "name": "Copper Slag      0.1-0.5  [50 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212003067/001",
+      "name": "RC OSB       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212008068/001",
+      "name": "RECIPRO 40       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 3000.0,
+      "sixSales": 14220.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212008068/002",
+      "name": "Cement Fondu       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212009082/001",
+      "name": "Technocel 1004-7N       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212009148/001",
+      "name": "Cellulose Fiber 500       [12 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212012021/001",
+      "name": "Delfoam DKT       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212012021/002",
+      "name": "Peramin Defoam 50 PE       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212012021/003",
+      "name": "AGITON P800       [15 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212012021/004",
+      "name": "RC PD 2000       [15 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212015022/001",
+      "name": "DENCA CSA #20       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212015022/005",
+      "name": "EXPAN K       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212015022/010",
+      "name": "DENCA CSA #20 In House       1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212015029/001",
+      "name": "Expandit 10       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212016129/001",
+      "name": "Barytes 25 micron       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212016130/001",
+      "name": "Calcium Carbonate   ECI 10    [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212016131/001",
+      "name": "Calcium Carbonate    ECI 25    [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212016131/002",
+      "name": "Calcium Carbonate    CC-6001 25\u00b5    [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212016137/001",
+      "name": "Talc Powder 25 micron        [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212016228/001",
+      "name": "Calcium Carbonate     400 mesh  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212018015/001",
+      "name": "Calcium Stearate       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212019037/001",
+      "name": "Kaolin (Spi)       -SPI",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212021036/001",
+      "name": "Hydrated Lime       -SPI",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212021036/003",
+      "name": "Hydrated Lime       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212021036/004",
+      "name": "Hydrated Lime       -Fine",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212022019/001",
+      "name": "CULMINAL   C 8367    [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212022020/001",
+      "name": "CULMINAL   C 8381    [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212022085/001",
+      "name": "Tylose   MH   2000 YP 2  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212022087/001",
+      "name": "WALOCEL   MKX   15000 PF 01  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212022088/001",
+      "name": "WALOCEL   MKX   45000 PP 10  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212022089/001",
+      "name": "WALOCEL   MT      400 PFV  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212022090/001",
+      "name": "WALOCEL   MW    40000 PFV  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212022090/002",
+      "name": "WALOCEL   M      27327 [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212022109/001",
+      "name": "WALOCEL   MKX   45000 PF 20 L  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212022123/001",
+      "name": "CULMINAL   PLUS   1060 PF  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212027005/001",
+      "name": "Bayferrox   Black   318  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212027097/001",
+      "name": "Titanium Dioxide (TiO\u2082)     BLR   895  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212027144/001",
+      "name": "Titanium Dioxide (TiO\u2082)     BLR   996  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212027154/001",
+      "name": "Bayferrox   Yellow Oxide   920  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212027155/001",
+      "name": "Bayferrox   Red Oxide   110 M  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212027163/001",
+      "name": "Bayferrox   Brown   610  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212027164/001",
+      "name": "Bayferrox   Green   GN  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212027221/001",
+      "name": "Ultramarine Blue 463       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212027222/001",
+      "name": "Procter Johnson    Blue   PJ 501  [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212029145/001",
+      "name": "SMF 10       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212029206/001",
+      "name": "Conpac  149 S       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212029206/002",
+      "name": "RC 109       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212033003/001",
+      "name": "Axilat  HP 8510       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212033025/001",
+      "name": "DLP 212       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212033121/001",
+      "name": "VINNAPAS  8118 E       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212033121/002",
+      "name": "VINNAPAS  7034 E       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212033122/001",
+      "name": "VINNAPAS  5010 N       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212033122/002",
+      "name": "ECOPASS  1010        [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212033122/003",
+      "name": "RDP  502        [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212033245/001",
+      "name": "VINNAPAS  8034       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212034055/001",
+      "name": "Peramin  SRA 40       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212034095/001",
+      "name": "Metolat  P 871       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212037002/001",
+      "name": "Amitrolit  8850       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212037003/001",
+      "name": "Exelcon  A 850       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212037119/001",
+      "name": "Tylovis  SE 7       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212037119/002",
+      "name": "Starvis  SE 35 F       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212038047/001",
+      "name": "Melflux  2651 F       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212038232/001",
+      "name": "SNF POWDER 18 %       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212043099/001",
+      "name": "Sodium Benzoate       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212043124/001",
+      "name": "Sodium Nitrite       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212045125/001",
+      "name": "Metakaolin       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212046126/001",
+      "name": "Sodium Gluconate       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212046208/001",
+      "name": "Tartaric Acid       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212046258/001",
+      "name": "Citric Acid       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 400.0,
+      "sixSales": 2948.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212047128/001",
+      "name": "Hemi-hydrated Gypusm       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212051149/001",
+      "name": "Glass Fiber 12 mm       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212052151/001",
+      "name": "Microsilica Undensified    Light Grey    [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212052151/002",
+      "name": "Microsilica Undensified    Dark Grey    [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212052151/003",
+      "name": "Microsilica Undensified    Light Grey  (SP)  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212061201/001",
+      "name": "Bermocoll EBM 8000       [20 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212061204/001",
+      "name": "Bermocoll EBM 10000       [20 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212061204/002",
+      "name": "RC HEC 100000       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212064207/001",
+      "name": "CAB  30       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212064207/002",
+      "name": "ANAMIC       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212067213/001",
+      "name": "Sodium Silicate (Powder)       [25 Kg]",
+      "system": "Additives for Concrete Goods",
+      "sixQty": 2800.0,
+      "sixSales": 9716.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "21206821/001",
+      "name": "GGBS        1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "21206821/002",
+      "name": "GGBS  SPI     1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "21206821/003",
+      "name": "GGBS  SPI     1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212069216/001",
+      "name": "Potassium Carbonate       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212071220/001",
+      "name": "BYK-Claytone  APA       [12.5 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212073236/001",
+      "name": "HIFULL  HL-200       [10 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212212134/001",
+      "name": "BYK-022       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212213219/001",
+      "name": "DISPER BYK  116       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212249135/001",
+      "name": "Bioxam 339       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212301114/001",
+      "name": "DMP-30       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212304004/001",
+      "name": "BAXXODUR  EC 201       [180 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212304004/002",
+      "name": "EPOCURE  HD 42       [IPDA - 180 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 360.0,
+      "sixSales": 9050.4,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212304004/003",
+      "name": "WANAMINE IPDA       [180 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212304004/004",
+      "name": "WANAMINE IPDA       [900 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212304028/001",
+      "name": "ETHERAMINE  RC 230       [180 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 950.0,
+      "sixSales": 13252.5,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212304028/002",
+      "name": "EPOCURE  HD 23       [195 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212304028/003",
+      "name": "WANAMINE  8100       [180 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212304028/004",
+      "name": "ETHERAMINE  D 230       [900 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212304049/001",
+      "name": "N-AEP       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212304095/002",
+      "name": "JEFFAMINE  D 230       [195 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212306061/001",
+      "name": "PREVENTOL  D 6       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212306062/001",
+      "name": "PREVENTOL  D 15       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212311063/001",
+      "name": "RAZEEN  CURE 91618       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212311196/002",
+      "name": "Cetepox  1312 H       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212311196/003",
+      "name": "Epikure F 205       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212311196/004",
+      "name": "CamCure  2416       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212311211/003",
+      "name": "Synpol 160       [180 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212311211/004",
+      "name": "ACP 160      [180 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212311218/001",
+      "name": "Cardolite NC 558       [204 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 1600.0,
+      "sixSales": 32848.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212311237/001",
+      "name": "Synpol 140       [180 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212311240/001",
+      "name": "Epoxcure  D 5000       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212311241/001",
+      "name": "Epoxcure   E 100       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212311253/001",
+      "name": "Avance Thane PPG 330",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212311254/001",
+      "name": "Avance Thane PPG 304",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212311257/001",
+      "name": "Ancamine 2858",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212311260/001",
+      "name": "Triethylenetetramine (TETA)",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212312007/001",
+      "name": "BYK-057       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212312031/001",
+      "name": "Foamaster  MO NDW       [180 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212312031/002",
+      "name": "BYK-037       [185 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212312031/003",
+      "name": "PAT-ADD  AF 11       [170 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212313008/001",
+      "name": "BYK-154       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212313024/001",
+      "name": "DISPERBYK - 2152       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212313194/001",
+      "name": "Pidicryl  6400 A       [250 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212314064/001",
+      "name": "Epoxy Resin 828       [240 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212314064/002",
+      "name": "Epoxy Resin 828       [240 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212314064/003",
+      "name": "Epoxy Resin 128      [1000 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212314110/001",
+      "name": "Epoxy Resin HE 175071 XL (75 % in Xylene)       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212314110/002",
+      "name": "CamCoat 2171X75       [220 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212314110/003",
+      "name": "EPOCURE\u00ae SL 7071X75       [210 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212320010/001",
+      "name": "BYK-320       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212320011/001",
+      "name": "BYK-354       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212322070/001",
+      "name": "RHEOVIS\u00ae 1191       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212322071/001",
+      "name": "RHEOBYK-410       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212322073/001",
+      "name": "BYK-9076       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212326006/001",
+      "name": "Benzyl Alcohol       [240 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212326006/002",
+      "name": "Benzyl Alcohol       [1000 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212329048/001",
+      "name": "Mesamoll       1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212330063/001",
+      "name": "Visicryl 7557       [1050 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212332065/001",
+      "name": "Reactive Diluent (RC 748)       [C12\u2013C14 Alkyl Glycidyl Ether - 180 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212332065/002",
+      "name": "Reactive Diluent (BIOLUENT RD330)",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212332065/003",
+      "name": "EPOCURE DY-E 12       [180 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212332065/004",
+      "name": "Reactive Diluent  [C12\u2013C14 Alkyl Glycidyl Ether - 900 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212332066/001",
+      "name": "RC 750",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212339093/001",
+      "name": "White Oil M 70",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212340094/001",
+      "name": "XYLENE       [180 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212340112/001",
+      "name": "N-BUTANOL       [160 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212340113/001",
+      "name": "Metyl Ethyl Ketone (MEK)       [165 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212340113/002",
+      "name": "MK001 THINNER (165 Kg)",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212340261/001",
+      "name": "Solvent Naptha",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212344095/001",
+      "name": "VORANATE M 229       [250 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212344095/002",
+      "name": "VORAMER MF 1519       [250 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212344111/001",
+      "name": "Reactive Polyamide HP170115 XL       [190 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212348133/001",
+      "name": "TEXANOL       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212350136/001",
+      "name": "Mono Propylene Glycol (MPG)       [210 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212350136/002",
+      "name": "Di Propyl Glycol (DPG)",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212362202/001",
+      "name": "Ammonia 35%       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212365209/001",
+      "name": "EXOSTRUCT L 6061        [SBR Latex - 200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212374238/002",
+      "name": "AvanThane PU FLEX       [220 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 8800.0,
+      "sixSales": 136168.56,
+      "threeQty": 8800.0,
+      "threeSales": 136168.56
+    },
+    {
+      "code": "212374238/003",
+      "name": "Wannate 8312       [220 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212377250/001",
+      "name": "Eterac 7333 X 60",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212378251/001",
+      "name": "Desmodur N 75",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "212379252/001",
+      "name": "RC-187",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 200.0,
+      "sixSales": 8000.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213012012/001",
+      "name": "BYK- A 530       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213012224/001",
+      "name": "BYK- 555       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213012227/001",
+      "name": "BYK- 310       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213013095/001",
+      "name": "PAT-ADD  948       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213122143/001",
+      "name": "Tafigel PUR 85       1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213122161/001",
+      "name": "Rheophob U116       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127053/001",
+      "name": "Omni Aqua Pigment Paste Blue 7100-7010       1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127054/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Dusty Grey  RAL 7037  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127055/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Tint Black  0010  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127102/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Concrete Grey  RAL 7023  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127105/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Light Grey  RAL 7035  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127107/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Signal Blue  RAL 5005  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127115/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Traffic Green  RAL 6024  [LS 10290]  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127116/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Traffic Grey  RAL 7042  [ LS 10263]  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127117/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Gentian Blue  RAL 5010  [LS 10374]  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127118/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Traffic Yellow  RAL 1023  [LS 10318]  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127138/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Traffic Grey  RAL 7043  [LS 10390]  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127139/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Pure Red  RAL 3028  [ LS 10401]  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127140/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Signal Green  RAL 6032  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127141/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Traffic Blue  RAL 5017  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127146/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Silver Grey  RAL 7001  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127147/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Blue Grey  RAL 7031  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127162/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Basalt Gre  RAL 7012  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127165/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Yellow Oxide  100 1005  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127166/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Red Oxide  100 2010  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127166/002",
+      "name": "Omni Epoxy Pigment Paste 6100   Red Oxide  LS 10545  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127167/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Blue  100 7010  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127168/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Black  100 0010  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127169/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Yellow  100 2000  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127172/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Traffic Green  RAL 6024  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127173/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Tomato Red  RAL 3013  [ LS 10277]  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127188/001",
+      "name": "Omni Aqua Pigment Paste (PP) FTW 7100-0025   Black Paste    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127188/002",
+      "name": "Hydratint Aqueous Paste \u2013 LT Black   Black Paste    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 600.0,
+      "sixSales": 6948.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127195/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Signal Grey  RAL 7004  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127198/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Pale Green  R6021  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127199/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Dark Green  10166  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127200/001",
+      "name": "Omni Epoxy Pigment Paste 6100   Oxide Red  RAL 3009  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127244/001",
+      "name": "Omni Polyurea Pigment Paste (PP) 6600LS10298   Window Grey  RAL 7040  4Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 160.0,
+      "sixSales": 3914.0,
+      "threeQty": 160.0,
+      "threeSales": 3914.0
+    },
+    {
+      "code": "213127247/001",
+      "name": "Omni Polyurea Pigment Paste (PP) 6600   Sky Blue  RAL 5015",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127259/001",
+      "name": "OMNI EPOXY BROWN RED 6100 LS 10355  (RAL-3011)",
+      "system": "Surface Protection - Resin",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213127262/001",
+      "name": "OMNI EPOXY Coral Red  6100 LS261065   (RAL-3016)",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213175242/001",
+      "name": "Dynasylan 1146       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213176243/001",
+      "name": "Tinuvin 328       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213180255/001",
+      "name": "Sylosive 3A",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213231060/001",
+      "name": "PP Fibres Mono  6 mm       [25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213311239/001",
+      "name": "Epoxcure D 2000       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213330062/001",
+      "name": "Primal AS 8012       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213330062/002",
+      "name": "Visicryl 7556       [1050 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213330062/003",
+      "name": "JIFTEX J 457    [1000 KG]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213330103/001",
+      "name": "Visicryl 7290       [1050 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213330103/002",
+      "name": "JIFTEX  JCC 690     [1000 KG]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213330165/001",
+      "name": "Dispurez 104       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213330165/002",
+      "name": "ESACOAT PU 470       [120 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 2400.0,
+      "sixSales": 55584.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213330165/003",
+      "name": "Incorez CS 8106       [200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213330263/001",
+      "name": "Avanflex 123      [1050 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "213330264/001",
+      "name": "OPTICRYL 6530",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 5250.0,
+      "sixSales": 56647.5,
+      "threeQty": 5250.0,
+      "threeSales": 56647.5
+    },
+    {
+      "code": "213341091/002",
+      "name": "Water       -CF",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "220320095/001",
+      "name": "Tecpor MTZ/K50       1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "220320095/003",
+      "name": "Berolan LPW 7",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "222022091/001",
+      "name": "RC 200       [Diutan Gum - 25 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "222022098/001",
+      "name": "TER 2000       1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "222071233/001",
+      "name": "Rheoplus TS 3010A       1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "222312097/001",
+      "name": "LK AF 514       [Silfoam SC 120 - 200 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "223304034/001",
+      "name": "Hardener EP 132       1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "223304035/001",
+      "name": "Hardener EP 155       1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "223304095/001",
+      "name": "TEPA       [Tetraethylenpentamin ]  1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "223312033/001",
+      "name": "Halbf. Entsch\u00e4umer Fk 61       1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "223325056/001",
+      "name": "Polymerlosung Z 495       1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "223381265/001",
+      "name": "Triacetin",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
       "code": "27309570391201031",
       "name": "Emcoril   AC10    20Kg",
       "system": "Curing Agents",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "311107045/001",
+      "name": "Emcefix PR   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "311107046/001",
+      "name": "Emcekrete HP   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "311107050/001",
+      "name": "Nafufill KM 420   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "311107057/001",
+      "name": "Emcefix HB   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "312007044/001",
+      "name": "Emcefix CR   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "312007047/001",
+      "name": "Emcefix FR   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "312007048/001",
+      "name": "Emcekrete GP   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "312007049/001",
+      "name": "MC-Proof \u00ae 501 Flex AE Komp. A   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "312007049/002",
+      "name": "MC-Proof \u00ae 500 Flex AE Komp. A   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "312007051/001",
+      "name": "Nafufill KM 250 AE   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "312007052/001",
+      "name": "Emcefix ST AE   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "313107051/001",
+      "name": "MC-Proof 500 AE Komp. A   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "321107051/001",
+      "name": "Nafufill KM 106   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "321107053/001",
+      "name": "MasterRock    S5 BF    [20 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "321107054/001",
+      "name": "MasterRock    S5 G    [20 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "321107055/001",
+      "name": "MasterRock    S5 F    [20 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "321107056/001",
+      "name": "MasterRock    S5 HS    [20 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "321107057/001",
+      "name": "MasterRock    S5 BF+    [20 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "321107058/001",
+      "name": "MasterRock    S5 G+    [20 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "321107059/001",
+      "name": "MasterRock    S5BF Additive+    [20 Kg]",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "321107060/001",
+      "name": "Centarment Proof CP 10   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "321107061/001",
+      "name": "Centarment Proof CWP   Konzentrat (BB)    1Kg",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "321107062/001",
+      "name": "MasterRock    S5 G & S5 G+ (2in1)    [20 Kg]",
+      "system": "Raw Materials and Precursors",
       "sixQty": 0.0,
       "sixSales": 0.0,
       "threeQty": 0.0,
@@ -1371,7 +4674,7 @@
     },
     {
       "code": "34100700360101301",
-      "name": "MC-Proof ® 500 Flex AE Kpmp. A  24KG",
+      "name": "MC-Proof \u00ae 500 Flex AE Kpmp. A  24KG",
       "system": "Mineral Waterproofing",
       "sixQty": 2.0,
       "sixSales": 144.0,
@@ -1380,7 +4683,7 @@
     },
     {
       "code": "341007003610111",
-      "name": "MC-Proof ® 500 Flex AE   Komp. A    15Kg",
+      "name": "MC-Proof \u00ae 500 Flex AE   Komp. A    15Kg",
       "system": "Mineral Waterproofing",
       "sixQty": 4874.0,
       "sixSales": 208309.0,
@@ -1389,7 +4692,7 @@
     },
     {
       "code": "34100800360101",
-      "name": "MC-Proof ® 500 Flex AE  White  Komp. A  24KG",
+      "name": "MC-Proof \u00ae 500 Flex AE  White  Komp. A  24KG",
       "system": "Mineral Waterproofing",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -1398,7 +4701,7 @@
     },
     {
       "code": "3410957022011001",
-      "name": "MC-Proof ® 500 Flex AE   Komp. B    5Kg",
+      "name": "MC-Proof \u00ae 500 Flex AE   Komp. B    5Kg",
       "system": "Mineral Waterproofing",
       "sixQty": 4874.0,
       "sixSales": 70453.0,
@@ -1407,7 +4710,7 @@
     },
     {
       "code": "34109570220110031",
-      "name": "MC-Proof ® 500 Flex AE   Komp. B    8Kg",
+      "name": "MC-Proof \u00ae 500 Flex AE   Komp. B    8Kg",
       "system": "Mineral Waterproofing",
       "sixQty": 2.0,
       "sixSales": 48.0,
@@ -1461,7 +4764,7 @@
     },
     {
       "code": "44000000190101",
-      "name": "Nafufill    KMH    5Kg",
+      "name": "Nafufill\u00a0   KMH    5Kg",
       "system": "Concrete Repair",
       "sixQty": 16.0,
       "sixSales": 480.0,
@@ -1470,7 +4773,7 @@
     },
     {
       "code": "44000000350101031",
-      "name": "Nafufill    KMH    20Kg",
+      "name": "Nafufill\u00a0   KMH    20Kg",
       "system": "Concrete Repair",
       "sixQty": 1.0,
       "sixSales": 200.0,
@@ -1479,7 +4782,7 @@
     },
     {
       "code": "44039990371040",
-      "name": "Ombran    HB    25Kg",
+      "name": "Ombran\u00a0   HB    25Kg",
       "system": "Surface Protection - Mineral",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -1488,7 +4791,7 @@
     },
     {
       "code": "44040000371040",
-      "name": "Ombran    MHP    25Kg",
+      "name": "Ombran\u00a0   MHP    25Kg",
       "system": "Surface Protection - Mineral",
       "sixQty": 102.0,
       "sixSales": 29070.0,
@@ -1497,7 +4800,7 @@
     },
     {
       "code": "44050000350101",
-      "name": "Nafufill    BC    20Kg",
+      "name": "Nafufill\u00a0   BC    20Kg",
       "system": "Concrete Repair",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -1506,7 +4809,7 @@
     },
     {
       "code": "44120010370101",
-      "name": "Nafufill    GTS-HS    25Kg",
+      "name": "Nafufill\u00a0   GTS-HS    25Kg",
       "system": "Concrete Repair",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -1515,7 +4818,7 @@
     },
     {
       "code": "44170700371001",
-      "name": "Nafufill  KM 250 HS  25 Kg",
+      "name": "Nafufill\u00a0 KM 250 HS  25 Kg",
       "system": "Concrete Repair",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -1524,7 +4827,7 @@
     },
     {
       "code": "44300000370101",
-      "name": "Nafufill    KM 130    25Kg",
+      "name": "Nafufill\u00a0   KM 130    25Kg",
       "system": "Concrete Repair",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -1533,16 +4836,16 @@
     },
     {
       "code": "44470000370101033",
-      "name": "Nafufill    KM 250 AE    25Kg",
+      "name": "Nafufill\u00a0   KM 250 AE    25Kg",
       "system": "Concrete Repair",
       "sixQty": 1242.0,
-      "sixSales": 20890.56,
+      "sixSales": 20890.5625,
       "threeQty": 917.0,
-      "threeSales": 15777.56
+      "threeSales": 15777.5625
     },
     {
       "code": "44470020370101",
-      "name": "Nafufill    KM 110 HS    25Kg",
+      "name": "Nafufill\u00a0   KM 110 HS    25Kg",
       "system": "Concrete Repair",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -1557,6 +4860,15 @@
       "sixSales": 38570.0,
       "threeQty": 3170.0,
       "threeSales": 38070.0
+    },
+    {
+      "code": "445309904701111",
+      "name": "BOND-Floor Screed SC       25Kg",
+      "system": "Screeds",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
     },
     {
       "code": "44581010370101",
@@ -1578,7 +4890,7 @@
     },
     {
       "code": "45210700371001031",
-      "name": "Nafufill    KM 106 AE    25Kg",
+      "name": "Nafufill\u00a0   KM 106 AE    25Kg",
       "system": "Concrete Repair",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -1614,7 +4926,7 @@
     },
     {
       "code": "45750730291011031",
-      "name": "MC-Fast ST AE       5Kg",
+      "name": "MC-Fast ST\u00a0AE       5Kg",
       "system": "Concrete Cosmetics and Design",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -1623,7 +4935,7 @@
     },
     {
       "code": "45750730291101031",
-      "name": "MC-Fast ST AE       15Kg",
+      "name": "MC-Fast ST\u00a0AE       15Kg",
       "system": "Concrete Cosmetics and Design",
       "sixQty": 121.0,
       "sixSales": 16600.0,
@@ -1632,7 +4944,7 @@
     },
     {
       "code": "45760700311040",
-      "name": "Ombran    W    15Kg",
+      "name": "Ombran\u00a0   W    15Kg",
       "system": "Surface Protection - Mineral",
       "sixQty": 11.0,
       "sixSales": 2250.0,
@@ -1641,7 +4953,7 @@
     },
     {
       "code": "45790700241040",
-      "name": "Ombran    IW    10Kg",
+      "name": "Ombran\u00a0   IW    10Kg",
       "system": "Surface Protection - Mineral",
       "sixQty": 3.0,
       "sixSales": 660.0,
@@ -1650,7 +4962,7 @@
     },
     {
       "code": "47140700371040",
-      "name": "Ombran    ASP    25Kg",
+      "name": "Ombran\u00a0   ASP    25Kg",
       "system": "Surface Protection - Mineral",
       "sixQty": 23.0,
       "sixSales": 6570.0,
@@ -1761,36 +5073,36 @@
       "name": "MC DUR 1150   RAL 6032  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 7.0,
-      "sixSales": 2678.05,
+      "sixSales": 2678.046,
       "threeQty": 7.0,
-      "threeSales": 2678.05
+      "threeSales": 2678.046
     },
     {
       "code": "50066790551101",
       "name": "MC DUR 1150   RAL 7004  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 58.0,
-      "sixSales": 18470.51,
+      "sixSales": 18470.5104,
       "threeQty": 31.0,
-      "threeSales": 9342.02
+      "threeSales": 9342.021
     },
     {
       "code": "500667905511011",
       "name": "MC DUR 1150   RAL 7001  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 2.0,
-      "sixSales": 346.99,
+      "sixSales": 346.9894,
       "threeQty": 2.0,
-      "threeSales": 346.99
+      "threeSales": 346.9894
     },
     {
       "code": "500667905511011031",
       "name": "MC DUR 1150   RAL 7012  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 20.0,
-      "sixSales": 6939.79,
+      "sixSales": 6939.788,
       "threeQty": 20.0,
-      "threeSales": 6939.79
+      "threeSales": 6939.788
     },
     {
       "code": "500667905511012031",
@@ -1806,18 +5118,18 @@
       "name": "MC DUR 1150   RAL 7033  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 84.0,
-      "sixSales": 29147.11,
+      "sixSales": 29147.1096,
       "threeQty": 84.0,
-      "threeSales": 29147.11
+      "threeSales": 29147.1096
     },
     {
       "code": "50066790551201",
       "name": "MC DUR 1150   RAL 7005  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 176.0,
-      "sixSales": 65185.5,
+      "sixSales": 65185.504,
       "threeQty": 101.0,
-      "threeSales": 38053.73
+      "threeSales": 38053.732
     },
     {
       "code": "50066790551211",
@@ -1842,27 +5154,27 @@
       "name": "MC DUR 1150   RAL 7040  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 102.0,
-      "sixSales": 32145.46,
+      "sixSales": 32145.4632,
       "threeQty": 81.0,
-      "threeSales": 25917.45
+      "threeSales": 25917.4492
     },
     {
       "code": "500667915511011",
       "name": "MC DUR 1150   RAL 7044  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 3.0,
-      "sixSales": 934.2,
+      "sixSales": 934.2021,
       "threeQty": 3.0,
-      "threeSales": 934.2
+      "threeSales": 934.2021
     },
     {
       "code": "500667915511031",
       "name": "MC DUR 1150   RAL 7042  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 42.0,
-      "sixSales": 14502.38,
+      "sixSales": 14502.3774,
       "threeQty": 42.0,
-      "threeSales": 14502.38
+      "threeSales": 14502.3774
     },
     {
       "code": "5006679155110311",
@@ -1878,25 +5190,25 @@
       "name": "MC DUR 1150   RAL 5017  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 14.0,
-      "sixSales": 2295.47,
+      "sixSales": 2295.468,
       "threeQty": 14.0,
-      "threeSales": 2295.47
+      "threeSales": 2295.468
     },
     {
       "code": "50067753701010301",
       "name": "MC DUR 1150   RAL 7035  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 189.0,
-      "sixSales": 54797.64,
+      "sixSales": 54797.6409,
       "threeQty": 104.0,
-      "threeSales": 34271.89
+      "threeSales": 34271.8859
     },
     {
       "code": "500677537010103011",
       "name": "MC DUR 1150   RAL 3011  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 70.0,
-      "sixSales": 26157.66,
+      "sixSales": 26157.663,
       "threeQty": 0.0,
       "threeSales": 0.0
     },
@@ -1905,9 +5217,9 @@
       "name": "MC DUR 1150   RAL 1015  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 20.0,
-      "sixSales": 7687.15,
+      "sixSales": 7687.148,
       "threeQty": 5.0,
-      "threeSales": 1921.79
+      "threeSales": 1921.787
     },
     {
       "code": "500677537010111301",
@@ -1932,18 +5244,18 @@
       "name": "MC DUR 1150   RAL 7036  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 60.0,
-      "sixSales": 18684.04,
+      "sixSales": 18684.042,
       "threeQty": 20.0,
-      "threeSales": 6228.01
+      "threeSales": 6228.014
     },
     {
       "code": "50067753701110301",
       "name": "MC DUR 1150   RAL 7037  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 267.0,
-      "sixSales": 88517.88,
+      "sixSales": 88517.8765,
       "threeQty": 267.0,
-      "threeSales": 88517.88
+      "threeSales": 88517.8765
     },
     {
       "code": "50067753701111301",
@@ -1959,7 +5271,7 @@
       "name": "MC DUR 1150   RAL 3016  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 27.0,
-      "sixSales": 10329.61,
+      "sixSales": 10329.606,
       "threeQty": 0.0,
       "threeSales": 0.0
     },
@@ -1977,16 +5289,16 @@
       "name": "MC DUR 1150   RAL 7030  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 31.0,
-      "sixSales": 10756.67,
+      "sixSales": 10756.6714,
       "threeQty": 25.0,
-      "threeSales": 8674.74
+      "threeSales": 8674.735
     },
     {
       "code": "50067753711011301",
       "name": "MC DUR 1150   RAL 7039  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 120.0,
-      "sixSales": 40571.06,
+      "sixSales": 40571.064,
       "threeQty": 0.0,
       "threeSales": 0.0
     },
@@ -1995,7 +5307,7 @@
       "name": "MC DUR 1150   RAL 6021  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 6.0,
-      "sixSales": 2295.47,
+      "sixSales": 2295.468,
       "threeQty": 0.0,
       "threeSales": 0.0
     },
@@ -2004,9 +5316,9 @@
       "name": "MC DUR 1150   RAL 7038  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 85.0,
-      "sixSales": 29503.0,
+      "sixSales": 29502.9961,
       "threeQty": 84.0,
-      "threeSales": 29147.11
+      "threeSales": 29147.1096
     },
     {
       "code": "50067780370225",
@@ -2040,9 +5352,9 @@
       "name": "MC DUR 1150   MISTY GREY   Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 48.0,
-      "sixSales": 14947.23,
+      "sixSales": 14947.2336,
       "threeQty": 48.0,
-      "threeSales": 14947.23
+      "threeSales": 14947.2336
     },
     {
       "code": "50067780381203",
@@ -2058,27 +5370,27 @@
       "name": "MC DUR 1150   RAL 7015   Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 8.0,
-      "sixSales": 2775.92,
+      "sixSales": 2775.9152,
       "threeQty": 8.0,
-      "threeSales": 2775.92
+      "threeSales": 2775.9152
     },
     {
       "code": "50067780381205",
       "name": "MC DUR 1150   RAL 7022   Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 15.0,
-      "sixSales": 4671.01,
+      "sixSales": 4671.0105,
       "threeQty": 15.0,
-      "threeSales": 4671.01
+      "threeSales": 4671.0105
     },
     {
       "code": "50067820550101031",
       "name": "MC DUR 1150   RAL 7024  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 15.0,
-      "sixSales": 4671.01,
+      "sixSales": 4671.0105,
       "threeQty": 15.0,
-      "threeSales": 4671.01
+      "threeSales": 4671.0105
     },
     {
       "code": "50067820550101A",
@@ -2103,18 +5415,18 @@
       "name": "MC DUR 1150     Komp B.  3.11Kg",
       "system": "Resin Flooring",
       "sixQty": 1668.0,
-      "sixSales": 66905.76,
+      "sixSales": 66905.7585,
       "threeQty": 1008.0,
-      "threeSales": 41707.03
+      "threeSales": 41707.0332
     },
     {
       "code": "50067850170111031",
       "name": "MC DUR 1150     Komp B.  3.585 Kg",
       "system": "Resin Flooring",
       "sixQty": 125.0,
-      "sixSales": 6751.18,
+      "sixSales": 6751.175,
       "threeQty": 60.0,
-      "threeSales": 3240.56
+      "threeSales": 3240.564
     },
     {
       "code": "50067850171101031",
@@ -2130,9 +5442,9 @@
       "name": "MC DUR 1150   RAL 7046  Komp A.  25.09Kg",
       "system": "Resin Flooring",
       "sixQty": 296.0,
-      "sixSales": 85145.84,
+      "sixSales": 85145.8427,
       "threeQty": 65.0,
-      "threeSales": 20312.22
+      "threeSales": 20312.2223
     },
     {
       "code": "50067850351101031",
@@ -2157,9 +5469,9 @@
       "name": "MC DUR 1150 VK     Komp A.  11.3L",
       "system": "Resin Flooring",
       "sixQty": 158.0,
-      "sixSales": 36740.7,
+      "sixSales": 36740.6979,
       "threeQty": 158.0,
-      "threeSales": 36740.7
+      "threeSales": 36740.6979
     },
     {
       "code": "50200000450101",
@@ -2184,9 +5496,9 @@
       "name": "MC DUR 1150 VK     Komp B.  6.7L",
       "system": "Resin Flooring",
       "sixQty": 158.0,
-      "sixSales": 21784.3,
+      "sixSales": 21784.3021,
       "threeQty": 158.0,
-      "threeSales": 21784.3
+      "threeSales": 21784.3021
     },
     {
       "code": "50210002240101",
@@ -2202,18 +5514,18 @@
       "name": "MC-DUR 1177 WV-A    Komp B.  13.20 Kg",
       "system": "Resin Flooring",
       "sixQty": 66.0,
-      "sixSales": 40347.88,
+      "sixSales": 40347.884,
       "threeQty": 66.0,
-      "threeSales": 40347.88
+      "threeSales": 40347.884
     },
     {
       "code": "50750010320101",
       "name": "MC-DUR 1177 WV-A   Komp A.  16.8 Kg",
       "system": "Resin Flooring",
       "sixQty": 66.0,
-      "sixSales": 51351.68,
+      "sixSales": 51351.6759,
       "threeQty": 66.0,
-      "threeSales": 51351.68
+      "threeSales": 51351.6759
     },
     {
       "code": "50750013240101",
@@ -2418,9 +5730,9 @@
       "name": "MC-DUR TopSpeed M     Komp  A  6.33Kg",
       "system": "Resin Flooring",
       "sixQty": 122.0,
-      "sixSales": 71607.76,
+      "sixSales": 71607.7561,
       "threeQty": 122.0,
-      "threeSales": 71607.76
+      "threeSales": 71607.7561
     },
     {
       "code": "54680020130101",
@@ -2436,9 +5748,9 @@
       "name": "MC-DUR TopSpeed M     Komp  B  3.67Kg",
       "system": "Resin Flooring",
       "sixQty": 122.0,
-      "sixSales": 41517.66,
+      "sixSales": 41517.6578,
       "threeQty": 122.0,
-      "threeSales": 41517.66
+      "threeSales": 41517.6578
     },
     {
       "code": "54690010191001",
@@ -2580,9 +5892,9 @@
       "name": "MC-DUR TopSpeed flex     Komp. B  4.01 Kg",
       "system": "Resin Flooring",
       "sixQty": 324.0,
-      "sixSales": 123421.03,
+      "sixSales": 123421.0323,
       "threeQty": 324.0,
-      "threeSales": 123421.03
+      "threeSales": 123421.0323
     },
     {
       "code": "54740010230101",
@@ -2598,9 +5910,9 @@
       "name": "MC-DUR TopSpeed Flex RAL 1015  Komp. A  5.99 Kg",
       "system": "Resin Flooring",
       "sixQty": 324.0,
-      "sixSales": 184355.9,
+      "sixSales": 184355.8959,
       "threeQty": 324.0,
-      "threeSales": 184355.9
+      "threeSales": 184355.8959
     },
     {
       "code": "54741150190101",
@@ -2687,10 +5999,10 @@
       "code": "55070010240101031",
       "name": "MC-Injekt 2300 top     Komp. A  10L",
       "system": "Injection",
-      "sixQty": 251.0,
-      "sixSales": 146550.0,
-      "threeQty": 132.0,
-      "threeSales": 75900.0
+      "sixQty": 254.0,
+      "sixSales": 148350.0,
+      "threeQty": 135.0,
+      "threeSales": 77700.0
     },
     {
       "code": "55070014711001",
@@ -2705,10 +6017,10 @@
       "code": "55070020240101031",
       "name": "MC-Injekt 2300 top     Komp. B  10L",
       "system": "Injection",
-      "sixQty": 251.0,
-      "sixSales": 146550.0,
-      "threeQty": 132.0,
-      "threeSales": 75900.0
+      "sixQty": 254.0,
+      "sixSales": 148350.0,
+      "threeQty": 135.0,
+      "threeSales": 77700.0
     },
     {
       "code": "55070024711001",
@@ -3116,6 +6428,15 @@
       "threeSales": 0.0
     },
     {
+      "code": "553701000540101",
+      "name": "MC-ADDITIVE INJEKT 21 IN",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
       "code": "553900000240101",
       "name": "MC-Injekt PowerSeal     G",
       "system": "Injection",
@@ -3369,7 +6690,7 @@
     },
     {
       "code": "58520000111001",
-      "name": "MC-Stellmittel TX 19        1Kg",
+      "name": "MC-Stellmittel TX 19\u00a0       1Kg",
       "system": "Resin Flooring",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -3498,9 +6819,18 @@
       "name": "MC-I 710       1Set",
       "system": "Injection",
       "sixQty": 1.0,
-      "sixSales": 37207.89,
+      "sixSales": 37207.8942,
       "threeQty": 1.0,
-      "threeSales": 37207.89
+      "threeSales": 37207.8942
+    },
+    {
+      "code": "5970200693LEIH04",
+      "name": "Equipment Rental       1Pc.",
+      "system": "Not Assignable",
+      "sixQty": 5.0,
+      "sixSales": 2500.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
     },
     {
       "code": "59705206930001",
@@ -3531,7 +6861,7 @@
     },
     {
       "code": "59711007010001",
-      "name": "ACCESSORIES FOR RAM LACNES 1/2ÏN       1Pc.",
+      "name": "ACCESSORIES FOR RAM LACNES 1/2\u00cfN       1Pc.",
       "system": "Injection",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -3551,6 +6881,96 @@
       "code": "59990000111001",
       "name": "SLIDE COUPLING       1Pc.",
       "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59990000111002",
+      "name": "Label   MC-Injekt 2300 Flow   Komp A. 305 mm x 295 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59990000111003",
+      "name": "Label   MC-Injekt 2300 Flow   Komp. B  305 mm x 295 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59990000111004",
+      "name": "Label   MC-Injekt 2700  Komp A. 400 mm x 260 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59990000111005",
+      "name": "Label   MC-Injekt 2700  Komp. B  400 mm x 260 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59990000111006",
+      "name": "Label   MC-Injekt 2700 L  Komp A. 400 mm x 260 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59990000111007",
+      "name": "Label   MC-Injekt 2700 L  Komp. B  400 mm x 260 mm  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59990000111008",
+      "name": "Label   MC-Montan Injekt LE-S  Komp A. 20L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59990000111009",
+      "name": "Label   MC-Montan Injekt LE-S  Komp. B 20L  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59990000111010",
+      "name": "Label   MC-Injekt GL-95  A1 27.6 Kg  1Pc.",
+      "system": "Raw Materials and Precursors",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "59990000111011",
+      "name": "Label   MC-Injekt GL-95 TX  B1 25.8 Kg  1Pc.",
+      "system": "Raw Materials and Precursors",
       "sixQty": 0.0,
       "sixSales": 0.0,
       "threeQty": 0.0,
@@ -3650,10 +7070,10 @@
       "code": "73820100241001",
       "name": "Konudur 250 OM-PL Sommerharz  Komp.A  10L",
       "system": "Konudur Liner Systems",
-      "sixQty": 10.0,
-      "sixSales": 6166.67,
-      "threeQty": 5.0,
-      "threeSales": 3050.0
+      "sixQty": 11.0,
+      "sixSales": 6736.6669,
+      "threeQty": 6.0,
+      "threeSales": 3620.0001
     },
     {
       "code": "738201002411001",
@@ -3668,10 +7088,10 @@
       "code": "73820110351001",
       "name": "Konudur 250 OM-PL Sommerharz  Komp.B  20L",
       "system": "Konudur Liner Systems",
-      "sixQty": 10.0,
-      "sixSales": 12333.33,
-      "threeQty": 5.0,
-      "threeSales": 6100.0
+      "sixQty": 11.0,
+      "sixSales": 13473.3331,
+      "threeQty": 6.0,
+      "threeSales": 7239.9999
     },
     {
       "code": "7907002090001",
@@ -3765,7 +7185,7 @@
     },
     {
       "code": "9991690221002",
-      "name": "MC-PROOF ® 501 FLEX AE KOMP. B       8Kg",
+      "name": "MC-PROOF \u00ae 501 FLEX AE KOMP. B       8Kg",
       "system": "Mineral Waterproofing",
       "sixQty": 14.0,
       "sixSales": 336.0,
@@ -3774,7 +7194,7 @@
     },
     {
       "code": "9991690221102",
-      "name": "MC-PROOF ® 501 FLEX AE KOMP. B       5Kg",
+      "name": "MC-PROOF \u00ae 501 FLEX AE KOMP. B       5Kg",
       "system": "Mineral Waterproofing",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -3820,6 +7240,15 @@
     {
       "code": "99970060931001",
       "name": "Injection Packer     8mm  1Pc.",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
+    },
+    {
+      "code": "99970080930001",
+      "name": "Steel Packer     12mm  1Pc.",
       "system": "Injection",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -3975,9 +7404,9 @@
       "name": "Mycoflex    4200 GG AE    4L",
       "system": "Sealants and Joint Profiles",
       "sixQty": 399.0,
-      "sixSales": 36626.6,
+      "sixSales": 36626.604,
       "threeQty": 399.0,
-      "threeSales": 36626.6
+      "threeSales": 36626.604
     },
     {
       "code": "99970700351001031",
@@ -4038,27 +7467,27 @@
       "name": "MC-DUR ES 1500  Komp. A  2.1Kg",
       "system": "Resin Flooring",
       "sixQty": 6.0,
-      "sixSales": 60.43,
+      "sixSales": 60.4315,
       "threeQty": 6.0,
-      "threeSales": 60.43
+      "threeSales": 60.4315
     },
     {
       "code": "99970760090101",
       "name": "MC-DUR ES 1500   Komp. B  0.7Kg",
       "system": "Resin Flooring",
       "sixQty": 6.0,
-      "sixSales": 20.14,
+      "sixSales": 20.144,
       "threeQty": 6.0,
-      "threeSales": 20.14
+      "threeSales": 20.144
     },
     {
       "code": "99970770370101",
       "name": "MC-DUR ES 1500   Komp. C  25Kg",
       "system": "Resin Flooring",
       "sixQty": 6.0,
-      "sixSales": 719.42,
+      "sixSales": 719.4245,
       "threeQty": 6.0,
-      "threeSales": 719.42
+      "threeSales": 719.4245
     },
     {
       "code": "99970780200102",
@@ -4245,9 +7674,9 @@
       "name": "Mycoflex   4200  PG  4L",
       "system": "Sealants and Joint Profiles",
       "sixQty": 599.0,
-      "sixSales": 54916.25,
+      "sixSales": 54916.252,
       "threeQty": 587.0,
-      "threeSales": 53884.25
+      "threeSales": 53884.252
     },
     {
       "code": "99971290111001031",
@@ -4377,7 +7806,7 @@
     },
     {
       "code": "99971680370202",
-      "name": "MC-Proof ® 500 AE   White  Komp. A  18Kg",
+      "name": "MC-Proof \u00ae 500 AE   White  Komp. A  18Kg",
       "system": "Mineral Waterproofing",
       "sixQty": 175.0,
       "sixSales": 9450.0,
@@ -4386,16 +7815,16 @@
     },
     {
       "code": "99971680371001",
-      "name": "MC-Proof ® 500 AE   Grey  Komp. A  18Kg",
+      "name": "MC-Proof \u00ae 500 AE   Grey  Komp. A  18Kg",
       "system": "Mineral Waterproofing",
       "sixQty": 1162.0,
-      "sixSales": 47120.53,
+      "sixSales": 47120.5287,
       "threeQty": 525.0,
-      "threeSales": 21460.72
+      "threeSales": 21460.7192
     },
     {
       "code": "99971680371002",
-      "name": "MC-Proof ® 501 Flex AE     Komp. A  24Kg",
+      "name": "MC-Proof \u00ae 501 Flex AE     Komp. A  24Kg",
       "system": "Mineral Waterproofing",
       "sixQty": 14.0,
       "sixSales": 1008.0,
@@ -4404,7 +7833,7 @@
     },
     {
       "code": "99971680371102",
-      "name": "MC-Proof ® 501 Flex AE     Komp. A  15Kg",
+      "name": "MC-Proof \u00ae 501 Flex AE     Komp. A  15Kg",
       "system": "Mineral Waterproofing",
       "sixQty": 0.0,
       "sixSales": 0.0,
@@ -4413,12 +7842,12 @@
     },
     {
       "code": "99971690221001",
-      "name": "MC-Proof ® 500 AE     Komp. B  5Kg",
+      "name": "MC-Proof \u00ae 500 AE     Komp. B  5Kg",
       "system": "Mineral Waterproofing",
       "sixQty": 1729.0,
-      "sixSales": 15909.97,
+      "sixSales": 15909.9713,
       "threeQty": 700.0,
-      "threeSales": 8586.28
+      "threeSales": 8586.2808
     },
     {
       "code": "99971720321001",
@@ -4802,10 +8231,10 @@
       "code": "999807434111011032",
       "name": "MC-Proof 2110 AE     White    20Kg",
       "system": "Dispersion Waterproofing",
-      "sixQty": 1410.0,
-      "sixSales": 249582.0,
-      "threeQty": 1103.0,
-      "threeSales": 187442.0
+      "sixQty": 1420.0,
+      "sixSales": 251582.0,
+      "threeQty": 1113.0,
+      "threeSales": 189442.0
     },
     {
       "code": "999807434111012032",
