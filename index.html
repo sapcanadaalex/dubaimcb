@@ -241,7 +241,6 @@
       <h1>Item-wise Sales &amp; Forecast Report</h1>
       <div class="subtitle">Select an item code, enter forecast quantity for open months — sales value is calculated automatically.</div>
     </div>
-    <div class="meta">Source: Book2.xlsx (Sheet4)<br>Generated report</div>
   </header>
 
   <div class="status-bar" id="statusBar"></div>
@@ -257,6 +256,7 @@
     <div>
       <button class="btn secondary" id="addRowBtn">+ Add item row</button>
       <button class="btn" id="saveBtn">💾 Save Forecast</button>
+      <button class="btn secondary" id="logoutBtn">Logout</button>
     </div>
   </div>
 
@@ -782,9 +782,20 @@ function tryLogin(){
   }
 }
 
+function logout(){
+  sessionStorage.removeItem(LOGIN_SESSION_KEY);
+  document.getElementById("appWrap").style.display = "none";
+  document.getElementById("loginOverlay").style.display = "flex";
+  document.getElementById("loginUser").value = "";
+  document.getElementById("loginPass").value = "";
+  document.getElementById("loginError").textContent = "";
+  document.getElementById("loginUser").focus();
+}
+
 document.getElementById("loginBtn").addEventListener("click", tryLogin);
 document.getElementById("loginPass").addEventListener("keydown", e => { if(e.key === "Enter") tryLogin(); });
 document.getElementById("loginUser").addEventListener("keydown", e => { if(e.key === "Enter") document.getElementById("loginPass").focus(); });
+document.getElementById("logoutBtn").addEventListener("click", logout);
 
 if(sessionStorage.getItem(LOGIN_SESSION_KEY) === "1"){
   showApp();
