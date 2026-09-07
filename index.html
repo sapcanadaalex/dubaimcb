@@ -179,10 +179,61 @@
   .legend{ display:flex; gap:16px; margin-top:10px; font-size:11px; color:var(--ink-soft); flex-wrap:wrap; }
   .legend span{ display:inline-flex; align-items:center; gap:6px; }
   .swatch{ width:11px; height:11px; border-radius:2px; display:inline-block; border:1px solid var(--line); }
+
+  /* ---- Login overlay ---- */
+  #appWrap{ display:none; }
+  .login-overlay{
+    position:fixed; inset:0; background:rgba(20,30,40,0.55);
+    display:flex; align-items:center; justify-content:center; z-index:1000;
+  }
+  .login-box{
+    background:#fff; border-radius:10px; padding:28px 30px; width:280px;
+    box-shadow:0 10px 30px rgba(0,0,0,0.2);
+  }
+  .login-box h2{ margin:0 0 2px 0; font-size:18px; }
+  .login-sub{ color:var(--ink-soft); font-size:12px; margin:0 0 16px 0; }
+  .login-box label{ display:block; font-size:12px; color:var(--ink-soft); margin:10px 0 4px 0; }
+  .login-box input{
+    width:100%; padding:8px 10px; border:1px solid var(--line-strong);
+    border-radius:6px; font-size:13px;
+  }
+  .login-error{ color:#b23b3b; font-size:12px; margin-top:10px; min-height:14px; }
+
+  /* ---- Searchable item code combobox ---- */
+  .code-cell-wrap{ position:relative; }
+  input.code-input{
+    width:170px; font-family:var(--mono); font-size:11px;
+    padding:4px 5px; border:1px solid var(--line-strong); border-radius:5px; background:#fff;
+  }
+  input.code-input:focus{ outline:2px solid var(--accent); outline-offset:0; }
+  .code-dropdown{
+    position:absolute; top:100%; left:0; margin-top:2px;
+    width:300px; max-height:220px; overflow:auto;
+    background:#fff; border:1px solid var(--line-strong); border-radius:6px;
+    box-shadow:0 6px 16px rgba(20,30,40,0.18); z-index:50;
+  }
+  .code-option{ padding:5px 8px; font-size:11.5px; cursor:pointer; white-space:normal; font-family:"Segoe UI", Roboto, -apple-system, Arial, sans-serif; }
+  .code-option:hover, .code-option.active{ background:var(--accent-soft); }
+  .code-option-code{ font-family:var(--mono); font-weight:700; color:var(--accent); }
+  .code-option-empty{ padding:6px 8px; font-size:11.5px; color:var(--ink-soft); }
 </style>
 </head>
 <body>
-<div class="wrap">
+
+<div id="loginOverlay" class="login-overlay">
+  <div class="login-box">
+    <h2>Sign in</h2>
+    <p class="login-sub">Item-wise Sales &amp; Forecast Report</p>
+    <label for="loginUser">Username</label>
+    <input type="text" id="loginUser" autocomplete="username">
+    <label for="loginPass">Password</label>
+    <input type="password" id="loginPass" autocomplete="current-password">
+    <button class="btn" id="loginBtn" style="width:100%;margin-top:14px;">Sign in</button>
+    <div id="loginError" class="login-error"></div>
+  </div>
+</div>
+
+<div class="wrap" id="appWrap">
   <header>
     <div>
       <h1>Item-wise Sales &amp; Forecast Report</h1>
@@ -392,7 +443,9 @@ function ensureYear(row, year){
 const tbody = document.getElementById("tbody");
 
 function findItem(code){
-  return itemMaster.find(i => i.code === code);
+  if(!code) return null;
+  const c = String(code).trim().toUpperCase();
+  return itemMaster.find(i => String(i.code).trim().toUpperCase() === c) || null;
 }
 
 function render(filter){
@@ -407,9 +460,11 @@ function render(filter){
 
   rows.forEach(row => {
     const item = findItem(row.code);
-    const hay = item ? (item.code + " " + item.name + " " + item.system).toLowerCase() : "";
-    if(f && item && !hay.includes(f)) return;
-    if(f && !item) return;
+    // When an item can't be matched (e.g. items.json was just refreshed and
+    // the code isn't in it yet/anymore), still search against the raw code
+    // so the row — and its entered quantities — don't vanish.
+    const hay = item ? (item.code + " " + item.name + " " + (item.system || "")).toLowerCase() : (row.code || "").toLowerCase();
+    if(f && !hay.includes(f)) return;
     shown++;
 
     const yearQty = ensureYear(row, selectedYear);
@@ -420,21 +475,24 @@ function render(filter){
     // remove button
     let html = `<td class="sticky-0" style="left:0;"><button class="remove-btn" data-action="remove" title="Remove row">✕</button></td>`;
 
-    // item code select
-    html += `<td class="sticky-1 code-cell" style="left:26px;"><select class="code-select" data-action="select-code">`;
-    html += `<option value="">-- select --</option>`;
-    itemMaster.forEach(i => {
-      const sel = i.code === row.code ? "selected" : "";
-      html += `<option value="${i.code}" ${sel}>${i.code}</option>`;
-    });
-    html += `</select></td>`;
+    // item code — searchable combobox (type to filter by code or name)
+    const displayVal = item ? (item.code + " — " + item.name) : (row.code || "");
+    const escapedVal = displayVal.replace(/"/g, "&quot;");
+    const missingTitle = (!item && row.code) ? ` title="Item code &quot;${row.code.replace(/"/g,'&quot;')}&quot; not found in the current item list — quantities are kept."` : "";
+    html += `<td class="sticky-1 code-cell" style="left:26px;">`;
+    html += `<div class="code-cell-wrap">`;
+    html += `<input type="text" class="code-input" data-action="code-search" autocomplete="off" placeholder="Search code or name…" value="${escapedVal}"${missingTitle}>`;
+    html += `<div class="code-dropdown" style="display:none;"></div>`;
+    html += `</div></td>`;
 
     // description
     html += `<td class="sticky-2 desc-col" style="left:186px;">`;
     if(item){
       html += `${item.name}<br><span class="system-tag">${item.system}</span>`;
+    } else if(row.code){
+      html += `<span style="color:#b23b3b;">Not found in current item list</span>`;
     } else {
-      html += `<span style="color:#9aa2ac;">Select an item code</span>`;
+      html += `<span style="color:#9aa2ac;">Search and select an item</span>`;
     }
     html += `</td>`;
 
@@ -457,16 +515,16 @@ function render(filter){
         monthTotals[m].qty += qty;
         monthTotals[m].sales += value;
       }
-      if(isOpen && item){
+      if(isOpen){
         html += `<td class="qty-col"><input type="number" min="0" step="1" class="qty-input" data-action="qty" data-month="${m}" value="${qty}"></td>`;
       } else {
-        html += `<td class="qty-col locked-cell num">${item ? fmt(qty) : ""}</td>`;
+        html += `<td class="qty-col locked-cell num">${fmt(qty)}</td>`;
       }
-      html += `<td class="num calc-cell">${item ? fmt(value) : ""}</td>`;
+      html += `<td class="num calc-cell">${fmt(value)}</td>`;
     });
 
-    html += `<td class="num qty-col" style="font-weight:600;">${item ? fmt(rowTotQty) : ""}</td>`;
-    html += `<td class="num sales-col" style="font-weight:600;">${item ? fmt(rowTotSales) : ""}</td>`;
+    html += `<td class="num qty-col" style="font-weight:600;">${fmt(rowTotQty)}</td>`;
+    html += `<td class="num sales-col" style="font-weight:600;">${fmt(rowTotSales)}</td>`;
 
     tr.innerHTML = html;
     tbody.appendChild(tr);
@@ -508,17 +566,52 @@ tbody.addEventListener("input", e => {
     // restore focus after re-render
     const newInput = tbody.querySelector(`tr[data-row-id="${row.id}"] input[data-month="${el.dataset.month}"]`);
     if(newInput){ newInput.focus(); const v = newInput.value; newInput.value=""; newInput.value=v; }
+  } else if(el.dataset.action === "code-search"){
+    const tr = el.closest("tr");
+    const dropdown = tr.querySelector(".code-dropdown");
+    const q = el.value.trim().toLowerCase();
+    if(!q){ dropdown.innerHTML = ""; dropdown.style.display = "none"; return; }
+    const matches = itemMaster.filter(i =>
+      i.code.toLowerCase().includes(q) || (i.name || "").toLowerCase().includes(q)
+    ).slice(0, 25);
+    if(!matches.length){
+      dropdown.innerHTML = `<div class="code-option-empty">No matching items</div>`;
+    } else {
+      dropdown.innerHTML = matches.map(i =>
+        `<div class="code-option" data-code="${i.code.replace(/"/g,'&quot;')}"><span class="code-option-code">${i.code}</span> — ${i.name}</div>`
+      ).join("");
+    }
+    dropdown.style.display = "block";
   }
 });
 
-tbody.addEventListener("change", e => {
-  const el = e.target;
-  if(el.dataset.action === "select-code"){
-    const tr = el.closest("tr");
-    const row = rows.find(r => r.id === tr.dataset.rowId);
-    row.code = el.value;
-    row.qtyByYear = {}; // fresh item, clear any previously entered forecast
-    render(document.getElementById("searchBox").value);
+// Selecting a suggestion — use mousedown (fires before blur) so the click
+// registers before the dropdown would otherwise be dismissed.
+tbody.addEventListener("mousedown", e => {
+  const opt = e.target.closest(".code-option");
+  if(!opt) return;
+  e.preventDefault();
+  const tr = opt.closest("tr");
+  const row = rows.find(r => r.id === tr.dataset.rowId);
+  const newCode = opt.dataset.code;
+  if(row.code !== newCode){
+    row.code = newCode;
+    row.qtyByYear = {}; // switched to a different item — clear any previously entered forecast
+  }
+  render(document.getElementById("searchBox").value);
+});
+
+// Select all text on focus so typing immediately starts a fresh search
+tbody.addEventListener("focus", e => {
+  if(e.target.dataset && e.target.dataset.action === "code-search"){
+    e.target.select();
+  }
+}, true);
+
+// Close any open suggestion dropdown when clicking elsewhere
+document.addEventListener("click", e => {
+  if(!e.target.closest(".code-cell-wrap")){
+    document.querySelectorAll(".code-dropdown").forEach(d => { d.style.display = "none"; });
   }
 });
 
@@ -611,7 +704,42 @@ async function init(){
     document.getElementById("statusBar").style.color = "#7c2323";
   }
 }
-init();
+// ---- Simple sign-in gate ----
+// NOTE: this is a client-side-only check (this is a static HTML file with
+// no server/backend). The credentials live in this file's JavaScript, so
+// this stops casual access but is not real security — anyone who views the
+// page source can see them. Ask if you'd like something stronger later.
+const CREDENTIALS = { username: "admin", password: "admin123" };
+const LOGIN_SESSION_KEY = "forecastLoggedIn";
+
+function showApp(){
+  document.getElementById("loginOverlay").style.display = "none";
+  document.getElementById("appWrap").style.display = "block";
+  init();
+}
+
+function tryLogin(){
+  const u = document.getElementById("loginUser").value.trim();
+  const p = document.getElementById("loginPass").value;
+  const errEl = document.getElementById("loginError");
+  if(u === CREDENTIALS.username && p === CREDENTIALS.password){
+    errEl.textContent = "";
+    sessionStorage.setItem(LOGIN_SESSION_KEY, "1");
+    showApp();
+  } else {
+    errEl.textContent = "Incorrect username or password.";
+  }
+}
+
+document.getElementById("loginBtn").addEventListener("click", tryLogin);
+document.getElementById("loginPass").addEventListener("keydown", e => { if(e.key === "Enter") tryLogin(); });
+document.getElementById("loginUser").addEventListener("keydown", e => { if(e.key === "Enter") document.getElementById("loginPass").focus(); });
+
+if(sessionStorage.getItem(LOGIN_SESSION_KEY) === "1"){
+  showApp();
+} else {
+  document.getElementById("loginUser").focus();
+}
 </script>
 </body>
 </html>
