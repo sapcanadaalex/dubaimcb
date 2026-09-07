@@ -16,7 +16,8 @@
     --accent-soft:#e7f0ec;
     --qty-bg:#fbfbfc;
     --sales-bg:#f2f6f4;
-    --open-bg:#eaf6ee;
+    --open-bg:#bfe6cf;
+    --open-value-bg:#e4f0c9;
     --open-border:#4c9a6a;
     --locked-bg:#eceef1;
     --calc-bg:#fbf7ec;
@@ -123,7 +124,9 @@
   thead tr.col-row th{ top:27px; font-size:11px; }
   th.qty-col, td.qty-col{ background:var(--qty-bg); }
   th.sales-col, td.sales-col{ background:var(--sales-bg); }
-  th.open-col{ background:var(--open-bg) !important; color:#245036; }
+  th.open-col{ background:var(--open-bg) !important; color:#1c3d28; font-weight:700; }
+  td.qty-col.open-active{ background:var(--open-bg) !important; }
+  td.calc-cell.open-active{ background:var(--open-value-bg) !important; color:#4a4420; }
 
   td.num{ text-align:right; font-variant-numeric:tabular-nums; font-family:var(--mono); }
   td.code-cell{ font-family:var(--mono); font-size:11px; }
@@ -207,10 +210,9 @@
   }
   input.code-input:focus{ outline:2px solid var(--accent); outline-offset:0; }
   .code-dropdown{
-    position:absolute; bottom:100%; left:0; margin-bottom:2px;
-    width:300px; max-height:220px; overflow:auto;
+    position:fixed; width:300px; max-height:260px; overflow:auto;
     background:#fff; border:1px solid var(--line-strong); border-radius:6px;
-    box-shadow:0 -6px 16px rgba(20,30,40,0.18); z-index:50;
+    box-shadow:0 6px 20px rgba(20,30,40,0.22); z-index:1000;
   }
   .code-option{ padding:5px 8px; font-size:11.5px; cursor:pointer; white-space:normal; font-family:"Segoe UI", Roboto, -apple-system, Arial, sans-serif; }
   .code-option:hover, .code-option.active{ background:var(--accent-soft); }
@@ -482,7 +484,6 @@ function render(filter){
     html += `<td class="sticky-1 code-cell" style="left:26px;">`;
     html += `<div class="code-cell-wrap">`;
     html += `<input type="text" class="code-input" data-action="code-search" autocomplete="off" placeholder="Search code or name…" value="${escapedVal}"${missingTitle}>`;
-    html += `<div class="code-dropdown" style="display:none;"></div>`;
     html += `</div></td>`;
 
     // description
@@ -516,11 +517,11 @@ function render(filter){
         monthTotals[m].sales += value;
       }
       if(isOpen){
-        html += `<td class="qty-col"><input type="number" min="0" step="1" class="qty-input" data-action="qty" data-month="${m}" value="${qty}"></td>`;
+        html += `<td class="qty-col open-active"><input type="number" min="0" step="1" class="qty-input" data-action="qty" data-month="${m}" value="${qty}"></td>`;
       } else {
         html += `<td class="qty-col locked-cell num">${fmt(qty)}</td>`;
       }
-      html += `<td class="num calc-cell">${fmt(value)}</td>`;
+      html += `<td class="num calc-cell${isOpen ? " open-active" : ""}">${fmt(value)}</td>`;
     });
 
     html += `<td class="num qty-col" style="font-weight:600;">${fmt(rowTotQty)}</td>`;
@@ -553,6 +554,41 @@ function render(filter){
   paintOpenColumns();
 }
 
+// ---- Shared item-search dropdown ----
+// A single dropdown element lives at the end of <body>, positioned with
+// `fixed` coordinates computed from the focused input's screen position.
+// This lets it float above the table instead of being clipped by the
+// table's own scroll box (which happens for rows near the top, since
+// there isn't room "above" them inside that scrollable area).
+const codeDropdown = document.createElement("div");
+codeDropdown.className = "code-dropdown";
+codeDropdown.style.display = "none";
+document.body.appendChild(codeDropdown);
+let codeDropdownRowId = null;
+
+function positionCodeDropdown(inputEl){
+  const rect = inputEl.getBoundingClientRect();
+  const spaceAbove = rect.top;
+  const spaceBelow = window.innerHeight - rect.bottom;
+  const preferAbove = spaceAbove >= 160 || spaceAbove >= spaceBelow;
+  codeDropdown.style.left = Math.max(4, rect.left) + "px";
+  codeDropdown.style.width = Math.max(rect.width, 300) + "px";
+  if(preferAbove){
+    codeDropdown.style.top = "";
+    codeDropdown.style.bottom = (window.innerHeight - rect.top + 4) + "px";
+    codeDropdown.style.maxHeight = Math.max(120, spaceAbove - 12) + "px";
+  } else {
+    codeDropdown.style.bottom = "";
+    codeDropdown.style.top = (rect.bottom + 4) + "px";
+    codeDropdown.style.maxHeight = Math.max(120, spaceBelow - 12) + "px";
+  }
+}
+
+function hideCodeDropdown(){
+  codeDropdown.style.display = "none";
+  codeDropdown.innerHTML = "";
+}
+
 // event delegation
 tbody.addEventListener("input", e => {
   const el = e.target;
@@ -568,52 +604,67 @@ tbody.addEventListener("input", e => {
     if(newInput){ newInput.focus(); const v = newInput.value; newInput.value=""; newInput.value=v; }
   } else if(el.dataset.action === "code-search"){
     const tr = el.closest("tr");
-    const dropdown = tr.querySelector(".code-dropdown");
+    codeDropdownRowId = tr.dataset.rowId;
     const q = el.value.trim().toLowerCase();
-    if(!q){ dropdown.innerHTML = ""; dropdown.style.display = "none"; return; }
+    if(!q){ hideCodeDropdown(); return; }
     const matches = itemMaster.filter(i =>
       i.code.toLowerCase().includes(q) || (i.name || "").toLowerCase().includes(q)
     ).slice(0, 25);
     if(!matches.length){
-      dropdown.innerHTML = `<div class="code-option-empty">No matching items</div>`;
+      codeDropdown.innerHTML = `<div class="code-option-empty">No matching items</div>`;
     } else {
-      dropdown.innerHTML = matches.map(i =>
+      codeDropdown.innerHTML = matches.map(i =>
         `<div class="code-option" data-code="${i.code.replace(/"/g,'&quot;')}"><span class="code-option-code">${i.code}</span> — ${i.name}</div>`
       ).join("");
     }
-    dropdown.style.display = "block";
+    codeDropdown.style.display = "block";
+    positionCodeDropdown(el);
   }
 });
 
 // Selecting a suggestion — use mousedown (fires before blur) so the click
 // registers before the dropdown would otherwise be dismissed.
-tbody.addEventListener("mousedown", e => {
+codeDropdown.addEventListener("mousedown", e => {
   const opt = e.target.closest(".code-option");
   if(!opt) return;
   e.preventDefault();
-  const tr = opt.closest("tr");
-  const row = rows.find(r => r.id === tr.dataset.rowId);
+  const row = rows.find(r => r.id === codeDropdownRowId);
+  if(!row) return;
   const newCode = opt.dataset.code;
   if(row.code !== newCode){
     row.code = newCode;
     row.qtyByYear = {}; // switched to a different item — clear any previously entered forecast
   }
+  hideCodeDropdown();
   render(document.getElementById("searchBox").value);
 });
 
-// Select all text on focus so typing immediately starts a fresh search
+// Select all text on focus so typing immediately starts a fresh search,
+// and reposition/hide the dropdown appropriately.
 tbody.addEventListener("focus", e => {
   if(e.target.dataset && e.target.dataset.action === "code-search"){
     e.target.select();
   }
 }, true);
 
-// Close any open suggestion dropdown when clicking elsewhere
+tbody.addEventListener("blur", e => {
+  if(e.target.dataset && e.target.dataset.action === "code-search"){
+    // small delay so a mousedown on a suggestion can register first
+    setTimeout(() => {
+      if(!codeDropdown.matches(":hover")) hideCodeDropdown();
+    }, 120);
+  }
+}, true);
+
+// Close the dropdown when clicking elsewhere, and keep it in sync with
+// scrolling/resizing so it never floats over the wrong spot.
 document.addEventListener("click", e => {
-  if(!e.target.closest(".code-cell-wrap")){
-    document.querySelectorAll(".code-dropdown").forEach(d => { d.style.display = "none"; });
+  if(!e.target.closest(".code-cell-wrap") && !e.target.closest(".code-dropdown")){
+    hideCodeDropdown();
   }
 });
+document.querySelector(".table-shell").addEventListener("scroll", hideCodeDropdown);
+window.addEventListener("resize", hideCodeDropdown);
 
 tbody.addEventListener("click", e => {
   if(e.target.dataset.action === "remove"){
