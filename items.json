@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T06:51:43+04:00",
+  "generatedAt": "2026-09-08T07:51:43+04:00",
   "items": [
     {
       "code": "00137220541",
@@ -4838,10 +4838,10 @@
       "code": "44470000370101033",
       "name": "Nafufill\u00a0   KM 250 AE    25Kg",
       "system": "Concrete Repair",
-      "sixQty": 1242.0,
-      "sixSales": 20890.5625,
-      "threeQty": 917.0,
-      "threeSales": 15777.5625
+      "sixQty": 1257.0,
+      "sixSales": 21160.5625,
+      "threeQty": 932.0,
+      "threeSales": 16047.5625
     },
     {
       "code": "44470020370101",
@@ -4982,10 +4982,10 @@
       "code": "48100700370101",
       "name": "Emcekrete   CPT    25Kg",
       "system": "Grouts",
-      "sixQty": 920.0,
-      "sixSales": 20240.0,
-      "threeQty": 920.0,
-      "threeSales": 20240.0
+      "sixQty": 1120.0,
+      "sixSales": 24640.0,
+      "threeQty": 1120.0,
+      "threeSales": 24640.0
     },
     {
       "code": "48100700370101031",
@@ -6413,10 +6413,10 @@
       "code": "55370000241101031",
       "name": "MC-Injekt 2111     AE  10Kg",
       "system": "Injection",
-      "sixQty": 780.0,
-      "sixSales": 379860.0,
-      "threeQty": 304.0,
-      "threeSales": 155070.0
+      "sixQty": 805.0,
+      "sixSales": 391860.0,
+      "threeQty": 329.0,
+      "threeSales": 167070.0
     },
     {
       "code": "55370004711001032",
