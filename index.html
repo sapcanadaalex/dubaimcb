@@ -255,6 +255,7 @@
     </div>
     <div>
       <button class="btn secondary" id="addRowBtn">+ Add item row</button>
+      <button class="btn secondary" id="refreshBtn">⟳ Refresh Data</button>
       <button class="btn" id="saveBtn">💾 Save Forecast</button>
       <button class="btn secondary" id="logoutBtn">Logout</button>
     </div>
@@ -719,16 +720,20 @@ function loadFromLocalStorage(){
 document.getElementById("saveBtn").addEventListener("click", saveToLocalStorage);
 
 // ---- Load item master from items.json (produced by the scheduled SAP export) ----
+async function fetchItemData(){
+  const res = await fetch(DATA_URL, { cache: "no-store" });
+  if(!res.ok) throw new Error("HTTP " + res.status);
+  const payload = await res.json();
+  const items = Array.isArray(payload) ? payload : payload.items;
+  if(!Array.isArray(items)) throw new Error("items.json is not in the expected format");
+  const generatedAt = Array.isArray(payload) ? null : payload.generatedAt;
+  return { items, generatedAt };
+}
+
 async function init(){
   populateYearSelect();
   try{
-    const res = await fetch(DATA_URL, { cache: "no-store" });
-    if(!res.ok) throw new Error("HTTP " + res.status);
-    const payload = await res.json();
-
-    // Accept either a bare array or {generatedAt, items:[...]}
-    const items = Array.isArray(payload) ? payload : payload.items;
-    if(!Array.isArray(items)) throw new Error("items.json is not in the expected format");
+    const { items, generatedAt } = await fetchItemData();
 
     itemMaster = items;
     itemMaster.forEach(i => i.avgPrice = avgPriceFor(i));
@@ -736,7 +741,6 @@ async function init(){
     const restored = loadFromLocalStorage();
     rows = restored && restored.length ? restored : itemMaster.map(item => makeRowState(item.code));
 
-    const generatedAt = Array.isArray(payload) ? null : payload.generatedAt;
     setStatusBar(generatedAt
       ? "Data as of " + new Date(generatedAt).toLocaleString("en-GB")
       : "Data loaded (" + itemMaster.length + " items)");
@@ -755,6 +759,37 @@ async function init(){
     document.getElementById("statusBar").style.color = "#7c2323";
   }
 }
+
+// ---- Manual "Refresh Data" button ----
+// Re-pulls items.json (bypassing cache) and updates each item's 6/3-month
+// history and average price. Deliberately does NOT touch any forecast qty
+// you've already typed, and does not add/remove rows.
+async function refreshData(){
+  const btn = document.getElementById("refreshBtn");
+  const originalLabel = btn.textContent;
+  btn.textContent = "⟳ Refreshing…";
+  btn.disabled = true;
+  try{
+    const { items, generatedAt } = await fetchItemData();
+    itemMaster = items;
+    itemMaster.forEach(i => i.avgPrice = avgPriceFor(i));
+
+    setStatusBar(generatedAt
+      ? "Data as of " + new Date(generatedAt).toLocaleString("en-GB")
+      : "Data refreshed (" + itemMaster.length + " items)");
+    document.getElementById("saveIndicator").textContent =
+      "Refreshed at " + new Date().toLocaleTimeString("en-GB");
+
+    render(document.getElementById("searchBox").value);
+  } catch(err){
+    document.getElementById("saveIndicator").textContent = "Refresh failed: " + err.message;
+  } finally {
+    btn.textContent = originalLabel;
+    btn.disabled = false;
+  }
+}
+document.getElementById("refreshBtn").addEventListener("click", refreshData);
+
 // ---- Simple sign-in gate ----
 // NOTE: this is a client-side-only check (this is a static HTML file with
 // no server/backend). The credentials live in this file's JavaScript, so
