@@ -739,7 +739,10 @@ async function init(){
     itemMaster.forEach(i => i.avgPrice = avgPriceFor(i));
 
     const restored = loadFromLocalStorage();
-    rows = restored && restored.length ? restored : itemMaster.map(item => makeRowState(item.code));
+    // Start empty rather than pre-loading a row per item — the user picks
+    // only the items they need to forecast via "+ Add item row" (searchable
+    // by code or name), instead of scrolling through the full catalog.
+    rows = restored && restored.length ? restored : [];
 
     setStatusBar(generatedAt
       ? "Data as of " + new Date(generatedAt).toLocaleString("en-GB")
