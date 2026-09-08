@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T21:44:56+04:00",
+  "generatedAt": "2026-09-08T06:02:13+04:00",
   "items": [
     {
       "code": "00137220541",
@@ -4687,8 +4687,8 @@
       "system": "Mineral Waterproofing",
       "sixQty": 4874.0,
       "sixSales": 208309.0,
-      "threeQty": 3152.0,
-      "threeSales": 135085.0
+      "threeQty": 3147.0,
+      "threeSales": 134860.0
     },
     {
       "code": "34100800360101",
@@ -4705,8 +4705,8 @@
       "system": "Mineral Waterproofing",
       "sixQty": 4874.0,
       "sixSales": 70453.0,
-      "threeQty": 3152.0,
-      "threeSales": 46045.0
+      "threeQty": 3147.0,
+      "threeSales": 45970.0
     },
     {
       "code": "34109570220110031",
@@ -4957,8 +4957,8 @@
       "system": "Surface Protection - Mineral",
       "sixQty": 3.0,
       "sixSales": 660.0,
-      "threeQty": 3.0,
-      "threeSales": 660.0
+      "threeQty": 0.0,
+      "threeSales": 0.0
     },
     {
       "code": "47140700371040",
@@ -6001,8 +6001,8 @@
       "system": "Injection",
       "sixQty": 254.0,
       "sixSales": 148350.0,
-      "threeQty": 135.0,
-      "threeSales": 77700.0
+      "threeQty": 132.0,
+      "threeSales": 75900.0
     },
     {
       "code": "55070014711001",
@@ -6019,8 +6019,8 @@
       "system": "Injection",
       "sixQty": 254.0,
       "sixSales": 148350.0,
-      "threeQty": 135.0,
-      "threeSales": 77700.0
+      "threeQty": 132.0,
+      "threeSales": 75900.0
     },
     {
       "code": "55070024711001",
@@ -6442,8 +6442,8 @@
       "system": "Injection",
       "sixQty": 53.0,
       "sixSales": 42100.0,
-      "threeQty": 38.0,
-      "threeSales": 29500.0
+      "threeQty": 36.0,
+      "threeSales": 27800.0
     },
     {
       "code": "55400040191001",
@@ -8233,8 +8233,8 @@
       "system": "Dispersion Waterproofing",
       "sixQty": 1420.0,
       "sixSales": 251582.0,
-      "threeQty": 1113.0,
-      "threeSales": 189442.0
+      "threeQty": 1107.0,
+      "threeSales": 188218.0
     },
     {
       "code": "999807434111012032",
