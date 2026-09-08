@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T14:21:43+04:00",
+  "generatedAt": "2026-09-08T14:51:43+04:00",
   "items": [
     {
       "code": "00137220541",
@@ -32809,10 +32809,10 @@
       "code": "49180990370101132",
       "name": "M18   Tile Adhesive    25Kg",
       "system": "Tile Adhesive",
-      "sixQty": 2439.0,
-      "sixSales": 31707.0,
-      "threeQty": 1799.0,
-      "threeSales": 23387.0,
+      "sixQty": 2599.0,
+      "sixSales": 33787.0,
+      "threeQty": 1959.0,
+      "threeSales": 25467.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -32847,8 +32847,8 @@
           "value": 14001.0
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 160.0,
+          "value": 2080.0
         },
         "OCT": {
           "qty": 0.0,
@@ -47795,10 +47795,10 @@
       "code": "99970162191001",
       "name": "MC-Rep 3000       5Kg",
       "system": "Resin Flooring",
-      "sixQty": 2364.0,
-      "sixSales": 188206.0,
-      "threeQty": 1296.0,
-      "threeSales": 104250.0,
+      "sixQty": 2379.0,
+      "sixSales": 189406.0,
+      "threeQty": 1311.0,
+      "threeSales": 105450.0,
       "actuals": {
         "JAN": {
           "qty": 334.0,
@@ -47833,8 +47833,8 @@
           "value": 38820.0
         },
         "SEP": {
-          "qty": 68.0,
-          "value": 5360.0
+          "qty": 83.0,
+          "value": 6560.0
         },
         "OCT": {
           "qty": 0.0,
@@ -50804,10 +50804,10 @@
       "code": "99971620141001",
       "name": "MC-Injekt 1264   KFE  Komp. A  2.1Kg",
       "system": "Injection",
-      "sixQty": 803.0,
-      "sixSales": 89353.9,
-      "threeQty": 145.0,
-      "threeSales": 16277.1,
+      "sixQty": 813.0,
+      "sixSales": 90508.9,
+      "threeQty": 155.0,
+      "threeSales": 17432.1,
       "actuals": {
         "JAN": {
           "qty": 279.0,
@@ -50842,8 +50842,8 @@
           "value": 12022.5
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 10.0,
+          "value": 1155.0
         },
         "OCT": {
           "qty": 0.0,
@@ -50863,10 +50863,10 @@
       "code": "99971630081001",
       "name": "MC-Injekt 1264   KFE  Komp. B  0.7Kg",
       "system": "Injection",
-      "sixQty": 803.0,
-      "sixSales": 31118.12,
-      "threeQty": 145.0,
-      "threeSales": 5633.6,
+      "sixQty": 813.0,
+      "sixSales": 31503.12,
+      "threeQty": 155.0,
+      "threeSales": 6018.6,
       "actuals": {
         "JAN": {
           "qty": 279.0,
@@ -50901,8 +50901,8 @@
           "value": 4007.5
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 10.0,
+          "value": 385.0
         },
         "OCT": {
           "qty": 0.0,
