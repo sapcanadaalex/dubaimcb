@@ -16,6 +16,8 @@
     --accent-soft:#e7f0ec;
     --qty-bg:#fbfbfc;
     --sales-bg:#f2f6f4;
+    --actual-bg:#eef2fb;
+    --actual-ink:#33477a;
     --open-bg:#bfe6cf;
     --open-value-bg:#e4f0c9;
     --open-border:#4c9a6a;
@@ -124,6 +126,7 @@
   thead tr.col-row th{ top:27px; font-size:11px; }
   th.qty-col, td.qty-col{ background:var(--qty-bg); }
   th.sales-col, td.sales-col{ background:var(--sales-bg); }
+  th.actual-col, td.actual-col{ background:var(--actual-bg); color:var(--actual-ink); }
   th.open-col{ background:var(--open-bg) !important; color:#1c3d28; font-weight:700; }
   td.qty-col.open-active{ background:var(--open-bg) !important; }
   td.calc-cell.open-active{ background:var(--open-value-bg) !important; color:#4a4420; }
@@ -272,19 +275,19 @@
           <th colspan="2">6 Month</th>
           <th colspan="2">3 Month</th>
           <th></th>
-          <th id="ghJAN" colspan="2">Jan</th>
-          <th id="ghFEB" colspan="2">Feb</th>
-          <th id="ghMAR" colspan="2">Mar</th>
-          <th id="ghAPR" colspan="2">Apr</th>
-          <th id="ghMAY" colspan="2">May</th>
-          <th id="ghJUN" colspan="2">Jun</th>
-          <th id="ghJUL" colspan="2">Jul</th>
-          <th id="ghAUG" colspan="2">Aug</th>
-          <th id="ghSEP" colspan="2">Sep</th>
-          <th id="ghOCT" colspan="2">Oct</th>
-          <th id="ghNOV" colspan="2">Nov</th>
-          <th id="ghDEC" colspan="2">Dec</th>
-          <th colspan="2">Total</th>
+          <th id="ghJAN" colspan="4">Jan</th>
+          <th id="ghFEB" colspan="4">Feb</th>
+          <th id="ghMAR" colspan="4">Mar</th>
+          <th id="ghAPR" colspan="4">Apr</th>
+          <th id="ghMAY" colspan="4">May</th>
+          <th id="ghJUN" colspan="4">Jun</th>
+          <th id="ghJUL" colspan="4">Jul</th>
+          <th id="ghAUG" colspan="4">Aug</th>
+          <th id="ghSEP" colspan="4">Sep</th>
+          <th id="ghOCT" colspan="4">Oct</th>
+          <th id="ghNOV" colspan="4">Nov</th>
+          <th id="ghDEC" colspan="4">Dec</th>
+          <th colspan="4">Total</th>
         </tr>
         <tr class="col-row">
           <th class="sticky-0" style="left:0;"></th>
@@ -294,19 +297,19 @@
           <th class="qty-col">Qty</th><th class="sales-col">Value</th>
           <th class="qty-col">Qty</th><th class="sales-col">Value</th>
           <th>Avg Price</th>
-          <th id="chJAN-q" class="qty-col">Qty</th><th id="chJAN-v" class="sales-col">Value</th>
-          <th id="chFEB-q" class="qty-col">Qty</th><th id="chFEB-v" class="sales-col">Value</th>
-          <th id="chMAR-q" class="qty-col">Qty</th><th id="chMAR-v" class="sales-col">Value</th>
-          <th id="chAPR-q" class="qty-col">Qty</th><th id="chAPR-v" class="sales-col">Value</th>
-          <th id="chMAY-q" class="qty-col">Qty</th><th id="chMAY-v" class="sales-col">Value</th>
-          <th id="chJUN-q" class="qty-col">Qty</th><th id="chJUN-v" class="sales-col">Value</th>
-          <th id="chJUL-q" class="qty-col">Qty</th><th id="chJUL-v" class="sales-col">Value</th>
-          <th id="chAUG-q" class="qty-col">Qty</th><th id="chAUG-v" class="sales-col">Value</th>
-          <th id="chSEP-q" class="qty-col">Qty</th><th id="chSEP-v" class="sales-col">Value</th>
-          <th id="chOCT-q" class="qty-col">Qty</th><th id="chOCT-v" class="sales-col">Value</th>
-          <th id="chNOV-q" class="qty-col">Qty</th><th id="chNOV-v" class="sales-col">Value</th>
-          <th id="chDEC-q" class="qty-col">Qty</th><th id="chDEC-v" class="sales-col">Value</th>
-          <th class="qty-col">Qty</th><th class="sales-col">Value</th>
+          <th id="chJAN-fcq" class="qty-col">FC Qty</th><th id="chJAN-fcv" class="sales-col">FC Val</th><th id="chJAN-acq" class="actual-col">AC Qty</th><th id="chJAN-acv" class="actual-col">AC Val</th>
+          <th id="chFEB-fcq" class="qty-col">FC Qty</th><th id="chFEB-fcv" class="sales-col">FC Val</th><th id="chFEB-acq" class="actual-col">AC Qty</th><th id="chFEB-acv" class="actual-col">AC Val</th>
+          <th id="chMAR-fcq" class="qty-col">FC Qty</th><th id="chMAR-fcv" class="sales-col">FC Val</th><th id="chMAR-acq" class="actual-col">AC Qty</th><th id="chMAR-acv" class="actual-col">AC Val</th>
+          <th id="chAPR-fcq" class="qty-col">FC Qty</th><th id="chAPR-fcv" class="sales-col">FC Val</th><th id="chAPR-acq" class="actual-col">AC Qty</th><th id="chAPR-acv" class="actual-col">AC Val</th>
+          <th id="chMAY-fcq" class="qty-col">FC Qty</th><th id="chMAY-fcv" class="sales-col">FC Val</th><th id="chMAY-acq" class="actual-col">AC Qty</th><th id="chMAY-acv" class="actual-col">AC Val</th>
+          <th id="chJUN-fcq" class="qty-col">FC Qty</th><th id="chJUN-fcv" class="sales-col">FC Val</th><th id="chJUN-acq" class="actual-col">AC Qty</th><th id="chJUN-acv" class="actual-col">AC Val</th>
+          <th id="chJUL-fcq" class="qty-col">FC Qty</th><th id="chJUL-fcv" class="sales-col">FC Val</th><th id="chJUL-acq" class="actual-col">AC Qty</th><th id="chJUL-acv" class="actual-col">AC Val</th>
+          <th id="chAUG-fcq" class="qty-col">FC Qty</th><th id="chAUG-fcv" class="sales-col">FC Val</th><th id="chAUG-acq" class="actual-col">AC Qty</th><th id="chAUG-acv" class="actual-col">AC Val</th>
+          <th id="chSEP-fcq" class="qty-col">FC Qty</th><th id="chSEP-fcv" class="sales-col">FC Val</th><th id="chSEP-acq" class="actual-col">AC Qty</th><th id="chSEP-acv" class="actual-col">AC Val</th>
+          <th id="chOCT-fcq" class="qty-col">FC Qty</th><th id="chOCT-fcv" class="sales-col">FC Val</th><th id="chOCT-acq" class="actual-col">AC Qty</th><th id="chOCT-acv" class="actual-col">AC Val</th>
+          <th id="chNOV-fcq" class="qty-col">FC Qty</th><th id="chNOV-fcv" class="sales-col">FC Val</th><th id="chNOV-acq" class="actual-col">AC Qty</th><th id="chNOV-acv" class="actual-col">AC Val</th>
+          <th id="chDEC-fcq" class="qty-col">FC Qty</th><th id="chDEC-fcv" class="sales-col">FC Val</th><th id="chDEC-acq" class="actual-col">AC Qty</th><th id="chDEC-acv" class="actual-col">AC Val</th>
+          <th class="qty-col">FC Qty</th><th class="sales-col">FC Val</th><th class="actual-col">AC Qty</th><th class="actual-col">AC Val</th>
         </tr>
       </thead>
       <tbody id="tbody"></tbody>
@@ -319,7 +322,8 @@
   <div class="legend">
     <span><span class="swatch" style="background:#fff;border-color:var(--open-border);"></span>Open — editable this cycle</span>
     <span><span class="swatch" style="background:var(--locked-bg);"></span>Locked — outside forecast window</span>
-    <span><span class="swatch" style="background:var(--calc-bg);"></span>Value — auto-calculated (Qty × Avg Price), read-only</span>
+    <span><span class="swatch" style="background:var(--calc-bg);"></span>FC Val — auto-calculated (FC Qty × Avg Price), read-only</span>
+    <span><span class="swatch" style="background:var(--actual-bg);"></span>AC Qty / AC Val — actuals from SAP, read-only</span>
   </div>
 </div>
 
@@ -399,9 +403,12 @@ function paintOpenColumns(){
   const openSet = openSetForCurrentView();
   monthKeys.forEach(m => {
     const gh = document.getElementById("gh" + m);
-    const chQ = document.getElementById("ch" + m + "-q");
-    const chV = document.getElementById("ch" + m + "-v");
-    [gh, chQ, chV].forEach(el => el && el.classList.toggle("open-col", openSet.has(m)));
+    const chQ = document.getElementById("ch" + m + "-fcq");
+    const chV = document.getElementById("ch" + m + "-fcv");
+    // AC Qty/AC Val are never "open" — they're always read-only actuals,
+    // so only the group header and the two FC sub-columns get highlighted.
+    [chQ, chV].forEach(el => el && el.classList.toggle("open-col", openSet.has(m)));
+    if(gh) gh.classList.toggle("open-col", openSet.has(m));
   });
 }
 
@@ -457,9 +464,9 @@ function render(filter){
   let shown = 0;
   const openSet = openSetForCurrentView();
 
-  const totals = { sixQty:0, sixSales:0, threeQty:0, threeSales:0, totQty:0, totSales:0 };
+  const totals = { sixQty:0, sixSales:0, threeQty:0, threeSales:0, totQty:0, totSales:0, totAcQty:0, totAcSales:0 };
   const monthTotals = {};
-  monthKeys.forEach(m => monthTotals[m] = {qty:0, sales:0});
+  monthKeys.forEach(m => monthTotals[m] = {qty:0, sales:0, acQty:0, acSales:0});
 
   rows.forEach(row => {
     const item = findItem(row.code);
@@ -505,7 +512,7 @@ function render(filter){
     html += `<td class="num sales-col">${item ? fmt(item.threeSales) : ""}</td>`;
     html += `<td class="num">${item ? fmtPrice(item.avgPrice) : ""}</td>`;
 
-    let rowTotQty = 0, rowTotSales = 0;
+    let rowTotQty = 0, rowTotSales = 0, rowTotAcQty = 0, rowTotAcSales = 0;
     monthKeys.forEach(m => {
       const isOpen = openSet.has(m);
       const qty = yearQty[m] || 0;
@@ -513,9 +520,21 @@ function render(filter){
       const value = qty * price;
       rowTotQty += qty;
       rowTotSales += value;
+
+      // Actuals come straight from items.json (SAP export), read-only —
+      // only meaningful for the real current year; other years show blank
+      // since the export only carries the current year's actuals.
+      const actualsForMonth = (item && item.actuals && isSelectedYearEditable()) ? item.actuals[m] : null;
+      const acQty = actualsForMonth ? (actualsForMonth.qty || 0) : 0;
+      const acValue = actualsForMonth ? (actualsForMonth.value || 0) : 0;
+      rowTotAcQty += acQty;
+      rowTotAcSales += acValue;
+
       if(item){
         monthTotals[m].qty += qty;
         monthTotals[m].sales += value;
+        monthTotals[m].acQty += acQty;
+        monthTotals[m].acSales += acValue;
       }
       if(isOpen){
         html += `<td class="qty-col open-active"><input type="number" min="0" step="1" class="qty-input" data-action="qty" data-month="${m}" value="${qty}"></td>`;
@@ -523,10 +542,14 @@ function render(filter){
         html += `<td class="qty-col locked-cell num">${fmt(qty)}</td>`;
       }
       html += `<td class="num calc-cell${isOpen ? " open-active" : ""}">${fmt(value)}</td>`;
+      html += `<td class="num actual-col">${actualsForMonth ? fmt(acQty) : ""}</td>`;
+      html += `<td class="num actual-col">${actualsForMonth ? fmt(acValue) : ""}</td>`;
     });
 
     html += `<td class="num qty-col" style="font-weight:600;">${fmt(rowTotQty)}</td>`;
     html += `<td class="num sales-col" style="font-weight:600;">${fmt(rowTotSales)}</td>`;
+    html += `<td class="num actual-col" style="font-weight:600;">${fmt(rowTotAcQty)}</td>`;
+    html += `<td class="num actual-col" style="font-weight:600;">${fmt(rowTotAcSales)}</td>`;
 
     tr.innerHTML = html;
     tbody.appendChild(tr);
@@ -535,6 +558,7 @@ function render(filter){
       totals.sixQty += item.sixQty; totals.sixSales += item.sixSales;
       totals.threeQty += item.threeQty; totals.threeSales += item.threeSales;
       totals.totQty += rowTotQty; totals.totSales += rowTotSales;
+      totals.totAcQty += rowTotAcQty; totals.totAcSales += rowTotAcSales;
     }
   });
 
@@ -547,8 +571,11 @@ function render(filter){
   monthKeys.forEach(m => {
     t += `<td class="num qty-col">${fmt(monthTotals[m].qty)}</td>`;
     t += `<td class="num sales-col">${fmt(monthTotals[m].sales)}</td>`;
+    t += `<td class="num actual-col">${fmt(monthTotals[m].acQty)}</td>`;
+    t += `<td class="num actual-col">${fmt(monthTotals[m].acSales)}</td>`;
   });
   t += `<td class="num qty-col">${fmt(totals.totQty)}</td><td class="num sales-col">${fmt(totals.totSales)}</td>`;
+  t += `<td class="num actual-col">${fmt(totals.totAcQty)}</td><td class="num actual-col">${fmt(totals.totAcSales)}</td>`;
   totalsRow.innerHTML = t;
 
   document.getElementById("rowCount").textContent = shown + " row(s)";
