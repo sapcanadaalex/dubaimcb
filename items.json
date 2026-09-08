@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T23:51:43+04:00",
+  "generatedAt": "2026-09-09T00:22:34+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -10035,8 +10035,8 @@
       "code": "44470000370101033",
       "name": "Nafufill\u00a0   KM 250 AE    25Kg",
       "system": "Concrete Repair",
-      "sixQty": 1257.0,
-      "sixSales": 21160.5625,
+      "sixQty": 1137.0,
+      "sixSales": 19360.5625,
       "threeQty": 932.0,
       "threeSales": 16047.5625,
       "actuals": {
@@ -12338,8 +12338,8 @@
       "system": "Resin Flooring",
       "sixQty": 189.0,
       "sixSales": 54797.6409,
-      "threeQty": 104.0,
-      "threeSales": 34271.8859,
+      "threeQty": 102.0,
+      "threeSales": 33577.9071,
       "actuals": {
         "JAN": {
           "qty": 105.0,
@@ -12692,8 +12692,8 @@
       "system": "Resin Flooring",
       "sixQty": 267.0,
       "sixSales": 88517.8765,
-      "threeQty": 267.0,
-      "threeSales": 88517.8765,
+      "threeQty": 77.0,
+      "threeSales": 24280.3585,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -13754,8 +13754,8 @@
       "system": "Resin Flooring",
       "sixQty": 1668.0,
       "sixSales": 66905.7585,
-      "threeQty": 1008.0,
-      "threeSales": 41707.0332,
+      "threeQty": 816.0,
+      "threeSales": 33658.53,
       "actuals": {
         "JAN": {
           "qty": 316.0,
@@ -14108,8 +14108,8 @@
       "system": "Resin Flooring",
       "sixQty": 158.0,
       "sixSales": 36740.6979,
-      "threeQty": 158.0,
-      "threeSales": 36740.6979,
+      "threeQty": 80.0,
+      "threeSales": 18142.7778,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -14285,8 +14285,8 @@
       "system": "Resin Flooring",
       "sixQty": 158.0,
       "sixSales": 21784.3021,
-      "threeQty": 158.0,
-      "threeSales": 21784.3021,
+      "threeQty": 80.0,
+      "threeSales": 10757.2222,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -15052,8 +15052,8 @@
       "system": "Resin Flooring",
       "sixQty": 86.0,
       "sixSales": 27195.0,
-      "threeQty": 82.0,
-      "threeSales": 27195.0,
+      "threeQty": 81.0,
+      "threeSales": 26865.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -15170,8 +15170,8 @@
       "system": "Resin Flooring",
       "sixQty": 86.0,
       "sixSales": 9065.0,
-      "threeQty": 82.0,
-      "threeSales": 9065.0,
+      "threeQty": 81.0,
+      "threeSales": 8955.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -17823,8 +17823,8 @@
       "code": "55080010240101",
       "name": "MC-Injekt 2300 flow     Komp. A  10L",
       "system": "Injection",
-      "sixQty": 664.0,
-      "sixSales": 306160.0,
+      "sixQty": 656.0,
+      "sixSales": 302320.0,
       "threeQty": 502.0,
       "threeSales": 226930.0,
       "actuals": {
@@ -17941,8 +17941,8 @@
       "code": "55080020240101",
       "name": "MC-Injekt 2300 flow     Komp. B  10L",
       "system": "Injection",
-      "sixQty": 664.0,
-      "sixSales": 306160.0,
+      "sixQty": 656.0,
+      "sixSales": 302320.0,
       "threeQty": 502.0,
       "threeSales": 226930.0,
       "actuals": {
@@ -18826,8 +18826,8 @@
       "code": "55270010351001031",
       "name": "MC-Injekt 2700 L     Komp. A  20L",
       "system": "Injection",
-      "sixQty": 42.0,
-      "sixSales": 58500.0,
+      "sixQty": 41.0,
+      "sixSales": 57400.0,
       "threeQty": 35.0,
       "threeSales": 49000.0,
       "actuals": {
@@ -19121,8 +19121,8 @@
       "code": "55270020351001032",
       "name": "MC-Injekt 2700 L     Komp. B  20L",
       "system": "Injection",
-      "sixQty": 42.0,
-      "sixSales": 58500.0,
+      "sixQty": 41.0,
+      "sixSales": 57400.0,
       "threeQty": 35.0,
       "threeSales": 49000.0,
       "actuals": {
@@ -19475,8 +19475,8 @@
       "code": "55320010360001031",
       "name": "MC-Montan Injekt LE-S     Komp. A  20L",
       "system": "Injection",
-      "sixQty": 844.0,
-      "sixSales": 1040430.4,
+      "sixQty": 840.0,
+      "sixSales": 1035630.4,
       "threeQty": 448.0,
       "threeSales": 538290.4,
       "actuals": {
@@ -19770,8 +19770,8 @@
       "code": "55320020360101031",
       "name": "MC-Montan Injekt LE-S     Komp. B  20L",
       "system": "Injection",
-      "sixQty": 844.0,
-      "sixSales": 1040430.4,
+      "sixQty": 840.0,
+      "sixSales": 1035630.4,
       "threeQty": 448.0,
       "threeSales": 538290.4,
       "actuals": {
@@ -20301,8 +20301,8 @@
       "code": "55370000241101031",
       "name": "MC-Injekt 2111     AE  10Kg",
       "system": "Injection",
-      "sixQty": 805.0,
-      "sixSales": 391860.0,
+      "sixQty": 765.0,
+      "sixSales": 375860.0,
       "threeQty": 329.0,
       "threeSales": 167070.0,
       "actuals": {
@@ -20537,8 +20537,8 @@
       "code": "55420050371001031",
       "name": "MC-Injekt GL-95 TX     B1  25.8Kg",
       "system": "Injection",
-      "sixQty": 147.0,
-      "sixSales": 185060.82,
+      "sixQty": 140.0,
+      "sixSales": 176030.82,
       "threeQty": 77.0,
       "threeSales": 93548.22,
       "actuals": {
@@ -20714,8 +20714,8 @@
       "code": "55430010381001031",
       "name": "MC-Injekt GL-95     A1  27.6Kg",
       "system": "Injection",
-      "sixQty": 325.0,
-      "sixSales": 390843.6,
+      "sixQty": 318.0,
+      "sixSales": 381183.6,
       "threeQty": 77.0,
       "threeSales": 102506.4,
       "actuals": {
@@ -20891,8 +20891,8 @@
       "code": "55430020071001",
       "name": "MC-Injekt GL-95     A2  0.5Kg",
       "system": "Injection",
-      "sixQty": 348.0,
-      "sixSales": 25785.15,
+      "sixQty": 341.0,
+      "sixSales": 25610.15,
       "threeQty": 78.0,
       "threeSales": 6603.65,
       "actuals": {
@@ -20950,8 +20950,8 @@
       "code": "55430040071001031",
       "name": "MC-Injekt GL-95     B  0.5Kg",
       "system": "Injection",
-      "sixQty": 348.0,
-      "sixSales": 14110.95,
+      "sixQty": 341.0,
+      "sixSales": 13935.95,
       "threeQty": 78.0,
       "threeSales": 3671.45,
       "actuals": {
@@ -21009,8 +21009,8 @@
       "code": "55430130131001",
       "name": "MC-Injekt GL-95     A3  2Kg",
       "system": "Injection",
-      "sixQty": 348.0,
-      "sixSales": 26541.6,
+      "sixQty": 341.0,
+      "sixSales": 25841.6,
       "threeQty": 78.0,
       "threeSales": 6302.0,
       "actuals": {
@@ -22014,8 +22014,8 @@
       "system": "Grouts",
       "sixQty": 259.0,
       "sixSales": 12892.0,
-      "threeQty": 127.0,
-      "threeSales": 6292.0,
+      "threeQty": 107.0,
+      "threeSales": 5192.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -25318,8 +25318,8 @@
       "system": "Resin Flooring",
       "sixQty": 2379.0,
       "sixSales": 189406.0,
-      "threeQty": 1311.0,
-      "threeSales": 105450.0,
+      "threeQty": 1266.0,
+      "threeSales": 101850.0,
       "actuals": {
         "JAN": {
           "qty": 334.0,
@@ -31452,10 +31452,10 @@
       "code": "999807434111011032",
       "name": "MC-Proof 2110 AE     White    20Kg",
       "system": "Dispersion Waterproofing",
-      "sixQty": 1420.0,
-      "sixSales": 251582.0,
-      "threeQty": 1107.0,
-      "threeSales": 188218.0,
+      "sixQty": 1412.0,
+      "sixSales": 250222.0,
+      "threeQty": 1047.0,
+      "threeSales": 186218.0,
       "actuals": {
         "JAN": {
           "qty": 161.0,
