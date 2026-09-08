@@ -343,10 +343,10 @@ function avgPriceFor(item){
 
 function fmt(n){
   if(n === null || n === undefined || isNaN(n)) return "0";
-  return Number(n).toLocaleString("en-IN", {maximumFractionDigits:0});
+  return Number(n).toLocaleString("en-US", {maximumFractionDigits:0});
 }
 function fmtPrice(n){
-  return Number(n||0).toLocaleString("en-IN", {maximumFractionDigits:2});
+  return Number(n||0).toLocaleString("en-US", {maximumFractionDigits:2});
 }
 
 // ---- Rolling open-forecast window ----
