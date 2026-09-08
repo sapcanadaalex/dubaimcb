@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T15:21:43+04:00",
+  "generatedAt": "2026-09-08T15:51:43+04:00",
   "items": [
     {
       "code": "00137220541",
@@ -30685,10 +30685,10 @@
       "code": "341007003610111",
       "name": "MC-Proof \u00ae 500 Flex AE   Komp. A    15Kg",
       "system": "Mineral Waterproofing",
-      "sixQty": 4874.0,
-      "sixSales": 208309.0,
-      "threeQty": 3147.0,
-      "threeSales": 134860.0,
+      "sixQty": 5124.0,
+      "sixSales": 217684.0,
+      "threeQty": 3397.0,
+      "threeSales": 144235.0,
       "actuals": {
         "JAN": {
           "qty": 972.0,
@@ -30723,8 +30723,8 @@
           "value": 29925.0
         },
         "SEP": {
-          "qty": 80.0,
-          "value": 3600.0
+          "qty": 330.0,
+          "value": 12975.0
         },
         "OCT": {
           "qty": 0.0,
@@ -30803,10 +30803,10 @@
       "code": "3410957022011001",
       "name": "MC-Proof \u00ae 500 Flex AE   Komp. B    5Kg",
       "system": "Mineral Waterproofing",
-      "sixQty": 4874.0,
-      "sixSales": 70453.0,
-      "threeQty": 3147.0,
-      "threeSales": 45970.0,
+      "sixQty": 5124.0,
+      "sixSales": 73578.0,
+      "threeQty": 3397.0,
+      "threeSales": 49095.0,
       "actuals": {
         "JAN": {
           "qty": 972.0,
@@ -30841,8 +30841,8 @@
           "value": 9975.0
         },
         "SEP": {
-          "qty": 80.0,
-          "value": 1200.0
+          "qty": 330.0,
+          "value": 4325.0
         },
         "OCT": {
           "qty": 0.0,
@@ -33576,10 +33576,10 @@
       "code": "50066790551201",
       "name": "MC DUR 1150   RAL 7005  Komp A.  25.09Kg",
       "system": "Resin Flooring",
-      "sixQty": 176.0,
-      "sixSales": 65185.504,
-      "threeQty": 101.0,
-      "threeSales": 38053.732,
+      "sixQty": 181.0,
+      "sixSales": 67075.457,
+      "threeQty": 106.0,
+      "threeSales": 39943.685,
       "actuals": {
         "JAN": {
           "qty": 43.0,
@@ -33614,8 +33614,8 @@
           "value": 22679.436
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 5.0,
+          "value": 1889.953
         },
         "OCT": {
           "qty": 0.0,
@@ -35523,10 +35523,10 @@
       "code": "50067850170111031",
       "name": "MC DUR 1150     Komp B.  3.585 Kg",
       "system": "Resin Flooring",
-      "sixQty": 125.0,
-      "sixSales": 6751.175,
-      "threeQty": 60.0,
-      "threeSales": 3240.564,
+      "sixQty": 135.0,
+      "sixSales": 7738.222,
+      "threeQty": 70.0,
+      "threeSales": 4227.611,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -35561,8 +35561,8 @@
           "value": 3240.564
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 10.0,
+          "value": 987.047
         },
         "OCT": {
           "qty": 0.0,
