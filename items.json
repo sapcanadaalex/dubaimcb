@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T06:02:13+04:00",
+  "generatedAt": "2026-09-08T06:51:43+04:00",
   "items": [
     {
       "code": "00137220541",
@@ -8307,6 +8307,15 @@
       "sixSales": 28870.0,
       "threeQty": 42.0,
       "threeSales": 17800.0
+    },
+    {
+      "code": "testForeCast",
+      "name": "testForeCast",
+      "system": "Not Assignable",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0
     }
   ]
 }
