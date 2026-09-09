@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:21:43+04:00",
+  "generatedAt": "2026-09-09T10:51:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -25316,10 +25316,10 @@
       "code": "99970162191001",
       "name": "MC-Rep 3000       5Kg",
       "system": "Resin Flooring",
-      "sixQty": 2385.0,
-      "sixSales": 189891.0,
-      "threeQty": 1272.0,
-      "threeSales": 102335.0,
+      "sixQty": 2485.0,
+      "sixSales": 197891.0,
+      "threeQty": 1372.0,
+      "threeSales": 110335.0,
       "actuals": {
         "JAN": {
           "qty": 334.0,
@@ -25354,8 +25354,8 @@
           "value": 38820.0
         },
         "SEP": {
-          "qty": 89.0,
-          "value": 7045.0
+          "qty": 189.0,
+          "value": 15045.0
         },
         "OCT": {
           "qty": 0.0,
