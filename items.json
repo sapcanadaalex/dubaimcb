@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T14:51:43+04:00",
+  "generatedAt": "2026-09-09T15:22:47+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -22778,6 +22778,65 @@
     {
       "code": "59700086930001",
       "name": "MC-I 910       1Set",
+      "system": "Injection",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0,
+      "actuals": {
+        "JAN": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "FEB": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "MAR": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "APR": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "MAY": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "JUN": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "JUL": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "AUG": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "SEP": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "OCT": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "NOV": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "DEC": {
+          "qty": 0.0,
+          "value": 0.0
+        }
+      }
+    },
+    {
+      "code": "59700086930011",
+      "name": "Fluid Pump 36.1/75 RS            Set",
       "system": "Injection",
       "sixQty": 0.0,
       "sixSales": 0.0,
