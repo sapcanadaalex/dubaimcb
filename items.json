@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T23:51:43+04:00",
+  "generatedAt": "2026-09-10T00:44:11+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -8090,8 +8090,8 @@
       "system": "Waterproofing Admixtures",
       "sixQty": 2470.0,
       "sixSales": 227547.312,
-      "threeQty": 2168.0,
-      "threeSales": 198723.312,
+      "threeQty": 2118.0,
+      "threeSales": 193923.312,
       "actuals": {
         "JAN": {
           "qty": 43.0,
@@ -8619,8 +8619,8 @@
       "code": "33130910381001",
       "name": "Nafuflex Basic 2       28Kg",
       "system": "Bituminous Waterproofing",
-      "sixQty": 67.0,
-      "sixSales": 20412.0,
+      "sixQty": 57.0,
+      "sixSales": 17892.0,
       "threeQty": 0.0,
       "threeSales": 0.0,
       "actuals": {
@@ -9032,8 +9032,8 @@
       "code": "341007003610111",
       "name": "MC-Proof \u00ae 500 Flex AE   Komp. A    15Kg",
       "system": "Mineral Waterproofing",
-      "sixQty": 5124.0,
-      "sixSales": 217684.0,
+      "sixQty": 5116.0,
+      "sixSales": 217384.0,
       "threeQty": 3397.0,
       "threeSales": 144235.0,
       "actuals": {
@@ -9150,8 +9150,8 @@
       "code": "3410957022011001",
       "name": "MC-Proof \u00ae 500 Flex AE   Komp. B    5Kg",
       "system": "Mineral Waterproofing",
-      "sixQty": 5124.0,
-      "sixSales": 73578.0,
+      "sixQty": 5116.0,
+      "sixSales": 73478.0,
       "threeQty": 3397.0,
       "threeSales": 49095.0,
       "actuals": {
@@ -9742,8 +9742,8 @@
       "system": "Surface Protection - Mineral",
       "sixQty": 102.0,
       "sixSales": 29070.0,
-      "threeQty": 7.0,
-      "threeSales": 1995.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0,
       "actuals": {
         "JAN": {
           "qty": 11.0,
@@ -10625,10 +10625,10 @@
       "code": "45750730291101031",
       "name": "MC-Fast ST\u00a0AE       15Kg",
       "system": "Concrete Cosmetics and Design",
-      "sixQty": 121.0,
-      "sixSales": 16600.0,
-      "threeQty": 35.0,
-      "threeSales": 4805.0,
+      "sixQty": 120.0,
+      "sixSales": 16450.0,
+      "threeQty": 30.0,
+      "threeSales": 4165.0,
       "actuals": {
         "JAN": {
           "qty": 10.0,
@@ -14108,8 +14108,8 @@
       "system": "Resin Flooring",
       "sixQty": 158.0,
       "sixSales": 36740.6979,
-      "threeQty": 80.0,
-      "threeSales": 18142.7778,
+      "threeQty": 74.0,
+      "threeSales": 16749.111,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -14285,8 +14285,8 @@
       "system": "Resin Flooring",
       "sixQty": 158.0,
       "sixSales": 21784.3021,
-      "threeQty": 80.0,
-      "threeSales": 10757.2222,
+      "threeQty": 74.0,
+      "threeSales": 9930.889,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -17589,8 +17589,8 @@
       "system": "Injection",
       "sixQty": 254.0,
       "sixSales": 148350.0,
-      "threeQty": 132.0,
-      "threeSales": 75900.0,
+      "threeQty": 131.0,
+      "threeSales": 75300.0,
       "actuals": {
         "JAN": {
           "qty": 30.0,
@@ -17707,8 +17707,8 @@
       "system": "Injection",
       "sixQty": 254.0,
       "sixSales": 148350.0,
-      "threeQty": 132.0,
-      "threeSales": 75900.0,
+      "threeQty": 131.0,
+      "threeSales": 75300.0,
       "actuals": {
         "JAN": {
           "qty": 30.0,
@@ -17823,8 +17823,8 @@
       "code": "55080010240101",
       "name": "MC-Injekt 2300 flow     Komp. A  10L",
       "system": "Injection",
-      "sixQty": 656.0,
-      "sixSales": 302320.0,
+      "sixQty": 630.0,
+      "sixSales": 291080.0,
       "threeQty": 502.0,
       "threeSales": 226930.0,
       "actuals": {
@@ -17941,8 +17941,8 @@
       "code": "55080020240101",
       "name": "MC-Injekt 2300 flow     Komp. B  10L",
       "system": "Injection",
-      "sixQty": 656.0,
-      "sixSales": 302320.0,
+      "sixQty": 630.0,
+      "sixSales": 291080.0,
       "threeQty": 502.0,
       "threeSales": 226930.0,
       "actuals": {
@@ -18295,8 +18295,8 @@
       "code": "55250010351001031",
       "name": "MC-Injekt 2700     Komp. A  20L",
       "system": "Injection",
-      "sixQty": 42.0,
-      "sixSales": 50060.0,
+      "sixQty": 37.0,
+      "sixSales": 44260.0,
       "threeQty": 9.0,
       "threeSales": 11700.0,
       "actuals": {
@@ -18472,8 +18472,8 @@
       "code": "55250020351001031",
       "name": "MC-Injekt 2700     Komp. B  20L",
       "system": "Injection",
-      "sixQty": 42.0,
-      "sixSales": 50060.0,
+      "sixQty": 37.0,
+      "sixSales": 44260.0,
       "threeQty": 9.0,
       "threeSales": 11700.0,
       "actuals": {
@@ -19475,8 +19475,8 @@
       "code": "55320010360001031",
       "name": "MC-Montan Injekt LE-S     Komp. A  20L",
       "system": "Injection",
-      "sixQty": 840.0,
-      "sixSales": 1035630.4,
+      "sixQty": 835.0,
+      "sixSales": 1029630.4,
       "threeQty": 448.0,
       "threeSales": 538290.4,
       "actuals": {
@@ -19770,8 +19770,8 @@
       "code": "55320020360101031",
       "name": "MC-Montan Injekt LE-S     Komp. B  20L",
       "system": "Injection",
-      "sixQty": 840.0,
-      "sixSales": 1035630.4,
+      "sixQty": 835.0,
+      "sixSales": 1029630.4,
       "threeQty": 448.0,
       "threeSales": 538290.4,
       "actuals": {
@@ -20301,8 +20301,8 @@
       "code": "55370000241101031",
       "name": "MC-Injekt 2111     AE  10Kg",
       "system": "Injection",
-      "sixQty": 765.0,
-      "sixSales": 375860.0,
+      "sixQty": 715.0,
+      "sixSales": 356860.0,
       "threeQty": 329.0,
       "threeSales": 167070.0,
       "actuals": {
@@ -25377,8 +25377,8 @@
       "system": "Resin Flooring",
       "sixQty": 2685.0,
       "sixSales": 213891.0,
-      "threeQty": 1572.0,
-      "threeSales": 126335.0,
+      "threeQty": 1566.0,
+      "threeSales": 125855.0,
       "actuals": {
         "JAN": {
           "qty": 334.0,
@@ -28797,8 +28797,8 @@
       "code": "99971680371001",
       "name": "MC-Proof \u00ae 500 AE   Grey  Komp. A  18Kg",
       "system": "Mineral Waterproofing",
-      "sixQty": 1162.0,
-      "sixSales": 47120.5287,
+      "sixQty": 1112.0,
+      "sixSales": 45359.6587,
       "threeQty": 525.0,
       "threeSales": 21460.7192,
       "actuals": {
@@ -28974,8 +28974,8 @@
       "code": "99971690221001",
       "name": "MC-Proof \u00ae 500 AE     Komp. B  5Kg",
       "system": "Mineral Waterproofing",
-      "sixQty": 1729.0,
-      "sixSales": 15909.9713,
+      "sixQty": 1679.0,
+      "sixSales": 15420.8413,
       "threeQty": 700.0,
       "threeSales": 8586.2808,
       "actuals": {
@@ -31511,10 +31511,10 @@
       "code": "999807434111011032",
       "name": "MC-Proof 2110 AE     White    20Kg",
       "system": "Dispersion Waterproofing",
-      "sixQty": 1412.0,
-      "sixSales": 250222.0,
-      "threeQty": 1047.0,
-      "threeSales": 186218.0,
+      "sixQty": 1397.0,
+      "sixSales": 247522.0,
+      "threeQty": 1037.0,
+      "threeSales": 184218.0,
       "actuals": {
         "JAN": {
           "qty": 161.0,
