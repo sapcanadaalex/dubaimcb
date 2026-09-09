@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T09:51:43+04:00",
+  "generatedAt": "2026-09-09T10:21:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -10035,10 +10035,10 @@
       "code": "44470000370101033",
       "name": "Nafufill\u00a0   KM 250 AE    25Kg",
       "system": "Concrete Repair",
-      "sixQty": 1137.0,
-      "sixSales": 19360.5625,
-      "threeQty": 932.0,
-      "threeSales": 16047.5625,
+      "sixQty": 1162.0,
+      "sixSales": 19810.5625,
+      "threeQty": 957.0,
+      "threeSales": 16497.5625,
       "actuals": {
         "JAN": {
           "qty": 377.0,
@@ -10073,8 +10073,8 @@
           "value": 3420.0
         },
         "SEP": {
-          "qty": 95.0,
-          "value": 1710.0
+          "qty": 120.0,
+          "value": 2160.0
         },
         "OCT": {
           "qty": 0.0,
@@ -25316,10 +25316,10 @@
       "code": "99970162191001",
       "name": "MC-Rep 3000       5Kg",
       "system": "Resin Flooring",
-      "sixQty": 2380.0,
-      "sixSales": 189491.0,
-      "threeQty": 1267.0,
-      "threeSales": 101935.0,
+      "sixQty": 2385.0,
+      "sixSales": 189891.0,
+      "threeQty": 1272.0,
+      "threeSales": 102335.0,
       "actuals": {
         "JAN": {
           "qty": 334.0,
@@ -25354,8 +25354,8 @@
           "value": 38820.0
         },
         "SEP": {
-          "qty": 84.0,
-          "value": 6645.0
+          "qty": 89.0,
+          "value": 7045.0
         },
         "OCT": {
           "qty": 0.0,
