@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:51:43+04:00",
+  "generatedAt": "2026-09-09T11:21:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -13339,10 +13339,10 @@
       "code": "50067780381202",
       "name": "MC DUR 1150   MISTY GREY   Komp A.  25.09Kg",
       "system": "Resin Flooring",
-      "sixQty": 48.0,
-      "sixSales": 14947.2336,
-      "threeQty": 48.0,
-      "threeSales": 14947.2336,
+      "sixQty": 63.0,
+      "sixSales": 19618.2441,
+      "threeQty": 63.0,
+      "threeSales": 19618.2441,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -13377,8 +13377,8 @@
           "value": 6228.014
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 15.0,
+          "value": 4671.0105
         },
         "OCT": {
           "qty": 0.0,
@@ -13516,10 +13516,10 @@
       "code": "50067780381205",
       "name": "MC DUR 1150   RAL 7022   Komp A.  25.09Kg",
       "system": "Resin Flooring",
-      "sixQty": 15.0,
-      "sixSales": 4671.0105,
-      "threeQty": 15.0,
-      "threeSales": 4671.0105,
+      "sixQty": 25.0,
+      "sixSales": 7785.0175,
+      "threeQty": 25.0,
+      "threeSales": 7785.0175,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -13554,8 +13554,8 @@
           "value": 4671.0105
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 10.0,
+          "value": 3114.007
         },
         "OCT": {
           "qty": 0.0,
@@ -13752,10 +13752,10 @@
       "code": "50067850170101031",
       "name": "MC DUR 1150     Komp B.  3.11Kg",
       "system": "Resin Flooring",
-      "sixQty": 1669.0,
-      "sixSales": 66955.3862,
-      "threeQty": 817.0,
-      "threeSales": 33708.1577,
+      "sixQty": 1694.0,
+      "sixSales": 67920.3687,
+      "threeQty": 842.0,
+      "threeSales": 34673.1402,
       "actuals": {
         "JAN": {
           "qty": 316.0,
@@ -13790,8 +13790,8 @@
           "value": 10802.2403
         },
         "SEP": {
-          "qty": 36.0,
-          "value": 1554.9987
+          "qty": 61.0,
+          "value": 2519.9812
         },
         "OCT": {
           "qty": 0.0,
