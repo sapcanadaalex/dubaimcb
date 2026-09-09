@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T16:21:46+04:00",
+  "generatedAt": "2026-09-09T17:21:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -7262,10 +7262,10 @@
       "code": "11749660350101",
       "name": "MC-Latex GP       20L",
       "system": "Concrete Repair",
-      "sixQty": 62.0,
-      "sixSales": 8360.0,
-      "threeQty": 47.0,
-      "threeSales": 6120.0,
+      "sixQty": 68.0,
+      "sixSales": 9380.0,
+      "threeQty": 53.0,
+      "threeSales": 7140.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -7300,8 +7300,8 @@
           "value": 3235.0
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 6.0,
+          "value": 1020.0
         },
         "OCT": {
           "qty": 0.0,
@@ -8265,10 +8265,10 @@
       "code": "18910700370111",
       "name": "MC-Floor Easyplan    Classic AE    25Kg",
       "system": "Screeds",
-      "sixQty": 382.0,
-      "sixSales": 15770.0,
-      "threeQty": 210.0,
-      "threeSales": 9450.0,
+      "sixQty": 566.0,
+      "sixSales": 24050.0,
+      "threeQty": 394.0,
+      "threeSales": 17730.0,
       "actuals": {
         "JAN": {
           "qty": 30.0,
@@ -8303,8 +8303,8 @@
           "value": 6300.0
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 184.0,
+          "value": 8280.0
         },
         "OCT": {
           "qty": 0.0,
@@ -11510,10 +11510,10 @@
       "code": "50066790550101A",
       "name": "MC DUR 1150   RAL 6032  Komp A.  25.09Kg",
       "system": "Resin Flooring",
-      "sixQty": 7.0,
-      "sixSales": 2678.046,
-      "threeQty": 7.0,
-      "threeSales": 2678.046,
+      "sixQty": 10.0,
+      "sixSales": 3825.78,
+      "threeQty": 10.0,
+      "threeSales": 3825.78,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -11548,8 +11548,8 @@
           "value": 0.0
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 3.0,
+          "value": 1147.734
         },
         "OCT": {
           "qty": 0.0,
@@ -12277,10 +12277,10 @@
       "code": "5006679155111",
       "name": "MC DUR 1150   RAL 5017  Komp A.  25.09Kg",
       "system": "Resin Flooring",
-      "sixQty": 14.0,
-      "sixSales": 2295.468,
-      "threeQty": 14.0,
-      "threeSales": 2295.468,
+      "sixQty": 15.0,
+      "sixSales": 2678.046,
+      "threeQty": 15.0,
+      "threeSales": 2678.046,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -12315,8 +12315,8 @@
           "value": 0.0
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 1.0,
+          "value": 382.578
         },
         "OCT": {
           "qty": 0.0,
@@ -13752,10 +13752,10 @@
       "code": "50067850170101031",
       "name": "MC DUR 1150     Komp B.  3.11Kg",
       "system": "Resin Flooring",
-      "sixQty": 1694.0,
-      "sixSales": 67920.3687,
-      "threeQty": 842.0,
-      "threeSales": 34673.1402,
+      "sixQty": 1698.0,
+      "sixSales": 68110.0567,
+      "threeQty": 846.0,
+      "threeSales": 34862.8282,
       "actuals": {
         "JAN": {
           "qty": 316.0,
@@ -13790,8 +13790,8 @@
           "value": 10802.2403
         },
         "SEP": {
-          "qty": 61.0,
-          "value": 2519.9812
+          "qty": 65.0,
+          "value": 2709.6692
         },
         "OCT": {
           "qty": 0.0,
@@ -25375,10 +25375,10 @@
       "code": "99970162191001",
       "name": "MC-Rep 3000       5Kg",
       "system": "Resin Flooring",
-      "sixQty": 2485.0,
-      "sixSales": 197891.0,
-      "threeQty": 1372.0,
-      "threeSales": 110335.0,
+      "sixQty": 2685.0,
+      "sixSales": 213891.0,
+      "threeQty": 1572.0,
+      "threeSales": 126335.0,
       "actuals": {
         "JAN": {
           "qty": 334.0,
@@ -25413,8 +25413,8 @@
           "value": 38820.0
         },
         "SEP": {
-          "qty": 189.0,
-          "value": 15045.0
+          "qty": 389.0,
+          "value": 31045.0
         },
         "OCT": {
           "qty": 0.0,
@@ -25965,9 +25965,9 @@
       "code": "99970570311001",
       "name": "Nafufill KM   420 AE    25Kg",
       "system": "Concrete Repair",
-      "sixQty": 15249.0,
+      "sixQty": 15250.0,
       "sixSales": 230620.0,
-      "threeQty": 12360.0,
+      "threeQty": 12361.0,
       "threeSales": 186636.0,
       "actuals": {
         "JAN": {
@@ -26003,7 +26003,7 @@
           "value": 154940.0
         },
         "SEP": {
-          "qty": 740.0,
+          "qty": 741.0,
           "value": 11840.0
         },
         "OCT": {
@@ -28384,9 +28384,9 @@
       "code": "99971620141001",
       "name": "MC-Injekt 1264   KFE  Komp. A  2.1Kg",
       "system": "Injection",
-      "sixQty": 813.0,
+      "sixQty": 814.0,
       "sixSales": 90508.9,
-      "threeQty": 155.0,
+      "threeQty": 156.0,
       "threeSales": 17432.1,
       "actuals": {
         "JAN": {
@@ -28422,7 +28422,7 @@
           "value": 12022.5
         },
         "SEP": {
-          "qty": 10.0,
+          "qty": 11.0,
           "value": 1155.0
         },
         "OCT": {
@@ -28443,9 +28443,9 @@
       "code": "99971630081001",
       "name": "MC-Injekt 1264   KFE  Komp. B  0.7Kg",
       "system": "Injection",
-      "sixQty": 813.0,
+      "sixQty": 814.0,
       "sixSales": 31503.12,
-      "threeQty": 155.0,
+      "threeQty": 156.0,
       "threeSales": 6018.6,
       "actuals": {
         "JAN": {
@@ -28481,7 +28481,7 @@
           "value": 4007.5
         },
         "SEP": {
-          "qty": 10.0,
+          "qty": 11.0,
           "value": 385.0
         },
         "OCT": {
@@ -31983,10 +31983,10 @@
       "code": "99980753421001031",
       "name": "MC-Proof 988   Black    20L",
       "system": "Dispersion Waterproofing",
-      "sixQty": 68.0,
-      "sixSales": 28870.0,
-      "threeQty": 42.0,
-      "threeSales": 17800.0,
+      "sixQty": 78.0,
+      "sixSales": 33170.0,
+      "threeQty": 52.0,
+      "threeSales": 22100.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -32021,8 +32021,8 @@
           "value": 8600.0
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 10.0,
+          "value": 4300.0
         },
         "OCT": {
           "qty": 0.0,
