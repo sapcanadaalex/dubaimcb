@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T14:21:43+04:00",
+  "generatedAt": "2026-09-09T14:51:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -19416,10 +19416,10 @@
       "code": "55310000240101031",
       "name": "MC-Injekt 2133       10L",
       "system": "Injection",
-      "sixQty": 486.0,
-      "sixSales": 254500.0,
-      "threeQty": 320.0,
-      "threeSales": 166360.0,
+      "sixQty": 487.0,
+      "sixSales": 255180.0,
+      "threeQty": 321.0,
+      "threeSales": 167040.0,
       "actuals": {
         "JAN": {
           "qty": 142.0,
@@ -19454,8 +19454,8 @@
           "value": 43350.0
         },
         "SEP": {
-          "qty": 2.0,
-          "value": 1360.0
+          "qty": 3.0,
+          "value": 2040.0
         },
         "OCT": {
           "qty": 0.0,
