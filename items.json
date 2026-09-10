@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T13:21:43+04:00",
+  "generatedAt": "2026-09-10T13:51:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -25965,10 +25965,10 @@
       "code": "99970570311001",
       "name": "Nafufill KM   420 AE    25Kg",
       "system": "Concrete Repair",
-      "sixQty": 15250.0,
-      "sixSales": 230620.0,
-      "threeQty": 12361.0,
-      "threeSales": 186636.0,
+      "sixQty": 16050.0,
+      "sixSales": 242620.0,
+      "threeQty": 13161.0,
+      "threeSales": 198636.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -26003,8 +26003,8 @@
           "value": 154940.0
         },
         "SEP": {
-          "qty": 741.0,
-          "value": 11840.0
+          "qty": 1541.0,
+          "value": 23840.0
         },
         "OCT": {
           "qty": 0.0,
