@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T11:51:43+04:00",
+  "generatedAt": "2026-09-10T12:21:54+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -9740,10 +9740,10 @@
       "code": "44040000371040",
       "name": "Ombran\u00a0   MHP    25Kg",
       "system": "Surface Protection - Mineral",
-      "sixQty": 102.0,
-      "sixSales": 29070.0,
-      "threeQty": 0.0,
-      "threeSales": 0.0,
+      "sixQty": 107.0,
+      "sixSales": 30495.0,
+      "threeQty": 5.0,
+      "threeSales": 1425.0,
       "actuals": {
         "JAN": {
           "qty": 11.0,
@@ -9778,8 +9778,8 @@
           "value": 0.0
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 5.0,
+          "value": 1425.0
         },
         "OCT": {
           "qty": 0.0,
