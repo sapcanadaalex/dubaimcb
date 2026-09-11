@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T11:21:43+04:00",
+  "generatedAt": "2026-09-11T11:51:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -10035,10 +10035,10 @@
       "code": "44470000370101033",
       "name": "Nafufill\u00a0   KM 250 AE    25Kg",
       "system": "Concrete Repair",
-      "sixQty": 1154.0,
-      "sixSales": 19666.5625,
-      "threeQty": 937.0,
-      "threeSales": 16137.5625,
+      "sixQty": 1198.0,
+      "sixSales": 20458.5625,
+      "threeQty": 981.0,
+      "threeSales": 16929.5625,
       "actuals": {
         "JAN": {
           "qty": 377.0,
@@ -10073,8 +10073,8 @@
           "value": 3420.0
         },
         "SEP": {
-          "qty": 120.0,
-          "value": 2160.0
+          "qty": 164.0,
+          "value": 2952.0
         },
         "OCT": {
           "qty": 0.0,
@@ -11333,10 +11333,10 @@
       "code": "50065550350111031",
       "name": "MC-DUR EPW    White  Komp A.  4.25Kg",
       "system": "Resin Flooring",
-      "sixQty": 117.0,
-      "sixSales": 11402.75,
-      "threeQty": 11.0,
-      "threeSales": 1117.75,
+      "sixQty": 127.0,
+      "sixSales": 12422.75,
+      "threeQty": 21.0,
+      "threeSales": 2137.75,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -11371,8 +11371,8 @@
           "value": 0.0
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 10.0,
+          "value": 1020.0
         },
         "OCT": {
           "qty": 0.0,
@@ -11392,10 +11392,10 @@
       "code": "50065550351101031",
       "name": "MC-DUR EPW       Komp B.  0.75Kg",
       "system": "Surface Protection - Resin",
-      "sixQty": 117.0,
-      "sixSales": 2012.25,
-      "threeQty": 11.0,
-      "threeSales": 197.25,
+      "sixQty": 127.0,
+      "sixSales": 2192.25,
+      "threeQty": 21.0,
+      "threeSales": 377.25,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -11430,8 +11430,8 @@
           "value": 0.0
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 10.0,
+          "value": 180.0
         },
         "OCT": {
           "qty": 0.0,
@@ -20301,10 +20301,10 @@
       "code": "55370000241101031",
       "name": "MC-Injekt 2111     AE  10Kg",
       "system": "Injection",
-      "sixQty": 715.0,
-      "sixSales": 356860.0,
-      "threeQty": 329.0,
-      "threeSales": 167070.0,
+      "sixQty": 730.0,
+      "sixSales": 364060.0,
+      "threeQty": 344.0,
+      "threeSales": 174270.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -20339,8 +20339,8 @@
           "value": 10120.0
         },
         "SEP": {
-          "qty": 53.0,
-          "value": 25650.0
+          "qty": 68.0,
+          "value": 32850.0
         },
         "OCT": {
           "qty": 0.0,
