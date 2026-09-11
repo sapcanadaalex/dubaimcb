@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T23:51:44+04:00",
+  "generatedAt": "2026-09-12T00:54:21+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -4904,8 +4904,8 @@
       "system": "Structural Strenghtening",
       "sixQty": 10.0,
       "sixSales": 44073.6,
-      "threeQty": 10.0,
-      "threeSales": 44073.6,
+      "threeQty": 0.0,
+      "threeSales": 0.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -4963,8 +4963,8 @@
       "system": "Structural Strenghtening",
       "sixQty": 10.0,
       "sixSales": 24975.04,
-      "threeQty": 10.0,
-      "threeSales": 24975.04,
+      "threeQty": 0.0,
+      "threeSales": 0.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -5907,8 +5907,8 @@
       "system": "Concrete Repair",
       "sixQty": 10.0,
       "sixSales": 2747.5923,
-      "threeQty": 10.0,
-      "threeSales": 2747.5923,
+      "threeQty": 0.0,
+      "threeSales": 0.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -5966,8 +5966,8 @@
       "system": "Concrete Repair",
       "sixQty": 10.0,
       "sixSales": 851.7517,
-      "threeQty": 10.0,
-      "threeSales": 851.7517,
+      "threeQty": 0.0,
+      "threeSales": 0.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -6025,8 +6025,8 @@
       "system": "Concrete Repair",
       "sixQty": 10.0,
       "sixSales": 2652.577,
-      "threeQty": 10.0,
-      "threeSales": 2652.577,
+      "threeQty": 0.0,
+      "threeSales": 0.0,
       "actuals": {
         "JAN": {
           "qty": 50.0,
@@ -6084,8 +6084,8 @@
       "system": "Concrete Repair",
       "sixQty": 10.0,
       "sixSales": 1020.223,
-      "threeQty": 10.0,
-      "threeSales": 1020.223,
+      "threeQty": 0.0,
+      "threeSales": 0.0,
       "actuals": {
         "JAN": {
           "qty": 50.0,
@@ -8090,8 +8090,8 @@
       "system": "Waterproofing Admixtures",
       "sixQty": 2468.0,
       "sixSales": 227547.312,
-      "threeQty": 2118.0,
-      "threeSales": 193923.312,
+      "threeQty": 318.0,
+      "threeSales": 26664.0,
       "actuals": {
         "JAN": {
           "qty": 43.0,
@@ -9034,8 +9034,8 @@
       "system": "Mineral Waterproofing",
       "sixQty": 4866.0,
       "sixSales": 208009.0,
-      "threeQty": 3341.0,
-      "threeSales": 141715.0,
+      "threeQty": 3261.0,
+      "threeSales": 138557.5,
       "actuals": {
         "JAN": {
           "qty": 972.0,
@@ -9152,8 +9152,8 @@
       "system": "Mineral Waterproofing",
       "sixQty": 4866.0,
       "sixSales": 70353.0,
-      "threeQty": 3341.0,
-      "threeSales": 48255.0,
+      "threeQty": 3261.0,
+      "threeSales": 47202.5,
       "actuals": {
         "JAN": {
           "qty": 972.0,
@@ -10037,8 +10037,8 @@
       "system": "Concrete Repair",
       "sixQty": 1198.0,
       "sixSales": 20458.5625,
-      "threeQty": 981.0,
-      "threeSales": 16929.5625,
+      "threeQty": 781.0,
+      "threeSales": 13729.5625,
       "actuals": {
         "JAN": {
           "qty": 377.0,
@@ -10627,8 +10627,8 @@
       "system": "Concrete Cosmetics and Design",
       "sixQty": 140.0,
       "sixSales": 19150.0,
-      "threeQty": 50.0,
-      "threeSales": 6865.0,
+      "threeQty": 48.0,
+      "threeSales": 6595.0,
       "actuals": {
         "JAN": {
           "qty": 10.0,
@@ -12161,8 +12161,8 @@
       "system": "Resin Flooring",
       "sixQty": 42.0,
       "sixSales": 14502.3774,
-      "threeQty": 42.0,
-      "threeSales": 14502.3774,
+      "threeQty": 25.0,
+      "threeSales": 8603.5576,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -13754,8 +13754,8 @@
       "system": "Resin Flooring",
       "sixQty": 1759.0,
       "sixSales": 70615.7023,
-      "threeQty": 911.0,
-      "threeSales": 37487.5802,
+      "threeQty": 894.0,
+      "threeSales": 36756.4,
       "actuals": {
         "JAN": {
           "qty": 316.0,
@@ -14108,8 +14108,8 @@
       "system": "Resin Flooring",
       "sixQty": 158.0,
       "sixSales": 36740.6979,
-      "threeQty": 74.0,
-      "threeSales": 16749.111,
+      "threeQty": 73.0,
+      "threeSales": 16516.8332,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -14285,8 +14285,8 @@
       "system": "Resin Flooring",
       "sixQty": 158.0,
       "sixSales": 21784.3021,
-      "threeQty": 74.0,
-      "threeSales": 9930.889,
+      "threeQty": 73.0,
+      "threeSales": 9793.1668,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -17587,8 +17587,8 @@
       "code": "55070010240101031",
       "name": "MC-Injekt 2300 top     Komp. A  10L",
       "system": "Injection",
-      "sixQty": 267.0,
-      "sixSales": 156300.0,
+      "sixQty": 262.0,
+      "sixSales": 154050.0,
       "threeQty": 144.0,
       "threeSales": 83250.0,
       "actuals": {
@@ -17705,8 +17705,8 @@
       "code": "55070020240101031",
       "name": "MC-Injekt 2300 top     Komp. B  10L",
       "system": "Injection",
-      "sixQty": 267.0,
-      "sixSales": 156300.0,
+      "sixQty": 262.0,
+      "sixSales": 154050.0,
       "threeQty": 144.0,
       "threeSales": 83250.0,
       "actuals": {
@@ -18295,8 +18295,8 @@
       "code": "55250010351001031",
       "name": "MC-Injekt 2700     Komp. A  20L",
       "system": "Injection",
-      "sixQty": 33.0,
-      "sixSales": 39620.0,
+      "sixQty": 28.0,
+      "sixSales": 33820.0,
       "threeQty": 9.0,
       "threeSales": 11700.0,
       "actuals": {
@@ -18472,8 +18472,8 @@
       "code": "55250020351001031",
       "name": "MC-Injekt 2700     Komp. B  20L",
       "system": "Injection",
-      "sixQty": 33.0,
-      "sixSales": 39620.0,
+      "sixQty": 28.0,
+      "sixSales": 33820.0,
       "threeQty": 9.0,
       "threeSales": 11700.0,
       "actuals": {
@@ -18828,8 +18828,8 @@
       "system": "Injection",
       "sixQty": 41.0,
       "sixSales": 57400.0,
-      "threeQty": 35.0,
-      "threeSales": 49000.0,
+      "threeQty": 32.0,
+      "threeSales": 44800.0,
       "actuals": {
         "JAN": {
           "qty": 62.0,
@@ -19123,8 +19123,8 @@
       "system": "Injection",
       "sixQty": 41.0,
       "sixSales": 57400.0,
-      "threeQty": 35.0,
-      "threeSales": 49000.0,
+      "threeQty": 32.0,
+      "threeSales": 44800.0,
       "actuals": {
         "JAN": {
           "qty": 62.0,
@@ -19416,8 +19416,8 @@
       "code": "55310000240101031",
       "name": "MC-Injekt 2133       10L",
       "system": "Injection",
-      "sixQty": 496.0,
-      "sixSales": 260730.0,
+      "sixQty": 491.0,
+      "sixSales": 258480.0,
       "threeQty": 330.0,
       "threeSales": 172590.0,
       "actuals": {
@@ -20301,8 +20301,8 @@
       "code": "55370000241101031",
       "name": "MC-Injekt 2111     AE  10Kg",
       "system": "Injection",
-      "sixQty": 730.0,
-      "sixSales": 364060.0,
+      "sixQty": 700.0,
+      "sixSales": 352060.0,
       "threeQty": 344.0,
       "threeSales": 174270.0,
       "actuals": {
@@ -20537,10 +20537,10 @@
       "code": "55420050371001031",
       "name": "MC-Injekt GL-95 TX     B1  25.8Kg",
       "system": "Injection",
-      "sixQty": 140.0,
-      "sixSales": 182068.02,
-      "threeQty": 97.0,
-      "threeSales": 120225.42,
+      "sixQty": 135.0,
+      "sixSales": 175618.02,
+      "threeQty": 95.0,
+      "threeSales": 117232.62,
       "actuals": {
         "JAN": {
           "qty": 38.0,
@@ -20714,10 +20714,10 @@
       "code": "55430010381001031",
       "name": "MC-Injekt GL-95     A1  27.6Kg",
       "system": "Injection",
-      "sixQty": 338.0,
-      "sixSales": 411322.8,
-      "threeQty": 97.0,
-      "threeSales": 132645.6,
+      "sixQty": 333.0,
+      "sixSales": 404422.8,
+      "threeQty": 95.0,
+      "threeSales": 129444.0,
       "actuals": {
         "JAN": {
           "qty": 146.0,
@@ -20891,10 +20891,10 @@
       "code": "55430020071001",
       "name": "MC-Injekt GL-95     A2  0.5Kg",
       "system": "Injection",
-      "sixQty": 341.0,
-      "sixSales": 26045.15,
-      "threeQty": 98.0,
-      "threeSales": 8838.65,
+      "sixQty": 336.0,
+      "sixSales": 25920.15,
+      "threeQty": 96.0,
+      "threeSales": 8780.65,
       "actuals": {
         "JAN": {
           "qty": 38.0,
@@ -20950,10 +20950,10 @@
       "code": "55430040071001031",
       "name": "MC-Injekt GL-95     B  0.5Kg",
       "system": "Injection",
-      "sixQty": 341.0,
-      "sixSales": 14096.95,
-      "threeQty": 98.0,
-      "threeSales": 4802.45,
+      "sixQty": 336.0,
+      "sixSales": 13971.95,
+      "threeQty": 96.0,
+      "threeSales": 4744.45,
       "actuals": {
         "JAN": {
           "qty": 38.0,
@@ -21009,10 +21009,10 @@
       "code": "55430130131001",
       "name": "MC-Injekt GL-95     A3  2Kg",
       "system": "Injection",
-      "sixQty": 341.0,
-      "sixSales": 26489.6,
-      "threeQty": 98.0,
-      "threeSales": 8190.0,
+      "sixQty": 336.0,
+      "sixSales": 25989.6,
+      "threeQty": 96.0,
+      "threeSales": 7958.0,
       "actuals": {
         "JAN": {
           "qty": 38.0,
@@ -25377,8 +25377,8 @@
       "system": "Resin Flooring",
       "sixQty": 2813.0,
       "sixSales": 224035.0,
-      "threeQty": 1696.0,
-      "threeSales": 136255.0,
+      "threeQty": 1667.0,
+      "threeSales": 133935.0,
       "actuals": {
         "JAN": {
           "qty": 334.0,
@@ -25967,8 +25967,8 @@
       "system": "Concrete Repair",
       "sixQty": 16050.0,
       "sixSales": 242620.0,
-      "threeQty": 13111.0,
-      "threeSales": 197836.0,
+      "threeQty": 12861.0,
+      "threeSales": 194086.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -31513,8 +31513,8 @@
       "system": "Dispersion Waterproofing",
       "sixQty": 1397.0,
       "sixSales": 247522.0,
-      "threeQty": 1035.0,
-      "threeSales": 183794.0,
+      "threeQty": 1030.0,
+      "threeSales": 182734.0,
       "actuals": {
         "JAN": {
           "qty": 161.0,
