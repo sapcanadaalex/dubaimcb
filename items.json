@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T13:51:43+04:00",
+  "generatedAt": "2026-09-11T14:22:12+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -28384,10 +28384,10 @@
       "code": "99971620141001",
       "name": "MC-Injekt 1264   KFE  Komp. A  2.1Kg",
       "system": "Injection",
-      "sixQty": 744.0,
-      "sixSales": 83158.9,
-      "threeQty": 156.0,
-      "threeSales": 17432.1,
+      "sixQty": 749.0,
+      "sixSales": 83736.4,
+      "threeQty": 161.0,
+      "threeSales": 18009.6,
       "actuals": {
         "JAN": {
           "qty": 279.0,
@@ -28422,8 +28422,8 @@
           "value": 12022.5
         },
         "SEP": {
-          "qty": 11.0,
-          "value": 1155.0
+          "qty": 16.0,
+          "value": 1732.5
         },
         "OCT": {
           "qty": 0.0,
@@ -28443,10 +28443,10 @@
       "code": "99971630081001",
       "name": "MC-Injekt 1264   KFE  Komp. B  0.7Kg",
       "system": "Injection",
-      "sixQty": 744.0,
-      "sixSales": 29053.12,
-      "threeQty": 156.0,
-      "threeSales": 6018.6,
+      "sixQty": 749.0,
+      "sixSales": 29245.62,
+      "threeQty": 161.0,
+      "threeSales": 6211.1,
       "actuals": {
         "JAN": {
           "qty": 279.0,
@@ -28481,8 +28481,8 @@
           "value": 4007.5
         },
         "SEP": {
-          "qty": 11.0,
-          "value": 385.0
+          "qty": 16.0,
+          "value": 577.5
         },
         "OCT": {
           "qty": 0.0,
