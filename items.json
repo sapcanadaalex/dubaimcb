@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T23:51:43+04:00",
+  "generatedAt": "2026-09-13T00:21:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -18295,8 +18295,8 @@
       "code": "55250010351001031",
       "name": "MC-Injekt 2700     Komp. A  20L",
       "system": "Injection",
-      "sixQty": 28.0,
-      "sixSales": 33820.0,
+      "sixQty": 23.0,
+      "sixSales": 28020.0,
       "threeQty": 9.0,
       "threeSales": 11700.0,
       "actuals": {
@@ -18472,8 +18472,8 @@
       "code": "55250020351001031",
       "name": "MC-Injekt 2700     Komp. B  20L",
       "system": "Injection",
-      "sixQty": 28.0,
-      "sixSales": 33820.0,
+      "sixQty": 23.0,
+      "sixSales": 28020.0,
       "threeQty": 9.0,
       "threeSales": 11700.0,
       "actuals": {
@@ -19475,8 +19475,8 @@
       "code": "55320010360001031",
       "name": "MC-Montan Injekt LE-S     Komp. A  20L",
       "system": "Injection",
-      "sixQty": 831.0,
-      "sixSales": 1024830.4,
+      "sixQty": 826.0,
+      "sixSales": 1018830.4,
       "threeQty": 448.0,
       "threeSales": 538290.4,
       "actuals": {
@@ -19770,8 +19770,8 @@
       "code": "55320020360101031",
       "name": "MC-Montan Injekt LE-S     Komp. B  20L",
       "system": "Injection",
-      "sixQty": 831.0,
-      "sixSales": 1024830.4,
+      "sixQty": 826.0,
+      "sixSales": 1018830.4,
       "threeQty": 448.0,
       "threeSales": 538290.4,
       "actuals": {
@@ -20301,8 +20301,8 @@
       "code": "55370000241101031",
       "name": "MC-Injekt 2111     AE  10Kg",
       "system": "Injection",
-      "sixQty": 700.0,
-      "sixSales": 352060.0,
+      "sixQty": 695.0,
+      "sixSales": 349660.0,
       "threeQty": 344.0,
       "threeSales": 174270.0,
       "actuals": {
@@ -25375,8 +25375,8 @@
       "code": "99970162191001",
       "name": "MC-Rep 3000       5Kg",
       "system": "Resin Flooring",
-      "sixQty": 2813.0,
-      "sixSales": 224035.0,
+      "sixQty": 2768.0,
+      "sixSales": 220525.0,
       "threeQty": 1667.0,
       "threeSales": 133935.0,
       "actuals": {
@@ -31511,8 +31511,8 @@
       "code": "999807434111011032",
       "name": "MC-Proof 2110 AE     White    20Kg",
       "system": "Dispersion Waterproofing",
-      "sixQty": 1397.0,
-      "sixSales": 247522.0,
+      "sixQty": 1396.0,
+      "sixSales": 247282.0,
       "threeQty": 1030.0,
       "threeSales": 182734.0,
       "actuals": {
