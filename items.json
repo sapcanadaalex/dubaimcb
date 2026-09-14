@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T10:22:16+04:00",
+  "generatedAt": "2026-09-14T10:51:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -31511,10 +31511,10 @@
       "code": "999807434111011032",
       "name": "MC-Proof 2110 AE     White    20Kg",
       "system": "Dispersion Waterproofing",
-      "sixQty": 1407.0,
-      "sixSales": 249482.0,
-      "threeQty": 1041.0,
-      "threeSales": 184934.0,
+      "sixQty": 1437.0,
+      "sixSales": 255482.0,
+      "threeQty": 1071.0,
+      "threeSales": 190934.0,
       "actuals": {
         "JAN": {
           "qty": 161.0,
@@ -31549,8 +31549,8 @@
           "value": 71278.0
         },
         "SEP": {
-          "qty": 41.0,
-          "value": 8200.0
+          "qty": 71.0,
+          "value": 14200.0
         },
         "OCT": {
           "qty": 0.0,
