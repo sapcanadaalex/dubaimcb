@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T15:51:43+04:00",
+  "generatedAt": "2026-09-14T16:21:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -11097,10 +11097,10 @@
       "code": "49180990370101132",
       "name": "M18   Tile Adhesive    25Kg",
       "system": "Tile Adhesive",
-      "sixQty": 2599.0,
-      "sixSales": 33787.0,
-      "threeQty": 1959.0,
-      "threeSales": 25467.0,
+      "sixQty": 2839.0,
+      "sixSales": 36907.0,
+      "threeQty": 2199.0,
+      "threeSales": 28587.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -11135,8 +11135,8 @@
           "value": 14001.0
         },
         "SEP": {
-          "qty": 160.0,
-          "value": 2080.0
+          "qty": 400.0,
+          "value": 5200.0
         },
         "OCT": {
           "qty": 0.0,
@@ -13752,10 +13752,10 @@
       "code": "50067850170101031",
       "name": "MC DUR 1150     Komp B.  3.11Kg",
       "system": "Resin Flooring",
-      "sixQty": 1759.0,
-      "sixSales": 70615.7023,
-      "threeQty": 894.0,
-      "threeSales": 36756.4,
+      "sixQty": 1763.0,
+      "sixSales": 70770.0995,
+      "threeQty": 898.0,
+      "threeSales": 36910.7972,
       "actuals": {
         "JAN": {
           "qty": 316.0,
@@ -13790,8 +13790,8 @@
           "value": 10802.2403
         },
         "SEP": {
-          "qty": 130.0,
-          "value": 5334.4212
+          "qty": 134.0,
+          "value": 5488.8184
         },
         "OCT": {
           "qty": 0.0,
@@ -13929,10 +13929,10 @@
       "code": "50067850350101031",
       "name": "MC DUR 1150   RAL 7046  Komp A.  25.09Kg",
       "system": "Resin Flooring",
-      "sixQty": 297.0,
-      "sixSales": 85546.215,
-      "threeQty": 66.0,
-      "threeSales": 20712.5946,
+      "sixQty": 301.0,
+      "sixSales": 86791.8178,
+      "threeQty": 70.0,
+      "threeSales": 21958.1974,
       "actuals": {
         "JAN": {
           "qty": 40.0,
@@ -13967,8 +13967,8 @@
           "value": 800.7446
         },
         "SEP": {
-          "qty": 1.0,
-          "value": 400.3723
+          "qty": 5.0,
+          "value": 1645.9751
         },
         "OCT": {
           "qty": 0.0,
@@ -25375,10 +25375,10 @@
       "code": "99970162191001",
       "name": "MC-Rep 3000       5Kg",
       "system": "Resin Flooring",
-      "sixQty": 2768.0,
-      "sixSales": 220525.0,
-      "threeQty": 1667.0,
-      "threeSales": 133935.0,
+      "sixQty": 2773.0,
+      "sixSales": 220925.0,
+      "threeQty": 1672.0,
+      "threeSales": 134335.0,
       "actuals": {
         "JAN": {
           "qty": 334.0,
@@ -25413,8 +25413,8 @@
           "value": 38820.0
         },
         "SEP": {
-          "qty": 529.0,
-          "value": 42245.0
+          "qty": 534.0,
+          "value": 42645.0
         },
         "OCT": {
           "qty": 0.0,
