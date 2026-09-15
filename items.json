@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T15:51:43+04:00",
+  "generatedAt": "2026-09-15T16:21:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -11097,10 +11097,10 @@
       "code": "49180990370101132",
       "name": "M18   Tile Adhesive    25Kg",
       "system": "Tile Adhesive",
-      "sixQty": 2839.0,
-      "sixSales": 36907.0,
-      "threeQty": 2199.0,
-      "threeSales": 28587.0,
+      "sixQty": 2899.0,
+      "sixSales": 37687.0,
+      "threeQty": 2259.0,
+      "threeSales": 29367.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -11135,8 +11135,8 @@
           "value": 14001.0
         },
         "SEP": {
-          "qty": 400.0,
-          "value": 5200.0
+          "qty": 460.0,
+          "value": 5980.0
         },
         "OCT": {
           "qty": 0.0,
@@ -17823,10 +17823,10 @@
       "code": "55080010240101",
       "name": "MC-Injekt 2300 flow     Komp. A  10L",
       "system": "Injection",
-      "sixQty": 630.0,
-      "sixSales": 291080.0,
-      "threeQty": 502.0,
-      "threeSales": 226930.0,
+      "sixQty": 645.0,
+      "sixSales": 298280.0,
+      "threeQty": 517.0,
+      "threeSales": 234130.0,
       "actuals": {
         "JAN": {
           "qty": 66.0,
@@ -17861,8 +17861,8 @@
           "value": 13050.0
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 15.0,
+          "value": 7200.0
         },
         "OCT": {
           "qty": 0.0,
@@ -17941,10 +17941,10 @@
       "code": "55080020240101",
       "name": "MC-Injekt 2300 flow     Komp. B  10L",
       "system": "Injection",
-      "sixQty": 630.0,
-      "sixSales": 291080.0,
-      "threeQty": 502.0,
-      "threeSales": 226930.0,
+      "sixQty": 645.0,
+      "sixSales": 298280.0,
+      "threeQty": 517.0,
+      "threeSales": 234130.0,
       "actuals": {
         "JAN": {
           "qty": 66.0,
@@ -17979,8 +17979,8 @@
           "value": 13050.0
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 15.0,
+          "value": 7200.0
         },
         "OCT": {
           "qty": 0.0,
@@ -25965,10 +25965,10 @@
       "code": "99970570311001",
       "name": "Nafufill KM   420 AE    25Kg",
       "system": "Concrete Repair",
-      "sixQty": 16100.0,
-      "sixSales": 243420.0,
-      "threeQty": 12911.0,
-      "threeSales": 194886.0,
+      "sixQty": 16493.0,
+      "sixSales": 249315.0,
+      "threeQty": 13304.0,
+      "threeSales": 200781.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -26003,8 +26003,8 @@
           "value": 154940.0
         },
         "SEP": {
-          "qty": 1591.0,
-          "value": 24640.0
+          "qty": 1984.0,
+          "value": 30535.0
         },
         "OCT": {
           "qty": 0.0,
