@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T13:51:43+04:00",
+  "generatedAt": "2026-09-15T14:23:23+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -12454,10 +12454,10 @@
       "code": "500677537010103012",
       "name": "MC DUR 1150   RAL 1015  Komp A.  25.09Kg",
       "system": "Resin Flooring",
-      "sixQty": 20.0,
-      "sixSales": 7687.148,
-      "threeQty": 5.0,
-      "threeSales": 1921.787,
+      "sixQty": 25.0,
+      "sixSales": 9608.935,
+      "threeQty": 10.0,
+      "threeSales": 3843.574,
       "actuals": {
         "JAN": {
           "qty": 33.0,
@@ -12492,8 +12492,8 @@
           "value": 0.0
         },
         "SEP": {
-          "qty": 0.0,
-          "value": 0.0
+          "qty": 5.0,
+          "value": 1921.787
         },
         "OCT": {
           "qty": 0.0,
@@ -13752,10 +13752,10 @@
       "code": "50067850170101031",
       "name": "MC DUR 1150     Komp B.  3.11Kg",
       "system": "Resin Flooring",
-      "sixQty": 1763.0,
-      "sixSales": 70770.0995,
-      "threeQty": 898.0,
-      "threeSales": 36910.7972,
+      "sixQty": 1768.0,
+      "sixSales": 71008.3125,
+      "threeQty": 903.0,
+      "threeSales": 37149.0102,
       "actuals": {
         "JAN": {
           "qty": 316.0,
@@ -13790,8 +13790,8 @@
           "value": 10802.2403
         },
         "SEP": {
-          "qty": 134.0,
-          "value": 5488.8184
+          "qty": 139.0,
+          "value": 5727.0314
         },
         "OCT": {
           "qty": 0.0,
