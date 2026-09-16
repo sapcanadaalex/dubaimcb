@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T12:51:43+04:00",
+  "generatedAt": "2026-09-16T13:21:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -9072,6 +9072,65 @@
         "SEP": {
           "qty": 330.0,
           "value": 12975.0
+        },
+        "OCT": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "NOV": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "DEC": {
+          "qty": 0.0,
+          "value": 0.0
+        }
+      }
+    },
+    {
+      "code": "3410070036101111",
+      "name": "MC-Proof \u00ae 500 Flex AE  (White)   Komp. A    15Kg",
+      "system": "Mineral Waterproofing",
+      "sixQty": 0.0,
+      "sixSales": 0.0,
+      "threeQty": 0.0,
+      "threeSales": 0.0,
+      "actuals": {
+        "JAN": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "FEB": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "MAR": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "APR": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "MAY": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "JUN": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "JUL": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "AUG": {
+          "qty": 0.0,
+          "value": 0.0
+        },
+        "SEP": {
+          "qty": 0.0,
+          "value": 0.0
         },
         "OCT": {
           "qty": 0.0,
