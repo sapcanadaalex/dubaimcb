@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T16:21:43+04:00",
+  "generatedAt": "2026-09-16T16:51:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -20596,10 +20596,10 @@
       "code": "55420050371001031",
       "name": "MC-Injekt GL-95 TX     B1  25.8Kg",
       "system": "Injection",
-      "sixQty": 135.0,
-      "sixSales": 175618.02,
-      "threeQty": 95.0,
-      "threeSales": 117232.62,
+      "sixQty": 136.0,
+      "sixSales": 177073.14,
+      "threeQty": 96.0,
+      "threeSales": 118687.74,
       "actuals": {
         "JAN": {
           "qty": 38.0,
@@ -20634,8 +20634,8 @@
           "value": 53031.9
         },
         "SEP": {
-          "qty": 20.0,
-          "value": 26677.2
+          "qty": 21.0,
+          "value": 28132.32
         },
         "OCT": {
           "qty": 0.0,
@@ -20773,10 +20773,10 @@
       "code": "55430010381001031",
       "name": "MC-Injekt GL-95     A1  27.6Kg",
       "system": "Injection",
-      "sixQty": 333.0,
-      "sixSales": 404422.8,
-      "threeQty": 95.0,
-      "threeSales": 129444.0,
+      "sixQty": 334.0,
+      "sixSales": 406065.0,
+      "threeQty": 96.0,
+      "threeSales": 131086.2,
       "actuals": {
         "JAN": {
           "qty": 146.0,
@@ -20811,8 +20811,8 @@
           "value": 59698.8
         },
         "SEP": {
-          "qty": 21.0,
-          "value": 30139.2
+          "qty": 22.0,
+          "value": 31781.4
         },
         "OCT": {
           "qty": 0.0,
@@ -20950,10 +20950,10 @@
       "code": "55430020071001",
       "name": "MC-Injekt GL-95     A2  0.5Kg",
       "system": "Injection",
-      "sixQty": 336.0,
-      "sixSales": 25920.15,
-      "threeQty": 96.0,
-      "threeSales": 8780.65,
+      "sixQty": 337.0,
+      "sixSales": 26042.05,
+      "threeQty": 97.0,
+      "threeSales": 8902.55,
       "actuals": {
         "JAN": {
           "qty": 38.0,
@@ -20988,8 +20988,8 @@
           "value": 4556.25
         },
         "SEP": {
-          "qty": 21.0,
-          "value": 2235.0
+          "qty": 22.0,
+          "value": 2356.9
         },
         "OCT": {
           "qty": 0.0,
@@ -21009,10 +21009,10 @@
       "code": "55430040071001031",
       "name": "MC-Injekt GL-95     B  0.5Kg",
       "system": "Injection",
-      "sixQty": 336.0,
-      "sixSales": 13971.95,
-      "threeQty": 96.0,
-      "threeSales": 4744.45,
+      "sixQty": 337.0,
+      "sixSales": 14033.65,
+      "threeQty": 97.0,
+      "threeSales": 4806.15,
       "actuals": {
         "JAN": {
           "qty": 38.0,
@@ -21047,8 +21047,8 @@
           "value": 2400.25
         },
         "SEP": {
-          "qty": 21.0,
-          "value": 1131.0
+          "qty": 22.0,
+          "value": 1192.7
         },
         "OCT": {
           "qty": 0.0,
@@ -21068,10 +21068,10 @@
       "code": "55430130131001",
       "name": "MC-Injekt GL-95     A3  2Kg",
       "system": "Injection",
-      "sixQty": 336.0,
-      "sixSales": 25989.6,
-      "threeQty": 96.0,
-      "threeSales": 7958.0,
+      "sixQty": 337.0,
+      "sixSales": 26092.6,
+      "threeQty": 97.0,
+      "threeSales": 8061.0,
       "actuals": {
         "JAN": {
           "qty": 38.0,
@@ -21106,8 +21106,8 @@
           "value": 3400.0
         },
         "SEP": {
-          "qty": 21.0,
-          "value": 1888.0
+          "qty": 22.0,
+          "value": 1991.0
         },
         "OCT": {
           "qty": 0.0,
