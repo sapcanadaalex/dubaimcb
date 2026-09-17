@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T23:51:43+04:00",
+  "generatedAt": "2026-09-18T00:28:40+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -8090,8 +8090,8 @@
       "system": "Waterproofing Admixtures",
       "sixQty": 2468.0,
       "sixSales": 227547.312,
-      "threeQty": 318.0,
-      "threeSales": 26664.0,
+      "threeQty": 315.0,
+      "threeSales": 26304.0,
       "actuals": {
         "JAN": {
           "qty": 43.0,
@@ -8501,8 +8501,8 @@
       "code": "21100100541011031",
       "name": "Ortolan Extra 741 AE      200  L",
       "system": "Release Agents",
-      "sixQty": 20.0,
-      "sixSales": 23360.0,
+      "sixQty": 18.0,
+      "sixSales": 21680.0,
       "threeQty": 0.0,
       "threeSales": 0.0,
       "actuals": {
@@ -9032,8 +9032,8 @@
       "code": "341007003610111",
       "name": "MC-Proof \u00ae 500 Flex AE   Komp. A    15Kg",
       "system": "Mineral Waterproofing",
-      "sixQty": 4812.0,
-      "sixSales": 206171.5,
+      "sixQty": 4782.0,
+      "sixSales": 205325.5,
       "threeQty": 3126.0,
       "threeSales": 132445.0,
       "actuals": {
@@ -9209,8 +9209,8 @@
       "code": "3410957022011001",
       "name": "MC-Proof \u00ae 500 Flex AE   Komp. B    5Kg",
       "system": "Mineral Waterproofing",
-      "sixQty": 4812.0,
-      "sixSales": 69740.5,
+      "sixQty": 4782.0,
+      "sixSales": 69458.5,
       "threeQty": 3126.0,
       "threeSales": 45165.0,
       "actuals": {
@@ -12395,8 +12395,8 @@
       "code": "50067753701010301",
       "name": "MC DUR 1150   RAL 7035  Komp A.  25.09Kg",
       "system": "Resin Flooring",
-      "sixQty": 148.0,
-      "sixSales": 44948.4815,
+      "sixQty": 144.0,
+      "sixSales": 43880.8219,
       "threeQty": 102.0,
       "threeSales": 33577.9071,
       "actuals": {
@@ -13811,8 +13811,8 @@
       "code": "50067850170101031",
       "name": "MC DUR 1150     Komp B.  3.11Kg",
       "system": "Resin Flooring",
-      "sixQty": 1685.0,
-      "sixSales": 68583.1707,
+      "sixQty": 1681.0,
+      "sixSales": 68450.8303,
       "threeQty": 871.0,
       "threeSales": 35696.5692,
       "actuals": {
@@ -14106,8 +14106,8 @@
       "code": "50200000410101",
       "name": "MC DUR 1150 VK     Komp A.  14.4L",
       "system": "Resin Flooring",
-      "sixQty": 313.0,
-      "sixSales": 88280.0,
+      "sixQty": 311.0,
+      "sixSales": 87800.0,
       "threeQty": 118.0,
       "threeSales": 34944.0,
       "actuals": {
@@ -14224,8 +14224,8 @@
       "code": "50200000450101",
       "name": "MC DUR 1150 VK     Komp B.  3.6L",
       "system": "Resin Flooring",
-      "sixQty": 313.0,
-      "sixSales": 22070.0,
+      "sixQty": 311.0,
+      "sixSales": 21950.0,
       "threeQty": 118.0,
       "threeSales": 8736.0,
       "actuals": {
@@ -18354,8 +18354,8 @@
       "code": "55250010351001031",
       "name": "MC-Injekt 2700     Komp. A  20L",
       "system": "Injection",
-      "sixQty": 16.0,
-      "sixSales": 19900.0,
+      "sixQty": 11.0,
+      "sixSales": 14100.0,
       "threeQty": 9.0,
       "threeSales": 11700.0,
       "actuals": {
@@ -18531,8 +18531,8 @@
       "code": "55250020351001031",
       "name": "MC-Injekt 2700     Komp. B  20L",
       "system": "Injection",
-      "sixQty": 16.0,
-      "sixSales": 19900.0,
+      "sixQty": 11.0,
+      "sixSales": 14100.0,
       "threeQty": 9.0,
       "threeSales": 11700.0,
       "actuals": {
@@ -20360,8 +20360,8 @@
       "code": "55370000241101031",
       "name": "MC-Injekt 2111     AE  10Kg",
       "system": "Injection",
-      "sixQty": 680.0,
-      "sixSales": 343660.0,
+      "sixQty": 675.0,
+      "sixSales": 341260.0,
       "threeQty": 344.0,
       "threeSales": 174270.0,
       "actuals": {
@@ -20480,8 +20480,8 @@
       "system": "Injection",
       "sixQty": 53.0,
       "sixSales": 42100.0,
-      "threeQty": 36.0,
-      "threeSales": 27800.0,
+      "threeQty": 28.0,
+      "threeSales": 21400.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -25434,8 +25434,8 @@
       "code": "99970162191001",
       "name": "MC-Rep 3000       5Kg",
       "system": "Resin Flooring",
-      "sixQty": 2803.0,
-      "sixSales": 223575.0,
+      "sixQty": 2798.0,
+      "sixSales": 223200.0,
       "threeQty": 1622.0,
       "threeSales": 129835.0,
       "actuals": {
@@ -25613,8 +25613,8 @@
       "system": "Grouts",
       "sixQty": 93.0,
       "sixSales": 1488.0,
-      "threeQty": 39.0,
-      "threeSales": 624.0,
+      "threeQty": 30.0,
+      "threeSales": 480.0,
       "actuals": {
         "JAN": {
           "qty": 0.0,
@@ -26260,8 +26260,8 @@
       "code": "99970700351001032",
       "name": "Emcefix    PR   20Kg",
       "system": "Concrete Cosmetics and Design",
-      "sixQty": 722.0,
-      "sixSales": 12473.0,
+      "sixQty": 572.0,
+      "sixSales": 10298.0,
       "threeQty": 12.0,
       "threeSales": 153.0,
       "actuals": {
@@ -32042,8 +32042,8 @@
       "code": "99980753421001031",
       "name": "MC-Proof 988   Black    20L",
       "system": "Dispersion Waterproofing",
-      "sixQty": 78.0,
-      "sixSales": 33170.0,
+      "sixQty": 77.0,
+      "sixSales": 32770.0,
       "threeQty": 52.0,
       "threeSales": 22100.0,
       "actuals": {
