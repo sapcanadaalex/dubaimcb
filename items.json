@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T08:21:43+04:00",
+  "generatedAt": "2026-09-17T08:51:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -17646,10 +17646,10 @@
       "code": "55070010240101031",
       "name": "MC-Injekt 2300 top     Komp. A  10L",
       "system": "Injection",
-      "sixQty": 252.0,
-      "sixSales": 149250.0,
-      "threeQty": 143.0,
-      "threeSales": 82600.0,
+      "sixQty": 253.0,
+      "sixSales": 149900.0,
+      "threeQty": 144.0,
+      "threeSales": 83250.0,
       "actuals": {
         "JAN": {
           "qty": 30.0,
@@ -17684,8 +17684,8 @@
           "value": 40200.0
         },
         "SEP": {
-          "qty": 18.0,
-          "value": 11000.0
+          "qty": 19.0,
+          "value": 11650.0
         },
         "OCT": {
           "qty": 0.0,
@@ -17764,10 +17764,10 @@
       "code": "55070020240101031",
       "name": "MC-Injekt 2300 top     Komp. B  10L",
       "system": "Injection",
-      "sixQty": 252.0,
-      "sixSales": 149250.0,
-      "threeQty": 143.0,
-      "threeSales": 82600.0,
+      "sixQty": 253.0,
+      "sixSales": 149900.0,
+      "threeQty": 144.0,
+      "threeSales": 83250.0,
       "actuals": {
         "JAN": {
           "qty": 30.0,
@@ -17802,8 +17802,8 @@
           "value": 40200.0
         },
         "SEP": {
-          "qty": 18.0,
-          "value": 11000.0
+          "qty": 19.0,
+          "value": 11650.0
         },
         "OCT": {
           "qty": 0.0,
@@ -19475,10 +19475,10 @@
       "code": "55310000240101031",
       "name": "MC-Injekt 2133       10L",
       "system": "Injection",
-      "sixQty": 460.0,
-      "sixSales": 244980.0,
-      "threeQty": 330.0,
-      "threeSales": 172590.0,
+      "sixQty": 461.0,
+      "sixSales": 245630.0,
+      "threeQty": 331.0,
+      "threeSales": 173240.0,
       "actuals": {
         "JAN": {
           "qty": 142.0,
@@ -19513,8 +19513,8 @@
           "value": 43350.0
         },
         "SEP": {
-          "qty": 12.0,
-          "value": 7590.0
+          "qty": 13.0,
+          "value": 8240.0
         },
         "OCT": {
           "qty": 0.0,
