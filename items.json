@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T09:51:43+04:00",
+  "generatedAt": "2026-09-18T10:21:43+04:00",
   "items": [
     {
       "code": "00745110371001031",
@@ -10684,10 +10684,10 @@
       "code": "45750730291101031",
       "name": "MC-Fast ST\u00a0AE       15Kg",
       "system": "Concrete Cosmetics and Design",
-      "sixQty": 125.0,
-      "sixSales": 17120.0,
-      "threeQty": 47.0,
-      "threeSales": 6445.0,
+      "sixQty": 130.0,
+      "sixSales": 17795.0,
+      "threeQty": 52.0,
+      "threeSales": 7120.0,
       "actuals": {
         "JAN": {
           "qty": 10.0,
@@ -10722,8 +10722,8 @@
           "value": 2255.0
         },
         "SEP": {
-          "qty": 20.0,
-          "value": 2700.0
+          "qty": 25.0,
+          "value": 3375.0
         },
         "OCT": {
           "qty": 0.0,
